@@ -1,0 +1,96 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'release/*'
+
+permissions:
+  contents: write
+
+jobs:
+  build-zip:
+    name: Build ZIP
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set build variables
+        id: buildvars
+        shell: bash
+        run: |
+          GIT_TAG="${GITHUB_REF_NAME}"
+          GIT_VER="${GIT_TAG#release/}"
+          if [[ $GIT_VER =~ ^[0-9]+\.[0-9]+\.[0-9]+-[A-Za-z0-9]+$ ]]; then
+            GH_TYPE='Release Candidate'
+          else
+            GH_TYPE='Release'
+          fi
+          echo "GIT_VER=$GIT_VER" >> $GITHUB_ENV
+          echo "GIT_TAG=$GIT_TAG" >> $GITHUB_ENV
+          echo "GH_TYPE=$GH_TYPE" >> $GITHUB_ENV
+
+      - name: Create release notes
+        run: |
+          python .github/scripts/extract-release-notes.py "${{ env.GIT_VER }}" Releases.md > Notes.md
+          sed -n '1,120p' Notes.md
+
+      - name: Create ZIP
+        shell: bash
+        run: |
+          ART="imac-ethos-caller-${{ env.GIT_VER }}.zip"
+          cd src
+          zip -r "../${ART}" imac-ethos-caller/
+          cd ..
+          echo "ARTIFACT=$ART" >> $GITHUB_ENV
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: imac-ethos-caller-${{ env.GIT_VER }}
+          path: ${{ env.ARTIFACT }}
+          if-no-files-found: error
+
+  create-release:
+    name: Create GitHub Release
+    runs-on: ubuntu-latest
+    needs: [build-zip]
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set build variables
+        id: buildvars
+        shell: bash
+        run: |
+          GIT_TAG="${GITHUB_REF_NAME}"
+          GIT_VER="${GIT_TAG#release/}"
+          if [[ $GIT_VER =~ ^[0-9]+\.[0-9]+\.[0-9]+-[A-Za-z0-9]+$ ]]; then
+            GH_TYPE='Release Candidate'
+          else
+            GH_TYPE='Release'
+          fi
+          echo "GIT_VER=$GIT_VER" >> $GITHUB_ENV
+          echo "GIT_TAG=$GIT_TAG" >> $GITHUB_ENV
+          echo "GH_TYPE=$GH_TYPE" >> $GITHUB_ENV
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: ./dist
+          merge-multiple: true
+
+      - name: Create release notes
+        run: |
+          python .github/scripts/extract-release-notes.py "${{ env.GIT_VER }}" Releases.md > Notes.md
+
+      - name: Create Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          cd dist
+          gh release create "${{ env.GIT_TAG }}" --notes-file ../Notes.md -t "IMAC Ethos Caller - ${{ env.GH_TYPE }} ${{ env.GIT_VER }}" *.zip

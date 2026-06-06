@@ -1,0 +1,38 @@
+name: Build ZIP on Push
+
+on:
+  push:
+    branches:
+      - 'main'
+      - 'master'
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set build variables
+        id: buildvars
+        shell: bash
+        run: |
+          SHORT_SHA="${GITHUB_SHA::7}"
+          echo "GIT_VER=commit-${SHORT_SHA}" >> $GITHUB_ENV
+
+      - name: Create ZIP
+        shell: bash
+        run: |
+          ART="imac-ethos-caller-${{ env.GIT_VER }}.zip"
+          cd src
+          zip -r "../${ART}" imac-ethos-caller/
+          cd ..
+          echo "ARTIFACT=$ART" >> $GITHUB_ENV
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: imac-ethos-caller-${{ env.GIT_VER }}
+          path: ${{ env.ARTIFACT }}
+          if-no-files-found: error

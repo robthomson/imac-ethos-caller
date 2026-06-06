@@ -1,0 +1,34 @@
+name: Build ZIP on PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set build variables
+        run: |
+          PR_NUMBER='${{ github.event.pull_request.number }}'
+          echo "GIT_VER=PR-${PR_NUMBER}" >> $GITHUB_ENV
+
+      - name: Create ZIP
+        shell: bash
+        run: |
+          ART="imac-ethos-caller-${{ env.GIT_VER }}.zip"
+          cd src
+          zip -r "../${ART}" imac-ethos-caller/
+          cd ..
+          echo "ARTIFACT=$ART" >> $GITHUB_ENV
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: imac-ethos-caller-${{ env.GIT_VER }}
+          path: ${{ env.ARTIFACT }}
+          if-no-files-found: error

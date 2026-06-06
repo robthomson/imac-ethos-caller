@@ -1,0 +1,6 @@
+*~
+**/.DS_Store
+simulators/*
+*.pyc
+.claude
+.vscode/settings.json
