@@ -1,28 +1,28 @@
-local SOUNDS = "/scripts/imac-ethos-caller/seasons/"
+local BASE   = "SCRIPTS:/imac-ethos-caller/"
+local SOUNDS = BASE .. "seasons/"
 
 local function loadYear(name)
-    local chunk = loadfile("SCRIPTS:/imac-ethos-caller/seasons/" .. name .. "/sequences.lua")
+    local chunk = loadfile(SOUNDS .. name .. "/sequences.lua")
     return chunk and chunk() or nil
 end
 
--- To add a new season: create sequences/<year>.lua and add a loadYear line below.
-local YEARS = {
-    loadYear("2026"),
-}
-
--- Flat list of all year+class combinations, built once at load time.
--- Stored as seqIdx in widget state so the configure choice field is simple and reactive.
-local SEQUENCES = {}
-local SEQ_CHOICES = {}
-for _, yr in ipairs(YEARS) do
-    for _, cls in ipairs(yr.classes) do
-        SEQUENCES[#SEQUENCES + 1] = {year = yr.year, cls = cls}
-        SEQ_CHOICES[#SEQ_CHOICES + 1] = {yr.year .. "  " .. cls.name, #SEQUENCES}
+-- Auto-discover season folders (any 4-digit year directory under seasons/).
+local YEARS = {}
+local entries = system.listFiles(SOUNDS)
+if entries then
+    table.sort(entries)
+    for _, entry in ipairs(entries) do
+        if entry:match("^%d%d%d%d$") then
+            local yr = loadYear(entry)
+            if yr then YEARS[#YEARS + 1] = yr end
+        end
     end
 end
 
 local function currentSeq(widget)
-    return SEQUENCES[widget.seqIdx] or SEQUENCES[1]
+    local yr  = YEARS[widget.yearIdx] or YEARS[1]
+    local cls = yr.classes[widget.classIdx] or yr.classes[1]
+    return {year = yr.year, cls = cls}
 end
 
 local function name(widget)
@@ -31,7 +31,8 @@ end
 
 local function create()
     return {
-        seqIdx     = 1,
+        yearIdx    = 1,
+        classIdx   = 1,
         mnvrIdx    = 0,
         trigSwitch = system.getSource({category=CATEGORY_SWITCH_POSITION, member=23}),
         rstSwitch  = system.getSource({category=CATEGORY_SWITCH_POSITION, member=29}),
@@ -122,10 +123,37 @@ local function wakeup(widget)
 end
 
 local function configure(widget)
-    local line = form.addLine("Routine")
-    form.addChoiceField(line, nil, SEQ_CHOICES,
-        function() return widget.seqIdx end,
-        function(v) widget.seqIdx = v; widget.mnvrIdx = 0 end)
+    local yearChoices = {}
+    for i, yr in ipairs(YEARS) do
+        yearChoices[i] = {yr.year, i}
+    end
+
+    local classField
+    local line = form.addLine("Year")
+    form.addChoiceField(line, nil, yearChoices,
+        function() return widget.yearIdx end,
+        function(v)
+            widget.yearIdx  = v
+            widget.classIdx = 1
+            widget.mnvrIdx  = 0
+            if classField then
+                local choices = {}
+                for i, cls in ipairs(YEARS[v].classes) do
+                    choices[i] = {cls.name, i}
+                end
+                classField:values(choices)
+            end
+        end)
+
+    local yr = YEARS[widget.yearIdx] or YEARS[1]
+    local classChoices = {}
+    for i, cls in ipairs(yr.classes) do
+        classChoices[i] = {cls.name, i}
+    end
+    line = form.addLine("Routine")
+    classField = form.addChoiceField(line, nil, classChoices,
+        function() return widget.classIdx end,
+        function(v) widget.classIdx = v; widget.mnvrIdx = 0 end)
 
     line = form.addLine("Trigger Switch")
     form.addSwitchField(line, form.getFieldSlots(line)[0],
@@ -144,14 +172,16 @@ local function configure(widget)
 end
 
 local function read(widget)
-    widget.seqIdx    = storage.read("seqIdx")    or widget.seqIdx
+    widget.yearIdx    = storage.read("yearIdx")   or widget.yearIdx
+    widget.classIdx   = storage.read("classIdx")  or widget.classIdx
     widget.trigSwitch = storage.read("trigSwitch") or widget.trigSwitch
     widget.rstSwitch  = storage.read("rstSwitch")  or widget.rstSwitch
     widget.repSwitch  = storage.read("repSwitch")  or widget.repSwitch
 end
 
 local function write(widget)
-    storage.write("seqIdx",    widget.seqIdx)
+    storage.write("yearIdx",   widget.yearIdx)
+    storage.write("classIdx",  widget.classIdx)
     storage.write("trigSwitch", widget.trigSwitch)
     storage.write("rstSwitch",  widget.rstSwitch)
     storage.write("repSwitch",  widget.repSwitch)

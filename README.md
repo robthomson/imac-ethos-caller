@@ -50,35 +50,42 @@ Google Cloud Application Default Credentials must be configured (run `gcloud aut
 bin\generate-sounds.cmd
 ```
 
-This scans all `soundlist.csv` files under `src/imac-ethos-caller/sounds/` and generates any missing WAV files. To regenerate everything: delete the WAV files first, then run again.
-
-Each class has a `soundlist.csv` with rows in the form `filename,text`. Edit these files to change what is spoken, then regenerate.
+This scans all `soundlist.csv` files under `src/imac-ethos-caller/seasons/` and generates any missing WAV files. To regenerate everything: delete the WAV files first, then run again.
 
 ## Adding a New Year
 
-1. Create `src/imac-ethos-caller/seasons/<year>/` with a `sequences.lua` and one subfolder per class, following the structure of [seasons/2026/](src/imac-ethos-caller/seasons/2026/)
-2. Add a `soundlist.csv` to each class subfolder
-3. Add `loadYear("<year>")` to the `YEARS` table in [main.lua](src/imac-ethos-caller/main.lua)
-4. Run `bin\generate-sounds.cmd` to produce the WAV files
+The `seasons/` folder at the repo root is the editing surface — nothing in it is deployed to the radio.
+
+1. Create `seasons/<year>.json` following the structure of [seasons/2026.json](seasons/2026.json)
+2. Run `bin\generate-season.cmd` — this writes `sequences.lua` and all `soundlist.csv` files into `src/`
+3. Run `bin\generate-sounds.cmd` to produce the WAV files
+
+The widget auto-discovers year folders at runtime — no code changes needed.
+
+Never edit `sequences.lua` or `soundlist.csv` directly — they are generated from the JSON and will be overwritten.
 
 ## Project Structure
 
 ```
-src/imac-ethos-caller/
+seasons/                            # Editing surface — not deployed
+└── 2026.json                       # Single source of truth for labels, TTS, and structure
+
+src/imac-ethos-caller/             # Deployed to radio
 ├── main.lua                        # Widget entry point
 └── seasons/
     └── 2026/
-        ├── sequences.lua           # Sequence data for all 8 classes
+        ├── sequences.lua           # Generated from JSON
         ├── basic/
-        │   ├── soundlist.csv       # Text-to-speech source list
-        │   ├── rst.wav             # Reset announcement
+        │   ├── soundlist.csv       # Generated from JSON
+        │   ├── rst.wav
         │   └── mnvr01.wav ... mnvr10.wav
         ├── sport/ ...
-        ├── inter/ ...
         └── ...
 
 bin/
-├── generate-sounds.py              # Sound generation script
+├── generate-season.py              # JSON → sequences.lua + soundlist.csv files
+├── generate-season.cmd             # Windows wrapper
+├── generate-sounds.py              # soundlist.csv → WAV files via Google TTS
 └── generate-sounds.cmd             # Windows wrapper (runs --only-missing)
 ```
 
