@@ -1,7 +1,7 @@
-local SOUNDS = "/scripts/imac-ethos-caller/sounds/"
+local SOUNDS = "/scripts/imac-ethos-caller/seasons/"
 
 local function loadYear(name)
-    local chunk = loadfile("SCRIPTS:/imac-ethos-caller/sequences/" .. name .. ".lua")
+    local chunk = loadfile("SCRIPTS:/imac-ethos-caller/seasons/" .. name .. "/sequences.lua")
     return chunk and chunk() or nil
 end
 

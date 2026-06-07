@@ -2,7 +2,7 @@
 """
 Generate Ethos-compatible WAV files for imac-ethos-caller from soundlist CSVs.
 
-Scans src/imac-ethos-caller/sounds/ for all soundlist.csv files, then calls
+Scans src/imac-ethos-caller/seasons/ for all soundlist.csv files, then calls
 Google Cloud Text-to-Speech to produce 16 kHz mono A-law WAV files.
 
 Requires:
@@ -13,7 +13,7 @@ Usage:
     python generate-sounds.py
     python generate-sounds.py --only-missing
     python generate-sounds.py --voice en-US-Wavenet-F --speed 0.9
-    python generate-sounds.py --csv sounds/2026/basic/soundlist.csv
+    python generate-sounds.py --csv seasons/2026/basic/soundlist.csv
 """
 
 import argparse
@@ -37,7 +37,7 @@ except ImportError:
     sys.exit(1)
 
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "src", "imac-ethos-caller", "sounds"))
+DEFAULT_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "src", "imac-ethos-caller", "seasons"))
 DEFAULT_VOICE = "en-GB-Neural2-A"
 
 

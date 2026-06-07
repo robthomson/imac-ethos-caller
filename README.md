@@ -56,8 +56,8 @@ Each class has a `soundlist.csv` with rows in the form `filename,text`. Edit the
 
 ## Adding a New Year
 
-1. Create `src/imac-ethos-caller/sequences/<year>.lua` following the structure of [sequences/2026.lua](src/imac-ethos-caller/sequences/2026.lua)
-2. Create `src/imac-ethos-caller/sounds/<year>/<class>/soundlist.csv` for each class
+1. Create `src/imac-ethos-caller/seasons/<year>/` with a `sequences.lua` and one subfolder per class, following the structure of [seasons/2026/](src/imac-ethos-caller/seasons/2026/)
+2. Add a `soundlist.csv` to each class subfolder
 3. Add `loadYear("<year>")` to the `YEARS` table in [main.lua](src/imac-ethos-caller/main.lua)
 4. Run `bin\generate-sounds.cmd` to produce the WAV files
 
@@ -66,10 +66,9 @@ Each class has a `soundlist.csv` with rows in the form `filename,text`. Edit the
 ```
 src/imac-ethos-caller/
 ├── main.lua                        # Widget entry point
-├── sequences/
-│   └── 2026.lua                    # 2026 sequence data (all 8 classes)
-└── sounds/
+└── seasons/
     └── 2026/
+        ├── sequences.lua           # Sequence data for all 8 classes
         ├── basic/
         │   ├── soundlist.csv       # Text-to-speech source list
         │   ├── rst.wav             # Reset announcement
