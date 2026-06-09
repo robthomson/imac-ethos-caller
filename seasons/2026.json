@@ -23,16 +23,16 @@
       "name": "Sportsman",
       "reset_tts": "Sportsman sequence reset.",
       "figures": [
-        {"file": "mnvr01", "label": "Q Loop",            "tts": "Q Loop. Full roll integrated at the top."},
+        {"file": "mnvr01", "label": "Q Loop",            "tts": "Q Loop. Full roll integrated at the top. Exit on a 45 downline."},
         {"file": "mnvr02", "label": "Bow Tie",           "tts": "Bow Tie. Half roll on both 45 uplines. Exit inverted."},
-        {"file": "mnvr03", "label": "Down Humpty",       "tts": "Down Humpty. Half roll on the downline, full roll on the upline."},
+        {"file": "mnvr03", "label": "Down Humpty",       "tts": "Down Humpty. Two quarter rolls on the downline, full roll on the upline."},
         {"file": "mnvr04", "label": "Split S",           "tts": "Split S. Half roll to enter, positive snap on exit."},
         {"file": "mnvr05", "label": "Hammerhead",        "tts": "Hammerhead. Half roll on the upline, half roll on the downline."},
-        {"file": "mnvr06", "label": "Goldfish",          "tts": "Goldfish. Half roll on the 45 upline."},
-        {"file": "mnvr07", "label": "Down Humpty Bump",  "tts": "Down Humpty Bump. One and three-quarter turn positive spin on entry. Exit inverted."},
-        {"file": "mnvr08", "label": "Down Sharks Tooth", "tts": "Down Sharks Tooth. Three-quarter roll on the downline, half roll on the upline. Exit inverted."},
+        {"file": "mnvr06", "label": "Goldfish",          "tts": "Goldfish. Two quarter rolls on the 45 upline."},
+        {"file": "mnvr07", "label": "Down Humpty Bump",  "tts": "Down Humpty Bump. Three-quarter positive spin on entry. Exit inverted."},
+        {"file": "mnvr08", "label": "Down Sharks Tooth", "tts": "Down Sharks Tooth. Three-quarter roll on the downline, two quarter rolls on the upline. Exit inverted."},
         {"file": "mnvr09", "label": "180 Inverted Turn", "tts": "180 Degree Inverted Aerobatic Turn."},
-        {"file": "mnvr10", "label": "Down Fig N",        "tts": "Down Fig N. Half roll on the 45 upline."}
+        {"file": "mnvr10", "label": "Down Fig N",        "tts": "Down Fig N. Two rolls on the 45 upline."}
       ]
     },
     {
