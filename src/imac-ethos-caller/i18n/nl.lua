@@ -1,0 +1,14 @@
+return {
+    year           = "Jaar",
+    routine        = "Programma",
+    trigger_switch = "Trigger-schakelaar",
+    repeat_switch  = "Herhaal-schakelaar",
+    reset_switch   = "Reset-schakelaar",
+    ready          = "Gereed",
+    language       = "Taal",
+    lang_auto      = "Auto",
+    lang_en        = "English",
+    lang_fr        = "Français",
+    lang_de        = "Deutsch",
+    lang_nl        = "Nederlands",
+}

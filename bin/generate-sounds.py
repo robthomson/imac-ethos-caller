@@ -38,7 +38,25 @@ except ImportError:
 
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "src", "imac-ethos-caller", "seasons"))
-DEFAULT_VOICE = "en-GB-Neural2-A"
+
+# Voice used per locale when --voice is not given. Locale is derived from the
+# soundlist.csv's parent directory name (e.g. seasons/2026/basic/fr/soundlist.csv
+# -> "fr"); class-level CSVs (e.g. seasons/2026/basic/soundlist.csv) fall back to "en".
+# NOTE: double-check these voice names against the current Google Cloud TTS voice
+# list before first use of a new locale.
+LOCALE_VOICES = {
+    "en": "en-GB-Neural2-A",
+    "fr": "fr-FR-Neural2-A",
+    "de": "de-DE-Neural2-C",
+    "nl": "nl-NL-Wavenet-A",
+}
+DEFAULT_VOICE = LOCALE_VOICES["en"]
+
+
+def voice_for_csv(csv_path):
+    """Pick a voice name based on the locale subfolder a soundlist.csv lives in."""
+    locale = os.path.basename(os.path.dirname(csv_path))
+    return LOCALE_VOICES.get(locale, LOCALE_VOICES["en"])
 
 
 def load_csv(csv_path):
@@ -74,12 +92,8 @@ def to_alaw_wav(tts_bytes, dest_path, speed):
         tfm.build(raw, dest_path, extra_args=extra)
 
 
-def generate(sounds_root, voice_name, speed, only_missing, csv_filter=None):
+def generate(sounds_root, voice_override, speed, only_missing, csv_filter=None):
     client = texttospeech.TextToSpeechClient()
-    voice  = texttospeech.VoiceSelectionParams(
-        language_code="-".join(voice_name.split("-")[:2]),
-        name=voice_name,
-    )
     audio_cfg = texttospeech.AudioConfig(
         audio_encoding=texttospeech.AudioEncoding.LINEAR16,
         sample_rate_hertz=16000,
@@ -94,7 +108,12 @@ def generate(sounds_root, voice_name, speed, only_missing, csv_filter=None):
     generated = skipped = 0
 
     for csv_path in csvs:
-        print(f"\n--- {os.path.relpath(csv_path, sounds_root)} ---")
+        voice_name = voice_override or voice_for_csv(csv_path)
+        voice = texttospeech.VoiceSelectionParams(
+            language_code="-".join(voice_name.split("-")[:2]),
+            name=voice_name,
+        )
+        print(f"\n--- {os.path.relpath(csv_path, sounds_root)}  (voice: {voice_name}) ---")
         for filename, text in load_csv(csv_path):
             dest = os.path.join(sounds_root, filename)
             if only_missing and os.path.exists(dest):
@@ -118,8 +137,10 @@ def main():
     parser = argparse.ArgumentParser(description="Generate IMAC Ethos Caller sound files via Google TTS")
     parser.add_argument("--sounds-dir",   default=DEFAULT_ROOT,
                         help=f"Root sounds directory (default: {DEFAULT_ROOT})")
-    parser.add_argument("--voice",        default=DEFAULT_VOICE,
-                        help=f"Google TTS voice name (default: {DEFAULT_VOICE})")
+    parser.add_argument("--voice",        default=None,
+                        help="Google TTS voice name. If omitted, the voice is chosen "
+                             f"per CSV from LOCALE_VOICES based on its locale subfolder "
+                             f"(default for 'en'/class-level CSVs: {DEFAULT_VOICE})")
     parser.add_argument("--speed",        type=float, default=1.0,
                         help="Speaking rate multiplier (default: 1.0)")
     parser.add_argument("--only-missing", action="store_true",

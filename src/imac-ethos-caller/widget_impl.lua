@@ -1,6 +1,14 @@
 local BASE   = "SCRIPTS:/imac-ethos-caller/"
 local SOUNDS = BASE .. "seasons/"
 
+local i18n = loadfile(BASE .. "i18n/i18n.lua")()
+
+local function effectiveLang(widget)
+    local lang = widget.lang or "auto"
+    if lang ~= "auto" then return lang end
+    return i18n.resolveLocale(system.getLocale())
+end
+
 local function loadYear(name)
     local chunk = loadfile(SOUNDS .. name .. "/sequences.lua")
     return chunk and chunk() or nil
@@ -24,17 +32,26 @@ local function currentSeq(widget)
     return {year = yr.year, cls = cls}
 end
 
+local function audioPath(widget, year, clsKey, file)
+    local lang = effectiveLang(widget)
+    if lang ~= "en" then
+        local localized = SOUNDS .. year .. "/" .. clsKey .. "/" .. lang .. "/" .. file .. ".wav"
+        if os.stat(localized) then return localized end
+    end
+    return SOUNDS .. year .. "/" .. clsKey .. "/en/" .. file .. ".wav"
+end
+
 local function playMnvr(widget, idx)
     local s = currentSeq(widget)
     if idx >= 1 and idx <= #s.cls.seq then
-        system.playFile(SOUNDS .. s.year .. "/" .. s.cls.key .. "/" .. s.cls.seq[idx].file .. ".wav")
+        system.playFile(audioPath(widget, s.year, s.cls.key, s.cls.seq[idx].file))
     end
 end
 
 local function resetSeq(widget)
     local s = currentSeq(widget)
     widget.mnvrIdx = 0
-    system.playFile(SOUNDS .. s.year .. "/" .. s.cls.key .. "/rst.wav")
+    system.playFile(audioPath(widget, s.year, s.cls.key, "rst"))
     lcd.invalidate()
 end
 
@@ -72,7 +89,7 @@ local function paint(widget)
             widget.mnvrIdx .. " / " .. total, CENTERED)
         lcd.drawText(bx + bw / 2, by + bh * 0.70, m.label, CENTERED)
     else
-        lcd.drawText(bx + bw / 2, by + bh * 0.45, "Ready", CENTERED)
+        lcd.drawText(bx + bw / 2, by + bh * 0.45, i18n.translate(effectiveLang(widget), "ready"), CENTERED)
     end
 end
 
@@ -104,13 +121,16 @@ local function wakeup(widget)
 end
 
 local function configure(widget)
+    local lang = effectiveLang(widget)
+    local t = function(key) return i18n.translate(lang, key) end
+
     local yearChoices = {}
     for i, yr in ipairs(YEARS) do
         yearChoices[i] = {yr.year, i}
     end
 
     local classField
-    local line = form.addLine("Year")
+    local line = form.addLine(t("year"))
     form.addChoiceField(line, nil, yearChoices,
         function() return widget.yearIdx end,
         function(v)
@@ -131,25 +151,42 @@ local function configure(widget)
     for i, cls in ipairs(yr.classes) do
         classChoices[i] = {cls.name, i}
     end
-    line = form.addLine("Routine")
+    line = form.addLine(t("routine"))
     classField = form.addChoiceField(line, nil, classChoices,
         function() return widget.classIdx end,
         function(v) widget.classIdx = v; widget.mnvrIdx = 0 end)
 
-    line = form.addLine("Trigger Switch")
+    line = form.addLine(t("trigger_switch"))
     form.addSwitchField(line, form.getFieldSlots(line)[0],
         function() return widget.trigSwitch end,
         function(v) widget.trigSwitch = v end)
 
-    line = form.addLine("Repeat Switch")
+    line = form.addLine(t("repeat_switch"))
     form.addSwitchField(line, form.getFieldSlots(line)[0],
         function() return widget.repSwitch end,
         function(v) widget.repSwitch = v end)
 
-    line = form.addLine("Reset Switch")
+    line = form.addLine(t("reset_switch"))
     form.addSwitchField(line, form.getFieldSlots(line)[0],
         function() return widget.rstSwitch end,
         function(v) widget.rstSwitch = v end)
+
+    local langCodes   = {"auto"}
+    local langChoices = {{t("lang_auto"), 1}}
+    for i, code in ipairs(i18n.SUPPORTED) do
+        langCodes[i + 1]   = code
+        langChoices[i + 1] = {t("lang_" .. code), i + 1}
+    end
+
+    line = form.addLine(t("language"))
+    form.addChoiceField(line, nil, langChoices,
+        function()
+            for i, code in ipairs(langCodes) do
+                if code == (widget.lang or "auto") then return i end
+            end
+            return 1
+        end,
+        function(v) widget.lang = langCodes[v] end)
 end
 
 local function read(widget)
@@ -158,6 +195,7 @@ local function read(widget)
     widget.trigSwitch = storage.read("trigSwitch") or widget.trigSwitch
     widget.rstSwitch  = storage.read("rstSwitch")  or widget.rstSwitch
     widget.repSwitch  = storage.read("repSwitch")  or widget.repSwitch
+    widget.lang       = storage.read("lang")       or widget.lang
 end
 
 local function write(widget)
@@ -166,6 +204,7 @@ local function write(widget)
     storage.write("trigSwitch", widget.trigSwitch)
     storage.write("rstSwitch",  widget.rstSwitch)
     storage.write("repSwitch",  widget.repSwitch)
+    storage.write("lang",       widget.lang)
 end
 
 return {

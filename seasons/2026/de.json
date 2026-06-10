@@ -1,0 +1,389 @@
+{
+  "classes": {
+    "aalt": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Fig P. Vierpunktrolle auf der Aufwärtslinie, ganze Rolle oben, positive Schnellrolle beim Ausstieg."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Half Cuban. Entgegengesetzte Dreiviertelrolle auf der 45-Grad-Aufwärtslinie, Außenlooping, halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Loop. Außenlooping-Einstieg, entgegengesetzte Dreiviertelrolle und Viertelrolle oben."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle, dann Dreiviertelrolle auf der Abwärtslinie."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "P Loop. Zwei ganze Rollen beim Einstieg, Dreiviertel-Innenlooping, Viertelrolle auf der Abwärtslinie."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Double Humpty. Halbe Rolle auf der Abwärtslinie, Außenlooping, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Half Reverse Cuban. Anderthalb negative Schnellrollen auf der Abwärtslinie, Innenlooping, halbe Rolle entgegengesetzt, dann halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Spin. Eindreiviertel Umdrehungen im Rückenflug. Viertelrolle, gezogener Ausstieg im Normalflug."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Tear Drop. Negative Dreiviertel-Schnellrolle und Viertelrolle auf der Aufwärtslinie, positive Schnellrolle unten."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "Sharks Tooth. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Halbe Rolle auf der Abwärtslinie."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Advanced-ALT-Sequenz zurückgesetzt."
+      }
+    },
+    "advan": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Fig P. Vierpunktrolle auf der Aufwärtslinie, ganze Rolle oben, positive Schnellrolle beim Ausstieg."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Half Cuban. Entgegengesetzte Dreiviertelrolle auf der 45-Grad-Aufwärtslinie, Außenlooping, halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Loop. Außenlooping-Einstieg, entgegengesetzte Dreiviertelrolle und Viertelrolle oben."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle, dann Dreiviertelrolle auf der Abwärtslinie."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "270 Degree Roller. Drei ganze Rollen innen."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Double Humpty. Halbe Rolle auf der Abwärtslinie, Außenlooping, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Half Reverse Cuban. Anderthalb negative Schnellrollen auf der Abwärtslinie, Innenlooping, halbe Rolle entgegengesetzt, dann halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Spin. Eindreiviertel Umdrehungen im Rückenflug. Viertelrolle, gezogener Ausstieg im Normalflug."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Tear Drop. Negative Dreiviertel-Schnellrolle und Viertelrolle auf der Aufwärtslinie, positive Schnellrolle unten."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "Sharks Tooth. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Halbe Rolle auf der Abwärtslinie."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Advanced-Sequenz zurückgesetzt."
+      }
+    },
+    "basic": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Loop."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Reverse Half Cuban. Halbe Rolle auf der 45-Grad-Aufwärtslinie."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Roll."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Immelmann. Halbe Rolle oben."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "45 Downline."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Hammerhead."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Humpty Bump. Halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Vertical Upline. Halbe Rolle, gedrückter Ausstieg."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Down Sharks Tooth. Positives Trudeln mit zwei Umdrehungen beim Einstieg."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "Split S. Halbe Rolle zum Einstieg."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Basic-Sequenz zurückgesetzt."
+      }
+    },
+    "ialt": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Fig N. Halbe Rolle auf der invertierten 45-Grad-Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Laydown Humpty. Ganze Rolle auf der Abwärtslinie, halbe Rolle auf der Aufwärtslinie."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Half Reverse Cuban. Gedrückter Einstieg, halbe Rolle auf der 45-Grad-Abwärtslinie, Außenlooping, entgegengesetzte Dreiviertelrolle beim Ausstieg."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Spin. Eineinhalb positive Umdrehungen. Halbe Rolle entgegengesetzt, gedrückter Ausstieg im Rückenflug."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "Hammerhead. Gedrückter Einstieg, halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie, halbe Rolle beim Ausstieg."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Q Loop. Halbe Rolle auf der Aufwärtslinie, negative Schnellrolle oben, halbe Rolle beim Ausstieg."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Double Humpty. Viertelrolle auf der Aufwärtslinie, positive Schnellrolle auf der Abwärtslinie, Viertelrolle oben. Ausstieg im Rückenflug."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Vertical Down Line. Halbe Rolle."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Reverse Laydown Humpty. Eineinhalb Rollen auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "Half Cuban. Außenlooping, halbe Rolle auf der Abwärtslinie."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Intermediate-ALT-Sequenz zurückgesetzt."
+      }
+    },
+    "inter": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Fig N. Halbe Rolle auf der invertierten 45-Grad-Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Laydown Humpty. Ganze Rolle auf der Abwärtslinie, halbe Rolle auf der Aufwärtslinie."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Half Reverse Cuban. Gedrückter Einstieg, halbe Rolle auf der 45-Grad-Abwärtslinie, Außenlooping, entgegengesetzte Dreiviertelrolle beim Ausstieg."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Spin. Eineinhalb positive Umdrehungen. Halbe Rolle entgegengesetzt, gedrückter Ausstieg im Rückenflug."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "Hammerhead. Gedrückter Einstieg, halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie, halbe Rolle beim Ausstieg."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Q Loop. Halbe Rolle auf der Aufwärtslinie, negative Schnellrolle oben, halbe Rolle beim Ausstieg."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Double Humpty. Viertelrolle auf der Aufwärtslinie, positive Schnellrolle auf der Abwärtslinie, Viertelrolle oben. Ausstieg im Rückenflug."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Vertical Down Line. Halbe Rolle."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Reverse Laydown Humpty. Eineinhalb Rollen auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "90 Degree Roller. Ganze Rolle innen. Ausstieg im Rückenflug."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Intermediate-Sequenz zurückgesetzt."
+      }
+    },
+    "sport": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Q Loop. Ganze Rolle integriert oben. Ausstieg auf einer 45-Grad-Abwärtslinie."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Bow Tie. Halbe Rolle auf beiden 45-Grad-Aufwärtslinien. Ausstieg im Rückenflug."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Down Humpty. Zwei Viertelrollen auf der Abwärtslinie, ganze Rolle auf der Aufwärtslinie."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Split S. Halbe Rolle zum Einstieg, positive Schnellrolle beim Ausstieg."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Goldfish. Zwei Viertelrollen auf der 45-Grad-Aufwärtslinie."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Down Humpty Bump. Positives Trudeln mit drei Vierteln einer Umdrehung beim Einstieg. Ausstieg im Rückenflug."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Down Sharks Tooth. Dreiviertelrolle auf der Abwärtslinie, zwei Viertelrollen auf der Aufwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "180 Degree Inverted Aerobatic Turn."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "Down Fig N. Zwei Rollen auf der 45-Grad-Aufwärtslinie."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Sportsman-Sequenz zurückgesetzt."
+      }
+    },
+    "ualt": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Laydown S. Halbe Rolle beim Einstieg, Außenlooping, negative Dreiviertel-Schnellrolle und Viertelrolle auf der 45-Grad-Linie, Innenlooping, Vierpunktrolle beim Ausstieg."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Hammerhead. Dreiviertelrolle, entgegengesetzte positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Reverse Laydown Humpty. Eineinhalb positive Schnellrollen, entgegengesetzt eineinhalb Rollen auf der Aufwärtslinie. Außenlooping, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Immelmann. Eindreiviertel Rollen, entgegengesetzt positive Dreiviertel-Schnellrolle beim Einstieg. Außenlooping. Ganze Rolle entgegengesetzt, ganze Rolle beim Ausstieg."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "Down Loop. Außenlooping, entgegengesetzte Dreiviertelrolle, eindreiviertel positive Schnellrollen unten."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Spin. Eineinhalb positive Umdrehungen. Entgegengesetzt eindreiviertel negative Schnellrollen. Ausstieg im Normalflug."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Humpty. Halbe Rolle, entgegengesetzt eineinhalb positive Schnellrollen auf der Aufwärtslinie. Eineinviertel Rollen auf der Abwärtslinie."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Sharks Tooth. Dreiviertelrolle, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Dreiviertelrolle, entgegengesetzte Dreiviertelrolle auf der Abwärtslinie."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Tear Drop. Viertelrolle, entgegengesetzt eineinviertel Rollen auf der Aufwärtslinie, Innenlooping. Ganze Rolle, entgegengesetzt negative Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "Half Reverse Cuban. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Innenlooping. Eindreiviertel positive Schnellrollen, entgegengesetzte Dreiviertelrolle beim Ausstieg."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Unlimited-ALT-Sequenz zurückgesetzt."
+      }
+    },
+    "unlim": {
+      "figures": {
+        "mnvr01": {
+          "needs_translation": false,
+          "text": "Laydown S. Halbe Rolle beim Einstieg, Außenlooping, negative Dreiviertel-Schnellrolle und Viertelrolle auf der 45-Grad-Linie, Innenlooping, Vierpunktrolle beim Ausstieg."
+        },
+        "mnvr02": {
+          "needs_translation": false,
+          "text": "Hammerhead. Dreiviertelrolle, entgegengesetzte positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr03": {
+          "needs_translation": false,
+          "text": "Reverse Laydown Humpty. Eineinhalb positive Schnellrollen, entgegengesetzt eineinhalb Rollen auf der Aufwärtslinie. Außenlooping, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr04": {
+          "needs_translation": false,
+          "text": "Immelmann. Eindreiviertel Rollen, entgegengesetzt positive Dreiviertel-Schnellrolle beim Einstieg. Außenlooping. Ganze Rolle entgegengesetzt, ganze Rolle beim Ausstieg."
+        },
+        "mnvr05": {
+          "needs_translation": false,
+          "text": "Down Loop. Außenlooping, entgegengesetzte Dreiviertelrolle, eindreiviertel positive Schnellrollen unten."
+        },
+        "mnvr06": {
+          "needs_translation": false,
+          "text": "Spin. Eineinhalb positive Umdrehungen. Entgegengesetzt eindreiviertel negative Schnellrollen. Ausstieg im Normalflug."
+        },
+        "mnvr07": {
+          "needs_translation": false,
+          "text": "Humpty. Halbe Rolle, entgegengesetzt eineinhalb positive Schnellrollen auf der Aufwärtslinie. Eineinviertel Rollen auf der Abwärtslinie."
+        },
+        "mnvr08": {
+          "needs_translation": false,
+          "text": "Sharks Tooth. Dreiviertelrolle, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Dreiviertelrolle, entgegengesetzte Dreiviertelrolle auf der Abwärtslinie."
+        },
+        "mnvr09": {
+          "needs_translation": false,
+          "text": "Tear Drop. Viertelrolle, entgegengesetzt eineinviertel Rollen auf der Aufwärtslinie, Innenlooping. Ganze Rolle, entgegengesetzt negative Dreiviertel-Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+        },
+        "mnvr10": {
+          "needs_translation": false,
+          "text": "270 Degree Roller. Ganze Rolle innen, halbe Rolle außen."
+        }
+      },
+      "reset_tts": {
+        "needs_translation": false,
+        "text": "Unlimited-Sequenz zurückgesetzt."
+      }
+    }
+  },
+  "year": "2026"
+}

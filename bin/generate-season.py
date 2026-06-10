@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 """
-Generate sequences.lua and soundlist.csv files from a seasons/<year>.json source.
+Generate sequences.lua and soundlist.csv files from a seasons/<year>/en.json source.
 
-Reads:   seasons/<year>.json                  (repo root, not deployed)
+Reads:   seasons/<year>/en.json                (repo root, not deployed)
+         seasons/<year>/<locale>.json          (per-locale TTS overlay, optional)
 Writes:  src/imac-ethos-caller/seasons/<year>/sequences.lua
-         src/imac-ethos-caller/seasons/<year>/<class>/soundlist.csv
+         src/imac-ethos-caller/seasons/<year>/<class>/en/soundlist.csv
+         src/imac-ethos-caller/seasons/<year>/<class>/<locale>/soundlist.csv
+
+For each locale overlay file that exists, only entries with
+"needs_translation": false are written to the locale soundlist, so
+generate-sounds.py never generates audio from untranslated placeholder text.
 
 Usage:
-    python generate-season.py                 # process all seasons/*.json
+    python generate-season.py                 # process all seasons/*/en.json
     python generate-season.py --year 2026     # process one year only
 """
 
@@ -21,6 +27,7 @@ SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT   = os.path.normpath(os.path.join(SCRIPT_DIR, ".."))
 SEASONS_SRC = os.path.join(REPO_ROOT, "seasons")
 SEASONS_OUT = os.path.join(REPO_ROOT, "src", "imac-ethos-caller", "seasons")
+LOCALES     = ["fr", "de", "nl"]
 
 
 def write_lua(data, out_dir):
@@ -52,19 +59,53 @@ def write_lua(data, out_dir):
 def write_csv(data, out_dir):
     year = data["year"]
     for cls in data["classes"]:
-        cls_dir = os.path.join(out_dir, cls["key"])
+        cls_dir = os.path.join(out_dir, cls["key"], "en")
         os.makedirs(cls_dir, exist_ok=True)
         path = os.path.join(cls_dir, "soundlist.csv")
         with open(path, "w", encoding="utf-8", newline="") as f:
             writer = csv.writer(f)
             writer.writerow(["filename", "text"])
-            writer.writerow([f"{year}/{cls['key']}/rst.wav", cls["reset_tts"]])
+            writer.writerow([f"{year}/{cls['key']}/en/rst.wav", cls["reset_tts"]])
             for fig in cls["figures"]:
-                writer.writerow([f"{year}/{cls['key']}/{fig['file']}.wav", fig["tts"]])
+                writer.writerow([f"{year}/{cls['key']}/en/{fig['file']}.wav", fig["tts"]])
         print(f"  wrote {os.path.relpath(path, REPO_ROOT)}")
 
 
+def write_locale_csv(year, locale, overlay, out_dir):
+    for cls_key, cls_data in overlay.get("classes", {}).items():
+        rows = []
+        reset_tts = cls_data.get("reset_tts")
+        if reset_tts and not reset_tts.get("needs_translation", True):
+            rows.append([f"{year}/{cls_key}/{locale}/rst.wav", reset_tts["text"]])
+        for file, fig in cls_data.get("figures", {}).items():
+            if not fig.get("needs_translation", True):
+                rows.append([f"{year}/{cls_key}/{locale}/{file}.wav", fig["text"]])
+
+        if not rows:
+            continue
+
+        cls_dir = os.path.join(out_dir, cls_key, locale)
+        os.makedirs(cls_dir, exist_ok=True)
+        path = os.path.join(cls_dir, "soundlist.csv")
+        with open(path, "w", encoding="utf-8", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow(["filename", "text"])
+            writer.writerows(rows)
+        print(f"  wrote {os.path.relpath(path, REPO_ROOT)}")
+
+
+def process_locales(year, year_src_dir, out_dir):
+    for locale in LOCALES:
+        overlay_path = os.path.join(year_src_dir, f"{locale}.json")
+        if not os.path.exists(overlay_path):
+            continue
+        with open(overlay_path, encoding="utf-8") as f:
+            overlay = json.load(f)
+        write_locale_csv(year, locale, overlay, out_dir)
+
+
 def process_year(json_path):
+    year_src_dir = os.path.dirname(json_path)
     with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
     year = data["year"]
@@ -72,6 +113,7 @@ def process_year(json_path):
     out_dir = os.path.join(SEASONS_OUT, year)
     write_lua(data, out_dir)
     write_csv(data, out_dir)
+    process_locales(year, year_src_dir, out_dir)
 
 
 def main():
@@ -80,15 +122,15 @@ def main():
     args = parser.parse_args()
 
     if args.year:
-        json_path = os.path.join(SEASONS_SRC, f"{args.year}.json")
+        json_path = os.path.join(SEASONS_SRC, args.year, "en.json")
         if not os.path.exists(json_path):
             print(f"ERROR: not found: {json_path}")
             return 1
         process_year(json_path)
     else:
-        paths = sorted(glob.glob(os.path.join(SEASONS_SRC, "*.json")))
+        paths = sorted(glob.glob(os.path.join(SEASONS_SRC, "*", "en.json")))
         if not paths:
-            print(f"No .json files found under {SEASONS_SRC}")
+            print(f"No */en.json files found under {SEASONS_SRC}")
             return 1
         for p in paths:
             process_year(p)

@@ -31,6 +31,7 @@ local function create()
         trigActive = false,
         rstActive  = false,
         repActive  = false,
+        lang       = "auto",
     }
 end
 
