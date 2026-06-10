@@ -1,3 +1,7 @@
+# 1.0.2
+
+- Improve some audio files
+
 # 1.0.1
 
 - Improved memory usage
