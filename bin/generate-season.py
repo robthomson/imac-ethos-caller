@@ -5,12 +5,16 @@ Generate sequences.lua and soundlist.csv files from a seasons/<year>/en.json sou
 Reads:   seasons/<year>/en.json                (repo root, not deployed)
          seasons/<year>/<locale>.json          (per-locale TTS overlay, optional)
 Writes:  src/imac-ethos-caller/seasons/<year>/sequences.lua
-         src/imac-ethos-caller/seasons/<year>/<class>/en/soundlist.csv
-         src/imac-ethos-caller/seasons/<year>/<class>/<locale>/soundlist.csv
+         src/imac-ethos-caller/seasons/<year>/<class>/<locale>/<variant>/soundlist.csv
 
 For each locale overlay file that exists, only entries with
 "needs_translation": false are written to the locale soundlist, so
 generate-sounds.py never generates audio from untranslated placeholder text.
+
+Every locale is written under <class>/<locale>/<variant>/, one soundlist.csv
+per variant, matching the folder layout of rfsuite's sound-generator soundpacks
+(see LOCALE_VARIANTS). Locales with only one radio voice pack still get a
+"default" variant subfolder for consistency (e.g. "de/default").
 
 Usage:
     python generate-season.py                 # process all seasons/*/en.json
@@ -28,6 +32,17 @@ REPO_ROOT   = os.path.normpath(os.path.join(SCRIPT_DIR, ".."))
 SEASONS_SRC = os.path.join(REPO_ROOT, "seasons")
 SEASONS_OUT = os.path.join(REPO_ROOT, "src", "imac-ethos-caller", "seasons")
 LOCALES     = ["fr", "de", "nl"]
+
+# Voice variant folders per locale, matching the official Ethos audio pack
+# names used by rfsuite's sound-generator soundpacks (see
+# rotorflight-lua-ethos-suite/bin/sound-generator/generate-all.bat). Locales
+# with only one radio voice pack still get a "default" variant folder.
+LOCALE_VARIANTS = {
+    "en": ["us", "gb"],
+    "fr": ["femme", "homme"],
+    "de": ["default"],
+    "nl": ["default"],
+}
 
 
 def write_lua(data, out_dir):
@@ -59,39 +74,44 @@ def write_lua(data, out_dir):
 def write_csv(data, out_dir):
     year = data["year"]
     for cls in data["classes"]:
-        cls_dir = os.path.join(out_dir, cls["key"], "en")
-        os.makedirs(cls_dir, exist_ok=True)
-        path = os.path.join(cls_dir, "soundlist.csv")
-        with open(path, "w", encoding="utf-8", newline="") as f:
-            writer = csv.writer(f)
-            writer.writerow(["filename", "text"])
-            writer.writerow([f"{year}/{cls['key']}/en/rst.wav", cls["reset_tts"]])
-            for fig in cls["figures"]:
-                writer.writerow([f"{year}/{cls['key']}/en/{fig['file']}.wav", fig["tts"]])
-        print(f"  wrote {os.path.relpath(path, REPO_ROOT)}")
+        for variant in LOCALE_VARIANTS["en"]:
+            cls_dir = os.path.join(out_dir, cls["key"], "en", variant)
+            os.makedirs(cls_dir, exist_ok=True)
+            path = os.path.join(cls_dir, "soundlist.csv")
+            with open(path, "w", encoding="utf-8", newline="") as f:
+                writer = csv.writer(f)
+                writer.writerow(["filename", "text"])
+                writer.writerow([f"{year}/{cls['key']}/en/{variant}/rst.wav", cls["reset_tts"]])
+                for fig in cls["figures"]:
+                    writer.writerow([f"{year}/{cls['key']}/en/{variant}/{fig['file']}.wav", fig["tts"]])
+            print(f"  wrote {os.path.relpath(path, REPO_ROOT)}")
 
 
 def write_locale_csv(year, locale, overlay, out_dir):
+    variants = LOCALE_VARIANTS.get(locale, ["default"])
     for cls_key, cls_data in overlay.get("classes", {}).items():
-        rows = []
         reset_tts = cls_data.get("reset_tts")
-        if reset_tts and not reset_tts.get("needs_translation", True):
-            rows.append([f"{year}/{cls_key}/{locale}/rst.wav", reset_tts["text"]])
-        for file, fig in cls_data.get("figures", {}).items():
-            if not fig.get("needs_translation", True):
-                rows.append([f"{year}/{cls_key}/{locale}/{file}.wav", fig["text"]])
+        figures = cls_data.get("figures", {})
 
-        if not rows:
-            continue
+        for variant in variants:
+            rows = []
+            if reset_tts and not reset_tts.get("needs_translation", True):
+                rows.append([f"{year}/{cls_key}/{locale}/{variant}/rst.wav", reset_tts["text"]])
+            for file, fig in figures.items():
+                if not fig.get("needs_translation", True):
+                    rows.append([f"{year}/{cls_key}/{locale}/{variant}/{file}.wav", fig["text"]])
 
-        cls_dir = os.path.join(out_dir, cls_key, locale)
-        os.makedirs(cls_dir, exist_ok=True)
-        path = os.path.join(cls_dir, "soundlist.csv")
-        with open(path, "w", encoding="utf-8", newline="") as f:
-            writer = csv.writer(f)
-            writer.writerow(["filename", "text"])
-            writer.writerows(rows)
-        print(f"  wrote {os.path.relpath(path, REPO_ROOT)}")
+            if not rows:
+                continue
+
+            cls_dir = os.path.join(out_dir, cls_key, locale, variant)
+            os.makedirs(cls_dir, exist_ok=True)
+            path = os.path.join(cls_dir, "soundlist.csv")
+            with open(path, "w", encoding="utf-8", newline="") as f:
+                writer = csv.writer(f)
+                writer.writerow(["filename", "text"])
+                writer.writerows(rows)
+            print(f"  wrote {os.path.relpath(path, REPO_ROOT)}")
 
 
 def process_locales(year, year_src_dir, out_dir):

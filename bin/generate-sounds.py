@@ -39,24 +39,30 @@ except ImportError:
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "src", "imac-ethos-caller", "seasons"))
 
-# Voice used per locale when --voice is not given. Locale is derived from the
-# soundlist.csv's parent directory name (e.g. seasons/2026/basic/fr/soundlist.csv
-# -> "fr"); class-level CSVs (e.g. seasons/2026/basic/soundlist.csv) fall back to "en".
+# Voice used per locale/variant when --voice is not given. Derived from the
+# soundlist.csv's path, e.g. seasons/2026/basic/en/gb/soundlist.csv -> "en/gb",
+# seasons/2026/basic/de/default/soundlist.csv -> "de/default". Variant names
+# and voice choices match the official Ethos audio packs as used by rfsuite's
+# bin/sound-generator (see generate-all.bat).
 # NOTE: double-check these voice names against the current Google Cloud TTS voice
 # list before first use of a new locale.
 LOCALE_VOICES = {
-    "en": "en-GB-Neural2-A",
-    "fr": "fr-FR-Neural2-A",
-    "de": "de-DE-Neural2-C",
-    "nl": "nl-NL-Wavenet-A",
+    "en/gb":     "en-GB-Neural2-A",
+    "en/us":     "en-US-Wavenet-F",
+    "fr/femme":  "fr-FR-Neural2-F",
+    "fr/homme":  "fr-FR-Standard-B",
+    "de/default": "de-DE-Neural2-C",
+    "nl/default": "nl-NL-Wavenet-A",
 }
-DEFAULT_VOICE = LOCALE_VOICES["en"]
+DEFAULT_VOICE = LOCALE_VOICES["en/gb"]
 
 
 def voice_for_csv(csv_path):
-    """Pick a voice name based on the locale subfolder a soundlist.csv lives in."""
-    locale = os.path.basename(os.path.dirname(csv_path))
-    return LOCALE_VOICES.get(locale, LOCALE_VOICES["en"])
+    """Pick a voice name based on the locale/variant subfolder a soundlist.csv lives in."""
+    parent = os.path.basename(os.path.dirname(csv_path))
+    grandparent = os.path.basename(os.path.dirname(os.path.dirname(csv_path)))
+    combo = f"{grandparent}/{parent}"
+    return LOCALE_VOICES.get(combo, DEFAULT_VOICE)
 
 
 def load_csv(csv_path):

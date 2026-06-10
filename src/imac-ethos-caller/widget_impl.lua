@@ -32,13 +32,40 @@ local function currentSeq(widget)
     return {year = yr.year, cls = cls}
 end
 
+-- Voice variant folders per locale, matching the official Ethos audio pack
+-- names used by rfsuite (e.g. "en/gb", "en/us", "fr/femme", "fr/homme").
+-- Locales not listed here only ship a single "default" voice.
+local LOCALE_VARIANTS = {
+    en = {default = "gb", gb = true, us = true},
+    fr = {default = "femme", femme = true, homme = true},
+}
+
+local function audioVoiceFolder()
+    if type(system.getAudioVoice) ~= "function" then return "" end
+    local av = system.getAudioVoice() or ""
+    av = av:gsub("SD:", ""):gsub("RADIO:", ""):gsub("AUDIO:", ""):gsub("VOICE[1-4]:", ""):gsub("audio/", "")
+    if av:sub(1, 1) == "/" then av = av:sub(2) end
+    return av
+end
+
+-- Resolve which voice-pack variant folder to use for a locale, based on the
+-- radio's currently selected audio voice, falling back to that locale's
+-- default variant.
+local function resolveVariant(lang)
+    local variants = LOCALE_VARIANTS[lang]
+    if not variants then return "default" end
+    local avLang, avVariant = audioVoiceFolder():match("^([^/]+)/([^/]+)$")
+    if avLang == lang and variants[avVariant] then return avVariant end
+    return variants.default
+end
+
 local function audioPath(widget, year, clsKey, file)
     local lang = effectiveLang(widget)
     if lang ~= "en" then
-        local localized = SOUNDS .. year .. "/" .. clsKey .. "/" .. lang .. "/" .. file .. ".wav"
+        local localized = SOUNDS .. year .. "/" .. clsKey .. "/" .. lang .. "/" .. resolveVariant(lang) .. "/" .. file .. ".wav"
         if os.stat(localized) then return localized end
     end
-    return SOUNDS .. year .. "/" .. clsKey .. "/en/" .. file .. ".wav"
+    return SOUNDS .. year .. "/" .. clsKey .. "/en/" .. resolveVariant("en") .. "/" .. file .. ".wav"
 end
 
 local function playMnvr(widget, idx)

@@ -45,11 +45,19 @@ IMAC class names (Basic, Sportsman, Advanced, …) and figure/maneuver names
 standard FAI/IMAC competition terms pilots recognize from official sequence
 sheets, regardless of UI language.
 
-Spoken call-outs currently exist in English only. Translated audio for other
-languages can be added incrementally (see [Adding a New
-Year](#adding-a-new-year) and [Generating Sound Files](#generating-sound-files))
-without any further code changes — until then, all languages fall back to the
-English audio.
+Spoken call-outs are available in English, French, German, and Dutch. Any
+maneuver without translated audio falls back to the English recording — see
+[Adding Translated Audio](#adding-translated-audio) for how to add more.
+
+Audio is organized into per-locale voice-pack folders matching the official
+Ethos audio packs (the same layout used by rfsuite's sound generator):
+English ships `gb` (British, the default) and `us` voices, and French ships
+`femme` (female, the default) and `homme` (male) voices. The widget picks
+whichever variant matches the radio's currently selected audio voice
+(`system.getAudioVoice()`), falling back to that locale's default variant if
+the radio's voice isn't one of the available options. German and Dutch ship a
+single `default` voice each, since Ethos doesn't offer multiple official voice
+packs for those locales.
 
 ## Generating Sound Files
 
@@ -106,13 +114,47 @@ To translate:
 1. Edit the `text` field for a class/figure entry in `seasons/<year>/<lang>.json`
 2. Set `"needs_translation": false`
 3. Run `bin\generate-season.cmd` — this writes
-   `src/imac-ethos-caller/seasons/<year>/<class>/<lang>/soundlist.csv`, but
+   `src/imac-ethos-caller/seasons/<year>/<class>/<lang>/soundlist.csv` (or, for
+   locales with multiple voice variants, one CSV per variant — see below), but
    only for entries with `needs_translation: false`
 4. Run `bin\generate-sounds.cmd` to generate the translated WAV files
 
 Entries still flagged `needs_translation: true` are skipped — no CSV row and
 no audio is generated for them, so the widget keeps falling back to the
 English audio for those maneuvers.
+
+### Voice Variants
+
+Every locale is written under `<class>/<locale>/<variant>/`, one voice-pack
+folder per variant the radio supports (`LOCALE_VARIANTS` in
+`bin/generate-season.py`), matching the layout of rfsuite's sound-generator
+soundpacks:
+
+| Locale | Variants | Default |
+|---|---|---|
+| English | `gb`, `us` | `gb` |
+| French | `femme`, `homme` | `femme` |
+| German | `default` | `default` |
+| Dutch | `default` | `default` |
+
+English variants are generated from `seasons/<year>/en.json`; French variants
+are generated from the same `seasons/<year>/fr.json` overlay text. Each
+variant is written to its own `soundlist.csv`
+(`src/imac-ethos-caller/seasons/<year>/<class>/<locale>/<variant>/soundlist.csv`),
+with voices configured in `LOCALE_VOICES` in `bin/generate-sounds.py`:
+
+| Variant | Voice |
+|---|---|
+| `en/gb` | `en-GB-Neural2-A` |
+| `en/us` | `en-US-Wavenet-F` |
+| `fr/femme` | `fr-FR-Neural2-F` |
+| `fr/homme` | `fr-FR-Standard-B` |
+| `de/default` | `de-DE-Neural2-C` |
+| `nl/default` | `nl-NL-Wavenet-A` |
+
+At runtime, the widget picks the variant matching the radio's currently
+selected audio voice (`system.getAudioVoice()`), falling back to the locale's
+default variant.
 
 ## Project Structure
 
@@ -136,12 +178,26 @@ src/imac-ethos-caller/             # Deployed to radio
     └── 2026/
         ├── sequences.lua           # Generated from JSON
         ├── basic/
-        │   ├── en/
-        │   │   ├── soundlist.csv   # Generated from en.json
-        │   │   └── rst.wav, mnvr01.wav ... mnvr10.wav
-        │   └── fr/                 # Optional: translated audio (falls back to English if absent)
-        │       ├── soundlist.csv   # Generated from fr.json (translated entries only)
-        │       └── rst.wav, mnvr01.wav, ...
+        │   ├── en/                 # Generated from en.json
+        │   │   ├── gb/             # Default — British English voice
+        │   │   │   ├── soundlist.csv
+        │   │   │   └── rst.wav, mnvr01.wav ... mnvr10.wav
+        │   │   └── us/             # American English voice
+        │   │       ├── soundlist.csv
+        │   │       └── rst.wav, mnvr01.wav, ...
+        │   ├── fr/                 # Optional: translated audio (falls back to English if absent)
+        │   │   ├── femme/          # Default — generated from fr.json (translated entries only)
+        │   │   │   ├── soundlist.csv
+        │   │   │   └── rst.wav, mnvr01.wav, ...
+        │   │   └── homme/
+        │   │       ├── soundlist.csv
+        │   │       └── rst.wav, mnvr01.wav, ...
+        │   ├── de/                 # Single voice
+        │   │   └── default/
+        │   │       ├── soundlist.csv
+        │   │       └── rst.wav, mnvr01.wav, ...
+        │   └── nl/
+        │       └── default/
         ├── sport/ ...
         └── ...
 
@@ -149,7 +205,7 @@ bin/
 ├── generate-season.py              # JSON (+ locale overlays) → sequences.lua + soundlist.csv files
 ├── generate-season.cmd             # Windows wrapper
 ├── generate-i18n-overlay.py        # Scaffolds/updates per-locale TTS overlay files
-├── generate-sounds.py              # soundlist.csv → WAV files via Google TTS (per-locale voices)
+├── generate-sounds.py              # soundlist.csv → WAV files via Google TTS (per-locale/variant voices)
 └── generate-sounds.cmd             # Windows wrapper (runs --only-missing)
 ```
 
