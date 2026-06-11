@@ -34,7 +34,7 @@ local function currentSeq(widget)
 end
 
 -- Voice variant folders per locale, matching the official Ethos audio pack
--- names used by rfsuite (e.g. "en/gb", "en/us", "fr/femme", "fr/homme").
+-- names used by ethos (e.g. "en/gb", "en/us", "fr/femme", "fr/homme").
 -- Locales not listed here only ship a single "default" voice.
 local LOCALE_VARIANTS = {
     en = {default = "gb", gb = true, us = true},
