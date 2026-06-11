@@ -13,8 +13,11 @@ Writes:  src/imac-ethos-caller/i18n/<locale>.lua
 
 Each catalog entry's id is a "phrase ID" - a slug of its label plus a short
 hash of its English text, e.g. "loop-6c260463". The same maneuver referenced
-from multiple classes/years collapses to the same id, so its audio
-(sounds/<locale>/<variant>/<id>.wav) is only generated once and shared.
+from multiple classes/years collapses to the same id, so its audio is only
+generated once and shared. Audio files and sequences.lua use each entry's
+short "audio" id (sounds/<locale>/<variant>/<audio>.wav) instead of the full
+phrase ID, since the on-radio path (SCRIPTS:/imac-ethos-caller/sounds/...)
+must stay short.
 
 Usage:
     python generate.py                 # generate everything
@@ -90,11 +93,11 @@ def write_sequences(catalog, sequence, out_dir):
         lines.append("        {")
         lines.append(f'            key   = "{cls["key"]}",')
         lines.append(f'            name  = "{cls["name"]}",')
-        lines.append(f'            reset = "{cls["reset"]}",')
+        lines.append(f'            reset = "{catalog[cls["reset"]]["audio"]}",')
         lines.append("            seq   = {")
         for fid in cls["figures"]:
-            label = catalog[fid]["label"]
-            lines.append(f'                {{file="{fid}", label="{label}"}},')
+            entry = catalog[fid]
+            lines.append(f'                {{file="{entry["audio"]}", label="{entry["label"]}"}},')
         lines.append("            },")
         lines.append("        },")
     lines.append("    },")
@@ -140,7 +143,8 @@ def write_soundlists(catalog):
             writer = csv.writer(f)
             writer.writerow(["filename", "text"])
             for fid in sorted(entries):
-                writer.writerow([f"{locale_variant}/{fid}.wav", entries[fid]])
+                audio = catalog[fid]["audio"]
+                writer.writerow([f"{locale_variant}/{audio}.wav", entries[fid]])
         print(f"  wrote {os.path.relpath(path, REPO_ROOT)} ({len(entries)} entries)")
 
 

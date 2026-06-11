@@ -39,6 +39,16 @@ def phrase_id(label, text):
     return f"{slugify(label)}-{digest}"
 
 
+def audio_id(fid, catalog, length=6):
+    """Short, stable id used for the actual wav filename / sequences.lua
+    (on-radio audio paths must stay short - see seasons/catalog.json)."""
+    digest = hashlib.sha1(fid.encode("utf-8")).hexdigest()[:length]
+    while any(e.get("audio") == digest for e in catalog.values()):
+        length += 1
+        digest = hashlib.sha1(fid.encode("utf-8")).hexdigest()[:length]
+    return digest
+
+
 def main():
     parser = argparse.ArgumentParser(description="Add or look up a maneuver in seasons/catalog.json")
     parser.add_argument("label", help="Figure label (e.g. 'Loop'), or class key with --reset")
@@ -57,7 +67,7 @@ def main():
         print(f"{fid}  (already in catalog)")
         return 0
 
-    entry = {"label": label, "en": args.text}
+    entry = {"label": label, "en": args.text, "audio": audio_id(fid, catalog)}
     for locale in LOCALES:
         entry[locale] = {"text": args.text, "needs_translation": True}
     catalog[fid] = entry

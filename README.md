@@ -129,15 +129,20 @@ Audio is not stored per year/class. [seasons/catalog.json](seasons/catalog.json)
 is the master catalog of every maneuver and reset announcement, keyed by a
 "phrase ID" — a slug of its label plus a short hash of its English TTS text,
 e.g. `loop-6c260463` (see `bin/catalog-add.py`). `seasons/<year>/sequence.json`
-references maneuvers by phrase ID, `sequences.lua` carries that through
-(`file = "loop-6c260463"`, `reset = "reset-basic-8f5c0bd2"`), and the actual
-audio lives in a shared pool at
-`src/imac-ethos-caller/sounds/<locale>/<variant>/<phrase id>.wav`.
+references maneuvers by phrase ID.
+
+Each entry also has a short `audio` id (6 hex characters, e.g. `ceaecb`,
+derived from the phrase ID) — `sequences.lua` uses this for `file`/`reset`
+(`file = "ceaecb"`, `reset = "2f7cd5"`), and the actual audio lives in a
+shared pool at `src/imac-ethos-caller/sounds/<locale>/<variant>/<audio id>.wav`.
+The on-radio audio path (`SCRIPTS:/imac-ethos-caller/sounds/<locale>/<variant>/<audio id>.wav`)
+must stay short, so the longer, descriptive phrase ID is only used for
+editing/reference in the JSON, never for filenames.
 
 Because a maneuver's ID is derived from its label + English text, the same
 maneuver referenced from multiple classes or years collapses to the same
-phrase ID and is only generated/stored once. The catalog (`soundlist.csv` per
-locale/variant) is rebuilt from `seasons/catalog.json` every time
+phrase ID (and `audio` id) and is only generated/stored once. The catalog
+(`soundlist.csv` per locale/variant) is rebuilt from `seasons/catalog.json` every time
 `bin/generate.py` runs, so it stays complete and deduped as years are added.
 
 ### Voice Variants
@@ -203,7 +208,7 @@ src/imac-ethos-caller/             # Deployed to radio (generated, except widget
     ├── en/
     │   ├── gb/                      # Default — British English voice
     │   │   ├── soundlist.csv
-    │   │   └── loop-6c260463.wav, reset-basic-8f5c0bd2.wav, ...
+    │   │   └── ceaecb.wav, 2f7cd5.wav, ... (named by each entry's short "audio" id)
     │   └── us/                      # American English voice
     │       ├── soundlist.csv
     │       └── ...

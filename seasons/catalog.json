@@ -1,5 +1,6 @@
 {
   "180-inverted-turn-fca74fc8": {
+    "audio": "b165d2",
     "de": {
       "needs_translation": false,
       "text": "180 Degree Inverted Aerobatic Turn."
@@ -16,6 +17,7 @@
     }
   },
   "270-degree-roller-751d8c67": {
+    "audio": "85ab47",
     "de": {
       "needs_translation": false,
       "text": "270 Degree Roller. Ganze Rolle innen, halbe Rolle außen."
@@ -32,6 +34,7 @@
     }
   },
   "270-roller-711e718a": {
+    "audio": "da0cb7",
     "de": {
       "needs_translation": false,
       "text": "270 Degree Roller. Drei ganze Rollen innen."
@@ -48,6 +51,7 @@
     }
   },
   "45-downline-9fdb799f": {
+    "audio": "33df59",
     "de": {
       "needs_translation": false,
       "text": "45 Downline."
@@ -64,6 +68,7 @@
     }
   },
   "90-degree-roller-2c40ae38": {
+    "audio": "118a7f",
     "de": {
       "needs_translation": false,
       "text": "90 Degree Roller. Ganze Rolle innen. Ausstieg im Rückenflug."
@@ -80,6 +85,7 @@
     }
   },
   "bow-tie-a0d18cb9": {
+    "audio": "78b7e2",
     "de": {
       "needs_translation": false,
       "text": "Bow Tie. Halbe Rolle auf beiden 45-Grad-Aufwärtslinien. Ausstieg im Rückenflug."
@@ -96,6 +102,7 @@
     }
   },
   "double-humpty-0399fb87": {
+    "audio": "f0de7d",
     "de": {
       "needs_translation": false,
       "text": "Double Humpty. Halbe Rolle auf der Abwärtslinie, Außenlooping, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Ausstieg im Rückenflug."
@@ -112,6 +119,7 @@
     }
   },
   "double-humpty-d8156fd4": {
+    "audio": "5afbfd",
     "de": {
       "needs_translation": false,
       "text": "Double Humpty. Viertelrolle auf der Aufwärtslinie, positive Schnellrolle auf der Abwärtslinie, Viertelrolle oben. Ausstieg im Rückenflug."
@@ -128,6 +136,7 @@
     }
   },
   "down-fig-n-0f13642e": {
+    "audio": "3054df",
     "de": {
       "needs_translation": false,
       "text": "Down Fig N. Zwei Rollen auf der 45-Grad-Aufwärtslinie."
@@ -144,6 +153,7 @@
     }
   },
   "down-humpty-95e6a404": {
+    "audio": "7843ae",
     "de": {
       "needs_translation": false,
       "text": "Down Humpty. Zwei Viertelrollen auf der Abwärtslinie, ganze Rolle auf der Aufwärtslinie."
@@ -160,6 +170,7 @@
     }
   },
   "down-humpty-bump-c7629585": {
+    "audio": "ff8000",
     "de": {
       "needs_translation": false,
       "text": "Down Humpty Bump. Positives Trudeln mit drei Vierteln einer Umdrehung beim Einstieg. Ausstieg im Rückenflug."
@@ -176,6 +187,7 @@
     }
   },
   "down-loop-47ee27c9": {
+    "audio": "e14425",
     "de": {
       "needs_translation": false,
       "text": "Down Loop. Außenlooping, entgegengesetzte Dreiviertelrolle, eindreiviertel positive Schnellrollen unten."
@@ -192,6 +204,7 @@
     }
   },
   "down-sharks-tooth-964556f5": {
+    "audio": "6410d4",
     "de": {
       "needs_translation": false,
       "text": "Down Sharks Tooth. Dreiviertelrolle auf der Abwärtslinie, zwei Viertelrollen auf der Aufwärtslinie. Ausstieg im Rückenflug."
@@ -208,6 +221,7 @@
     }
   },
   "down-sharks-tooth-spin-dea81b46": {
+    "audio": "414026",
     "de": {
       "needs_translation": false,
       "text": "Down Sharks Tooth. Positives Trudeln mit zwei Umdrehungen beim Einstieg."
@@ -224,6 +238,7 @@
     }
   },
   "fig-n-bf2b0a3d": {
+    "audio": "9e2926",
     "de": {
       "needs_translation": false,
       "text": "Fig N. Halbe Rolle auf der invertierten 45-Grad-Abwärtslinie. Ausstieg im Rückenflug."
@@ -240,6 +255,7 @@
     }
   },
   "fig-p-958a6404": {
+    "audio": "2d2053",
     "de": {
       "needs_translation": false,
       "text": "Fig P. Vierpunktrolle auf der Aufwärtslinie, ganze Rolle oben, positive Schnellrolle beim Ausstieg."
@@ -256,6 +272,7 @@
     }
   },
   "goldfish-632aaaa2": {
+    "audio": "67a43e",
     "de": {
       "needs_translation": false,
       "text": "Goldfish. Zwei Viertelrollen auf der 45-Grad-Aufwärtslinie."
@@ -272,6 +289,7 @@
     }
   },
   "half-cuban-85915bfc": {
+    "audio": "881636",
     "de": {
       "needs_translation": false,
       "text": "Half Cuban. Außenlooping, halbe Rolle auf der Abwärtslinie."
@@ -288,6 +306,7 @@
     }
   },
   "half-cuban-95ebc2d7": {
+    "audio": "a69a0f",
     "de": {
       "needs_translation": false,
       "text": "Half Cuban. Entgegengesetzte Dreiviertelrolle auf der 45-Grad-Aufwärtslinie, Außenlooping, halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
@@ -304,6 +323,7 @@
     }
   },
   "half-reverse-cuban-054bb707": {
+    "audio": "4edc53",
     "de": {
       "needs_translation": false,
       "text": "Half Reverse Cuban. Gedrückter Einstieg, halbe Rolle auf der 45-Grad-Abwärtslinie, Außenlooping, entgegengesetzte Dreiviertelrolle beim Ausstieg."
@@ -320,6 +340,7 @@
     }
   },
   "half-reverse-cuban-1a7c4305": {
+    "audio": "bb63fb",
     "de": {
       "needs_translation": false,
       "text": "Half Reverse Cuban. Anderthalb negative Schnellrollen auf der Abwärtslinie, Innenlooping, halbe Rolle entgegengesetzt, dann halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
@@ -336,6 +357,7 @@
     }
   },
   "half-reverse-cuban-31ff3d3a": {
+    "audio": "75794b",
     "de": {
       "needs_translation": false,
       "text": "Half Reverse Cuban. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Innenlooping. Eindreiviertel positive Schnellrollen, entgegengesetzte Dreiviertelrolle beim Ausstieg."
@@ -352,6 +374,7 @@
     }
   },
   "hammerhead-1f1567df": {
+    "audio": "af6f8e",
     "de": {
       "needs_translation": false,
       "text": "Hammerhead. Dreiviertelrolle, entgegengesetzte positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
@@ -368,6 +391,7 @@
     }
   },
   "hammerhead-34648bf1": {
+    "audio": "460043",
     "de": {
       "needs_translation": false,
       "text": "Hammerhead."
@@ -384,6 +408,7 @@
     }
   },
   "hammerhead-4aca7f4d": {
+    "audio": "cb8782",
     "de": {
       "needs_translation": false,
       "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle, dann Dreiviertelrolle auf der Abwärtslinie."
@@ -400,6 +425,7 @@
     }
   },
   "hammerhead-91769321": {
+    "audio": "6e38a2",
     "de": {
       "needs_translation": false,
       "text": "Hammerhead. Gedrückter Einstieg, halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie, halbe Rolle beim Ausstieg."
@@ -416,6 +442,7 @@
     }
   },
   "hammerhead-f3222b9a": {
+    "audio": "ae3462",
     "de": {
       "needs_translation": false,
       "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie."
@@ -432,6 +459,7 @@
     }
   },
   "humpty-bump-49898ee5": {
+    "audio": "0e1c80",
     "de": {
       "needs_translation": false,
       "text": "Humpty Bump. Halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie."
@@ -448,6 +476,7 @@
     }
   },
   "humpty-e1786de6": {
+    "audio": "a9baf6",
     "de": {
       "needs_translation": false,
       "text": "Humpty. Halbe Rolle, entgegengesetzt eineinhalb positive Schnellrollen auf der Aufwärtslinie. Eineinviertel Rollen auf der Abwärtslinie."
@@ -464,6 +493,7 @@
     }
   },
   "immelmann-2da1159a": {
+    "audio": "df36d6",
     "de": {
       "needs_translation": false,
       "text": "Immelmann. Eindreiviertel Rollen, entgegengesetzt positive Dreiviertel-Schnellrolle beim Einstieg. Außenlooping. Ganze Rolle entgegengesetzt, ganze Rolle beim Ausstieg."
@@ -480,6 +510,7 @@
     }
   },
   "immelmann-a5bf0b3d": {
+    "audio": "5e8b19",
     "de": {
       "needs_translation": false,
       "text": "Immelmann. Halbe Rolle oben."
@@ -496,6 +527,7 @@
     }
   },
   "laydown-humpty-1c72a6c9": {
+    "audio": "e32c7d",
     "de": {
       "needs_translation": false,
       "text": "Laydown Humpty. Ganze Rolle auf der Abwärtslinie, halbe Rolle auf der Aufwärtslinie."
@@ -512,6 +544,7 @@
     }
   },
   "laydown-s-e5765e5a": {
+    "audio": "3a61a0",
     "de": {
       "needs_translation": false,
       "text": "Laydown S. Halbe Rolle beim Einstieg, Außenlooping, negative Dreiviertel-Schnellrolle und Viertelrolle auf der 45-Grad-Linie, Innenlooping, Vierpunktrolle beim Ausstieg."
@@ -528,6 +561,7 @@
     }
   },
   "loop-2c15cc05": {
+    "audio": "0a0edd",
     "de": {
       "needs_translation": false,
       "text": "Loop. Außenlooping-Einstieg, entgegengesetzte Dreiviertelrolle und Viertelrolle oben."
@@ -544,6 +578,7 @@
     }
   },
   "loop-6c260463": {
+    "audio": "ceaecb",
     "de": {
       "needs_translation": false,
       "text": "Loop."
@@ -560,6 +595,7 @@
     }
   },
   "p-loop-c6f4cf89": {
+    "audio": "ded186",
     "de": {
       "needs_translation": false,
       "text": "P Loop. Zwei ganze Rollen beim Einstieg, Dreiviertel-Innenlooping, Viertelrolle auf der Abwärtslinie."
@@ -576,6 +612,7 @@
     }
   },
   "q-loop-8fb90c0b": {
+    "audio": "f10f90",
     "de": {
       "needs_translation": false,
       "text": "Q Loop. Ganze Rolle integriert oben. Ausstieg auf einer 45-Grad-Abwärtslinie."
@@ -592,6 +629,7 @@
     }
   },
   "q-loop-cca0aa6d": {
+    "audio": "488b35",
     "de": {
       "needs_translation": false,
       "text": "Q Loop. Halbe Rolle auf der Aufwärtslinie, negative Schnellrolle oben, halbe Rolle beim Ausstieg."
@@ -608,6 +646,7 @@
     }
   },
   "reset-aalt-3c5da9f0": {
+    "audio": "699fed",
     "de": {
       "needs_translation": false,
       "text": "Advanced-ALT-Sequenz zurückgesetzt."
@@ -624,6 +663,7 @@
     }
   },
   "reset-advan-e7dc8744": {
+    "audio": "7ccc94",
     "de": {
       "needs_translation": false,
       "text": "Advanced-Sequenz zurückgesetzt."
@@ -640,6 +680,7 @@
     }
   },
   "reset-basic-8f5c0bd2": {
+    "audio": "2f7cd5",
     "de": {
       "needs_translation": false,
       "text": "Basic-Sequenz zurückgesetzt."
@@ -656,6 +697,7 @@
     }
   },
   "reset-ialt-c8982ae3": {
+    "audio": "8f43d3",
     "de": {
       "needs_translation": false,
       "text": "Intermediate-ALT-Sequenz zurückgesetzt."
@@ -672,6 +714,7 @@
     }
   },
   "reset-inter-7fef0d50": {
+    "audio": "53ec08",
     "de": {
       "needs_translation": false,
       "text": "Intermediate-Sequenz zurückgesetzt."
@@ -688,6 +731,7 @@
     }
   },
   "reset-sport-8b330e32": {
+    "audio": "4afef4",
     "de": {
       "needs_translation": false,
       "text": "Sportsman-Sequenz zurückgesetzt."
@@ -704,6 +748,7 @@
     }
   },
   "reset-ualt-c024eaab": {
+    "audio": "5aefed",
     "de": {
       "needs_translation": false,
       "text": "Unlimited-ALT-Sequenz zurückgesetzt."
@@ -720,6 +765,7 @@
     }
   },
   "reset-unlim-71fc1a67": {
+    "audio": "379bd7",
     "de": {
       "needs_translation": false,
       "text": "Unlimited-Sequenz zurückgesetzt."
@@ -736,6 +782,7 @@
     }
   },
   "reverse-half-cuban-efc78948": {
+    "audio": "9a82e1",
     "de": {
       "needs_translation": false,
       "text": "Reverse Half Cuban. Halbe Rolle auf der 45-Grad-Aufwärtslinie."
@@ -752,6 +799,7 @@
     }
   },
   "reverse-laydown-humpty-8b6a988d": {
+    "audio": "aa2c94",
     "de": {
       "needs_translation": false,
       "text": "Reverse Laydown Humpty. Eineinhalb positive Schnellrollen, entgegengesetzt eineinhalb Rollen auf der Aufwärtslinie. Außenlooping, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
@@ -768,6 +816,7 @@
     }
   },
   "reverse-laydown-humpty-9523f40a": {
+    "audio": "16e65f",
     "de": {
       "needs_translation": false,
       "text": "Reverse Laydown Humpty. Eineinhalb Rollen auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
@@ -784,6 +833,7 @@
     }
   },
   "roll-28432ff9": {
+    "audio": "e673a1",
     "de": {
       "needs_translation": false,
       "text": "Roll."
@@ -800,6 +850,7 @@
     }
   },
   "sharks-tooth-c145242c": {
+    "audio": "aa00eb",
     "de": {
       "needs_translation": false,
       "text": "Sharks Tooth. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Halbe Rolle auf der Abwärtslinie."
@@ -816,6 +867,7 @@
     }
   },
   "sharks-tooth-cfbced3a": {
+    "audio": "c6f15a",
     "de": {
       "needs_translation": false,
       "text": "Sharks Tooth. Dreiviertelrolle, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Dreiviertelrolle, entgegengesetzte Dreiviertelrolle auf der Abwärtslinie."
@@ -832,6 +884,7 @@
     }
   },
   "spin-29d9456c": {
+    "audio": "7cbea2",
     "de": {
       "needs_translation": false,
       "text": "Spin. Eineinhalb positive Umdrehungen. Entgegengesetzt eindreiviertel negative Schnellrollen. Ausstieg im Normalflug."
@@ -848,6 +901,7 @@
     }
   },
   "spin-6de9190c": {
+    "audio": "0c04fe",
     "de": {
       "needs_translation": false,
       "text": "Spin. Eineinhalb positive Umdrehungen. Halbe Rolle entgegengesetzt, gedrückter Ausstieg im Rückenflug."
@@ -864,6 +918,7 @@
     }
   },
   "spin-7bdc9e6b": {
+    "audio": "bb208c",
     "de": {
       "needs_translation": false,
       "text": "Spin. Eindreiviertel Umdrehungen im Rückenflug. Viertelrolle, gezogener Ausstieg im Normalflug."
@@ -880,6 +935,7 @@
     }
   },
   "split-s-2457d785": {
+    "audio": "20f5b2",
     "de": {
       "needs_translation": false,
       "text": "Split S. Halbe Rolle zum Einstieg."
@@ -896,6 +952,7 @@
     }
   },
   "split-s-47b40932": {
+    "audio": "4b1714",
     "de": {
       "needs_translation": false,
       "text": "Split S. Halbe Rolle zum Einstieg, positive Schnellrolle beim Ausstieg."
@@ -912,6 +969,7 @@
     }
   },
   "tear-drop-46f78217": {
+    "audio": "0a07d0",
     "de": {
       "needs_translation": false,
       "text": "Tear Drop. Negative Dreiviertel-Schnellrolle und Viertelrolle auf der Aufwärtslinie, positive Schnellrolle unten."
@@ -928,6 +986,7 @@
     }
   },
   "tear-drop-606745cb": {
+    "audio": "e4b390",
     "de": {
       "needs_translation": false,
       "text": "Tear Drop. Viertelrolle, entgegengesetzt eineinviertel Rollen auf der Aufwärtslinie, Innenlooping. Ganze Rolle, entgegengesetzt negative Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
@@ -944,6 +1003,7 @@
     }
   },
   "tear-drop-be0af6f7": {
+    "audio": "a7e703",
     "de": {
       "needs_translation": false,
       "text": "Tear Drop. Viertelrolle, entgegengesetzt eineinviertel Rollen auf der Aufwärtslinie, Innenlooping. Ganze Rolle, entgegengesetzt negative Dreiviertel-Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
@@ -960,6 +1020,7 @@
     }
   },
   "vertical-down-line-f664794d": {
+    "audio": "7bf888",
     "de": {
       "needs_translation": false,
       "text": "Vertical Down Line. Halbe Rolle."
@@ -976,6 +1037,7 @@
     }
   },
   "vertical-upline-d8766cad": {
+    "audio": "6bb17e",
     "de": {
       "needs_translation": false,
       "text": "Vertical Upline. Halbe Rolle, gedrückter Ausstieg."
