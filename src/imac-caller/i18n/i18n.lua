@@ -3,7 +3,7 @@
 -- Loads all bundled locale tables and provides lookup/fallback helpers.
 -- Modeled on the StabilizerConfig i18n pattern (system.getLocale() + per-locale table).
 
-local BASE = "SCRIPTS:/imac-ethos-caller/i18n/"
+local BASE = "SCRIPTS:/imac-caller/i18n/"
 
 local SUPPORTED = {"en", "fr", "de", "nl"}
 

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Generate Ethos-compatible WAV files for imac-ethos-caller from soundlist CSVs.
+Generate Ethos-compatible WAV files for imac-caller from soundlist CSVs.
 
-Scans src/imac-ethos-caller/sounds/ for all soundlist.csv files (one per
+Scans src/imac-caller/sounds/ for all soundlist.csv files (one per
 locale/variant, written by generate.py), then calls Google Cloud
 Text-to-Speech to produce 16 kHz mono A-law WAV files.
 
@@ -38,7 +38,7 @@ except ImportError:
     sys.exit(1)
 
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
-DEFAULT_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "src", "imac-ethos-caller", "sounds"))
+DEFAULT_ROOT = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "src", "imac-caller", "sounds"))
 
 # Voice used per locale/variant when --voice is not given. Derived from the
 # soundlist.csv's path, e.g. sounds/en/gb/soundlist.csv -> "en/gb",

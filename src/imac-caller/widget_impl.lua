@@ -1,4 +1,4 @@
-local BASE    = "SCRIPTS:/imac-ethos-caller/"
+local BASE    = "SCRIPTS:/imac-caller/"
 local SEASONS = BASE .. "seasons/"
 local SOUNDS  = BASE .. "sounds/"
 

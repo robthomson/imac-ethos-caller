@@ -1,22 +1,22 @@
 #!/usr/bin/env python3
 """
-Generate everything under src/imac-ethos-caller/ from the JSON sources at the
+Generate everything under src/imac-caller/ from the JSON sources at the
 repo root. JSON is the single editing surface; nothing under src/ is hand-edited.
 
 Reads:   i18n/strings.json                   UI chrome strings, per locale
          seasons/catalog.json                maneuver catalog: id -> label/translations
          seasons/<year>/sequence.json        per-year class/figure structure (catalog refs)
 
-Writes:  src/imac-ethos-caller/i18n/<locale>.lua
-         src/imac-ethos-caller/seasons/<year>/sequences.lua
-         src/imac-ethos-caller/sounds/<locale>/<variant>/soundlist.csv
+Writes:  src/imac-caller/i18n/<locale>.lua
+         src/imac-caller/seasons/<year>/sequences.lua
+         src/imac-caller/sounds/<locale>/<variant>/soundlist.csv
 
 Each catalog entry's id is a "phrase ID" - a slug of its label plus a short
 hash of its English text, e.g. "loop-6c260463". The same maneuver referenced
 from multiple classes/years collapses to the same id, so its audio is only
 generated once and shared. Audio files and sequences.lua use each entry's
 short "audio" id (sounds/<locale>/<variant>/<audio>.wav) instead of the full
-phrase ID, since the on-radio path (SCRIPTS:/imac-ethos-caller/sounds/...)
+phrase ID, since the on-radio path (SCRIPTS:/imac-caller/sounds/...)
 must stay short.
 
 Usage:
@@ -35,7 +35,7 @@ REPO_ROOT   = os.path.normpath(os.path.join(SCRIPT_DIR, ".."))
 SEASONS_SRC = os.path.join(REPO_ROOT, "seasons")
 I18N_SRC    = os.path.join(REPO_ROOT, "i18n", "strings.json")
 
-WIDGET_ROOT = os.path.join(REPO_ROOT, "src", "imac-ethos-caller")
+WIDGET_ROOT = os.path.join(REPO_ROOT, "src", "imac-caller")
 SEASONS_OUT = os.path.join(WIDGET_ROOT, "seasons")
 SOUNDS_OUT  = os.path.join(WIDGET_ROOT, "sounds")
 I18N_OUT    = os.path.join(WIDGET_ROOT, "i18n")
@@ -65,7 +65,7 @@ def lua_str(s):
 
 
 def write_i18n(strings):
-    """Write src/imac-ethos-caller/i18n/<locale>.lua from i18n/strings.json."""
+    """Write src/imac-caller/i18n/<locale>.lua from i18n/strings.json."""
     keys = list(strings.keys())
     pad = max(len(k) for k in keys) + 1
 
@@ -149,7 +149,7 @@ def write_soundlists(catalog):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate src/imac-ethos-caller/ from JSON sources")
+    parser = argparse.ArgumentParser(description="Generate src/imac-caller/ from JSON sources")
     parser.add_argument("--year", default=None, help="Only (re)write this year's sequences.lua (e.g. 2026)")
     args = parser.parse_args()
 
