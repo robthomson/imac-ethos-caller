@@ -1,0 +1,141 @@
+{
+  "classes": [
+    {
+      "figures": [
+        "loop-6c260463",
+        "reverse-half-cuban-efc78948",
+        "roll-28432ff9",
+        "immelmann-a5bf0b3d",
+        "45-downline-9fdb799f",
+        "hammerhead-34648bf1",
+        "humpty-bump-49898ee5",
+        "vertical-upline-d8766cad",
+        "down-sharks-tooth-spin-dea81b46",
+        "split-s-2457d785"
+      ],
+      "key": "basic",
+      "name": "Basic",
+      "reset": "reset-basic-8f5c0bd2"
+    },
+    {
+      "figures": [
+        "q-loop-8fb90c0b",
+        "bow-tie-a0d18cb9",
+        "down-humpty-95e6a404",
+        "split-s-47b40932",
+        "hammerhead-f3222b9a",
+        "goldfish-632aaaa2",
+        "down-humpty-bump-c7629585",
+        "down-sharks-tooth-964556f5",
+        "180-inverted-turn-fca74fc8",
+        "down-fig-n-0f13642e"
+      ],
+      "key": "sport",
+      "name": "Sportsman",
+      "reset": "reset-sport-8b330e32"
+    },
+    {
+      "figures": [
+        "fig-n-bf2b0a3d",
+        "laydown-humpty-1c72a6c9",
+        "half-reverse-cuban-054bb707",
+        "spin-6de9190c",
+        "hammerhead-91769321",
+        "q-loop-cca0aa6d",
+        "double-humpty-d8156fd4",
+        "vertical-down-line-f664794d",
+        "reverse-laydown-humpty-9523f40a",
+        "90-degree-roller-2c40ae38"
+      ],
+      "key": "inter",
+      "name": "Intermediate",
+      "reset": "reset-inter-7fef0d50"
+    },
+    {
+      "figures": [
+        "fig-n-bf2b0a3d",
+        "laydown-humpty-1c72a6c9",
+        "half-reverse-cuban-054bb707",
+        "spin-6de9190c",
+        "hammerhead-91769321",
+        "q-loop-cca0aa6d",
+        "double-humpty-d8156fd4",
+        "vertical-down-line-f664794d",
+        "reverse-laydown-humpty-9523f40a",
+        "half-cuban-85915bfc"
+      ],
+      "key": "ialt",
+      "name": "Intermediate ALT",
+      "reset": "reset-ialt-c8982ae3"
+    },
+    {
+      "figures": [
+        "fig-p-958a6404",
+        "half-cuban-95ebc2d7",
+        "loop-2c15cc05",
+        "hammerhead-4aca7f4d",
+        "270-roller-711e718a",
+        "double-humpty-0399fb87",
+        "half-reverse-cuban-1a7c4305",
+        "spin-7bdc9e6b",
+        "tear-drop-46f78217",
+        "sharks-tooth-c145242c"
+      ],
+      "key": "advan",
+      "name": "Advanced",
+      "reset": "reset-advan-e7dc8744"
+    },
+    {
+      "figures": [
+        "fig-p-958a6404",
+        "half-cuban-95ebc2d7",
+        "loop-2c15cc05",
+        "hammerhead-4aca7f4d",
+        "p-loop-c6f4cf89",
+        "double-humpty-0399fb87",
+        "half-reverse-cuban-1a7c4305",
+        "spin-7bdc9e6b",
+        "tear-drop-46f78217",
+        "sharks-tooth-c145242c"
+      ],
+      "key": "aalt",
+      "name": "Advanced ALT",
+      "reset": "reset-aalt-3c5da9f0"
+    },
+    {
+      "figures": [
+        "laydown-s-e5765e5a",
+        "hammerhead-1f1567df",
+        "reverse-laydown-humpty-8b6a988d",
+        "immelmann-2da1159a",
+        "down-loop-47ee27c9",
+        "spin-29d9456c",
+        "humpty-e1786de6",
+        "sharks-tooth-cfbced3a",
+        "tear-drop-be0af6f7",
+        "270-degree-roller-751d8c67"
+      ],
+      "key": "unlim",
+      "name": "Unlimited",
+      "reset": "reset-unlim-71fc1a67"
+    },
+    {
+      "figures": [
+        "laydown-s-e5765e5a",
+        "hammerhead-1f1567df",
+        "reverse-laydown-humpty-8b6a988d",
+        "immelmann-2da1159a",
+        "down-loop-47ee27c9",
+        "spin-29d9456c",
+        "humpty-e1786de6",
+        "sharks-tooth-cfbced3a",
+        "tear-drop-606745cb",
+        "half-reverse-cuban-31ff3d3a"
+      ],
+      "key": "ualt",
+      "name": "Unlimited ALT",
+      "reset": "reset-ualt-c024eaab"
+    }
+  ],
+  "year": "2026"
+}

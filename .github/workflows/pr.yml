@@ -22,7 +22,7 @@ jobs:
         run: |
           ART="imac-ethos-caller-${{ env.GIT_VER }}.zip"
           cd src
-          zip -r "../${ART}" imac-ethos-caller/
+          zip -r "../${ART}" imac-caller/
           cd ..
           echo "ARTIFACT=$ART" >> $GITHUB_ENV
 

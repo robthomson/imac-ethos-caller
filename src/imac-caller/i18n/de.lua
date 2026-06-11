@@ -1,0 +1,14 @@
+return {
+    year           = "Jahr",
+    routine        = "Programm",
+    trigger_switch = "Auslöseschalter",
+    repeat_switch  = "Wiederholschalter",
+    reset_switch   = "Reset-Schalter",
+    ready          = "Bereit",
+    language       = "Sprache",
+    lang_auto      = "Auto",
+    lang_en        = "English",
+    lang_fr        = "Français",
+    lang_de        = "Deutsch",
+    lang_nl        = "Nederlands",
+}
