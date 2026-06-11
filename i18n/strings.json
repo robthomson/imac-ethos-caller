@@ -1,0 +1,14 @@
+{
+  "year":           {"en": "Year",           "fr": "Année",                       "de": "Jahr",             "nl": "Jaar"},
+  "routine":        {"en": "Routine",        "fr": "Programme",                   "de": "Programm",         "nl": "Programma"},
+  "trigger_switch": {"en": "Trigger Switch", "fr": "Interrupteur Déclencheur",     "de": "Auslöseschalter",  "nl": "Trigger-schakelaar"},
+  "repeat_switch":  {"en": "Repeat Switch",  "fr": "Interrupteur Répéter",         "de": "Wiederholschalter","nl": "Herhaal-schakelaar"},
+  "reset_switch":   {"en": "Reset Switch",   "fr": "Interrupteur Réinitialiser",   "de": "Reset-Schalter",   "nl": "Reset-schakelaar"},
+  "ready":          {"en": "Ready",          "fr": "Prêt",                        "de": "Bereit",           "nl": "Gereed"},
+  "language":       {"en": "Language",       "fr": "Langue",                       "de": "Sprache",          "nl": "Taal"},
+  "lang_auto":      {"en": "Auto",           "fr": "Auto",                         "de": "Auto",             "nl": "Auto"},
+  "lang_en":        {"en": "English",        "fr": "English",                      "de": "English",          "nl": "English"},
+  "lang_fr":        {"en": "Français",       "fr": "Français",                     "de": "Français",         "nl": "Français"},
+  "lang_de":        {"en": "Deutsch",        "fr": "Deutsch",                      "de": "Deutsch",          "nl": "Deutsch"},
+  "lang_nl":        {"en": "Nederlands",     "fr": "Nederlands",                   "de": "Nederlands",       "nl": "Nederlands"}
+}

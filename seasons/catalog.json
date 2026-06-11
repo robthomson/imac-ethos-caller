@@ -1,0 +1,994 @@
+{
+  "180-inverted-turn-fca74fc8": {
+    "de": {
+      "needs_translation": false,
+      "text": "180 Degree Inverted Aerobatic Turn."
+    },
+    "en": "180 Degree Inverted Aerobatic Turn.",
+    "fr": {
+      "needs_translation": false,
+      "text": "180 Degree Inverted Aerobatic Turn."
+    },
+    "label": "180 Inverted Turn",
+    "nl": {
+      "needs_translation": false,
+      "text": "180 Degree Inverted Aerobatic Turn."
+    }
+  },
+  "270-degree-roller-751d8c67": {
+    "de": {
+      "needs_translation": false,
+      "text": "270 Degree Roller. Ganze Rolle innen, halbe Rolle außen."
+    },
+    "en": "270 Degree Roller. Full roll inside, half roll outside.",
+    "fr": {
+      "needs_translation": false,
+      "text": "270 Degree Roller. Tonneau complet à l'intérieur, demi-tonneau à l'extérieur."
+    },
+    "label": "270 Degree Roller",
+    "nl": {
+      "needs_translation": false,
+      "text": "270 Degree Roller. Volledige rol binnen, halve rol buiten."
+    }
+  },
+  "270-roller-711e718a": {
+    "de": {
+      "needs_translation": false,
+      "text": "270 Degree Roller. Drei ganze Rollen innen."
+    },
+    "en": "270 Degree Roller. Three full rolls inside.",
+    "fr": {
+      "needs_translation": false,
+      "text": "270 Degree Roller. Trois tonneaux complets à l'intérieur."
+    },
+    "label": "270 Roller",
+    "nl": {
+      "needs_translation": false,
+      "text": "270 Degree Roller. Drie volledige rollen binnen."
+    }
+  },
+  "45-downline-9fdb799f": {
+    "de": {
+      "needs_translation": false,
+      "text": "45 Downline."
+    },
+    "en": "45 Downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "45 Downline."
+    },
+    "label": "45 Downline",
+    "nl": {
+      "needs_translation": false,
+      "text": "45 Downline."
+    }
+  },
+  "90-degree-roller-2c40ae38": {
+    "de": {
+      "needs_translation": false,
+      "text": "90 Degree Roller. Ganze Rolle innen. Ausstieg im Rückenflug."
+    },
+    "en": "90 Degree Roller. Full roll inside. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "90 Degree Roller. Tonneau complet à l'intérieur. Sortie sur le dos."
+    },
+    "label": "90 Degree Roller",
+    "nl": {
+      "needs_translation": false,
+      "text": "90 Degree Roller. Volledige rol binnen. Uitgang ondersteboven."
+    }
+  },
+  "bow-tie-a0d18cb9": {
+    "de": {
+      "needs_translation": false,
+      "text": "Bow Tie. Halbe Rolle auf beiden 45-Grad-Aufwärtslinien. Ausstieg im Rückenflug."
+    },
+    "en": "Bow Tie. Half roll on both 45 uplines. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Bow Tie. Demi-tonneau sur chaque montée à 45 degrés. Sortie sur le dos."
+    },
+    "label": "Bow Tie",
+    "nl": {
+      "needs_translation": false,
+      "text": "Bow Tie. Halve rol op beide 45 graden stijglijnen. Uitgang ondersteboven."
+    }
+  },
+  "double-humpty-0399fb87": {
+    "de": {
+      "needs_translation": false,
+      "text": "Double Humpty. Halbe Rolle auf der Abwärtslinie, Außenlooping, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Double Humpty. Half roll on the downline, outside loop, three-quarter positive snap on the upline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Double Humpty. Demi-tonneau sur la descente, boucle extérieure, vrille déclenchée positive de trois-quarts sur la montée. Sortie sur le dos."
+    },
+    "label": "Double Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Double Humpty. Halve rol op de daallijn, buitenlus, positieve driekwart snaproll op de stijglijn. Uitgang ondersteboven."
+    }
+  },
+  "double-humpty-d8156fd4": {
+    "de": {
+      "needs_translation": false,
+      "text": "Double Humpty. Viertelrolle auf der Aufwärtslinie, positive Schnellrolle auf der Abwärtslinie, Viertelrolle oben. Ausstieg im Rückenflug."
+    },
+    "en": "Double Humpty. Quarter roll on the upline, positive snap on the downline, quarter roll on top. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Double Humpty. Quart de tonneau sur la montée, vrille déclenchée positive sur la descente, quart de tonneau au sommet. Sortie sur le dos."
+    },
+    "label": "Double Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Double Humpty. Kwartrol op de stijglijn, positieve snaproll op de daallijn, kwartrol bovenaan. Uitgang ondersteboven."
+    }
+  },
+  "down-fig-n-0f13642e": {
+    "de": {
+      "needs_translation": false,
+      "text": "Down Fig N. Zwei Rollen auf der 45-Grad-Aufwärtslinie."
+    },
+    "en": "Down Fig N. Two rolls on the 45 upline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Down Fig N. Deux tonneaux sur la montée à 45 degrés."
+    },
+    "label": "Down Fig N",
+    "nl": {
+      "needs_translation": false,
+      "text": "Down Fig N. Twee rollen op de 45 graden stijglijn."
+    }
+  },
+  "down-humpty-95e6a404": {
+    "de": {
+      "needs_translation": false,
+      "text": "Down Humpty. Zwei Viertelrollen auf der Abwärtslinie, ganze Rolle auf der Aufwärtslinie."
+    },
+    "en": "Down Humpty. Two quarter rolls on the downline, full roll on the upline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Down Humpty. Deux quarts de tonneau sur la descente, tonneau complet sur la montée."
+    },
+    "label": "Down Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Down Humpty. Twee kwartrollen op de daallijn, volledige rol op de stijglijn."
+    }
+  },
+  "down-humpty-bump-c7629585": {
+    "de": {
+      "needs_translation": false,
+      "text": "Down Humpty Bump. Positives Trudeln mit drei Vierteln einer Umdrehung beim Einstieg. Ausstieg im Rückenflug."
+    },
+    "en": "Down Humpty Bump. Three-quarter positive spin on entry. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Down Humpty Bump. Vrille positive de trois-quarts de tour à l'entrée. Sortie sur le dos."
+    },
+    "label": "Down Humpty Bump",
+    "nl": {
+      "needs_translation": false,
+      "text": "Down Humpty Bump. Positieve driekwart spin bij de ingang. Uitgang ondersteboven."
+    }
+  },
+  "down-loop-47ee27c9": {
+    "de": {
+      "needs_translation": false,
+      "text": "Down Loop. Außenlooping, entgegengesetzte Dreiviertelrolle, eindreiviertel positive Schnellrollen unten."
+    },
+    "en": "Down Loop. Outside loop, three-quarter opposite roll, one and three-quarter positive snaps at the bottom.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Down Loop. Boucle extérieure, trois-quarts de tonneau opposé, vrille déclenchée positive trois quarts en bas."
+    },
+    "label": "Down Loop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Down Loop. Buitenlus, tegengestelde driekwartrol, een en driekwart positieve snaproll onderaan."
+    }
+  },
+  "down-sharks-tooth-964556f5": {
+    "de": {
+      "needs_translation": false,
+      "text": "Down Sharks Tooth. Dreiviertelrolle auf der Abwärtslinie, zwei Viertelrollen auf der Aufwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Down Sharks Tooth. Three-quarter roll on the downline, two quarter rolls on the upline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Down Sharks Tooth. Trois-quarts de tonneau sur la descente, deux quarts de tonneau sur la montée. Sortie sur le dos."
+    },
+    "label": "Down Sharks Tooth",
+    "nl": {
+      "needs_translation": false,
+      "text": "Down Sharks Tooth. Driekwartrol op de daallijn, twee kwartrollen op de stijglijn. Uitgang ondersteboven."
+    }
+  },
+  "down-sharks-tooth-spin-dea81b46": {
+    "de": {
+      "needs_translation": false,
+      "text": "Down Sharks Tooth. Positives Trudeln mit zwei Umdrehungen beim Einstieg."
+    },
+    "en": "Down Sharks Tooth. Two turn positive spin on entry.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Down Sharks Tooth. Vrille positive de deux tours à l'entrée."
+    },
+    "label": "Down Sharks Tooth Spin",
+    "nl": {
+      "needs_translation": false,
+      "text": "Down Sharks Tooth. Positieve spin van twee toeren bij de ingang."
+    }
+  },
+  "fig-n-bf2b0a3d": {
+    "de": {
+      "needs_translation": false,
+      "text": "Fig N. Halbe Rolle auf der invertierten 45-Grad-Abwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Fig N. Half roll on the inverted 45 downline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Fig N. Demi-tonneau sur la descente inversée à 45 degrés. Sortie sur le dos."
+    },
+    "label": "Fig N",
+    "nl": {
+      "needs_translation": false,
+      "text": "Fig N. Halve rol op de omgekeerde 45 graden daallijn. Uitgang ondersteboven."
+    }
+  },
+  "fig-p-958a6404": {
+    "de": {
+      "needs_translation": false,
+      "text": "Fig P. Vierpunktrolle auf der Aufwärtslinie, ganze Rolle oben, positive Schnellrolle beim Ausstieg."
+    },
+    "en": "Fig P. Four-point roll on the upline, full roll at the top, positive snap on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Fig P. Tonneau à quatre points sur la montée, tonneau complet au sommet, vrille déclenchée positive à la sortie."
+    },
+    "label": "Fig P",
+    "nl": {
+      "needs_translation": false,
+      "text": "Fig P. Vierpuntsrol op de stijglijn, volledige rol bovenaan, positieve snaproll bij de uitgang."
+    }
+  },
+  "goldfish-632aaaa2": {
+    "de": {
+      "needs_translation": false,
+      "text": "Goldfish. Zwei Viertelrollen auf der 45-Grad-Aufwärtslinie."
+    },
+    "en": "Goldfish. Two quarter rolls on the 45 upline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Goldfish. Deux quarts de tonneau sur la montée à 45 degrés."
+    },
+    "label": "Goldfish",
+    "nl": {
+      "needs_translation": false,
+      "text": "Goldfish. Twee kwartrollen op de 45 graden stijglijn."
+    }
+  },
+  "half-cuban-85915bfc": {
+    "de": {
+      "needs_translation": false,
+      "text": "Half Cuban. Außenlooping, halbe Rolle auf der Abwärtslinie."
+    },
+    "en": "Half Cuban. Outside loop, half roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Half Cuban. Boucle extérieure, demi-tonneau sur la descente."
+    },
+    "label": "Half Cuban",
+    "nl": {
+      "needs_translation": false,
+      "text": "Half Cuban. Buitenlus, halve rol op de daallijn."
+    }
+  },
+  "half-cuban-95ebc2d7": {
+    "de": {
+      "needs_translation": false,
+      "text": "Half Cuban. Entgegengesetzte Dreiviertelrolle auf der 45-Grad-Aufwärtslinie, Außenlooping, halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
+    },
+    "en": "Half Cuban. Three-quarter opposite roll on the 45 upline, outside loop, half roll on exit. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Half Cuban. Trois-quarts de tonneau opposé sur la montée à 45 degrés, boucle extérieure, demi-tonneau à la sortie. Sortie sur le dos."
+    },
+    "label": "Half Cuban",
+    "nl": {
+      "needs_translation": false,
+      "text": "Half Cuban. Tegengestelde driekwartrol op de 45 graden stijglijn, buitenlus, halve rol bij de uitgang. Uitgang ondersteboven."
+    }
+  },
+  "half-reverse-cuban-054bb707": {
+    "de": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Gedrückter Einstieg, halbe Rolle auf der 45-Grad-Abwärtslinie, Außenlooping, entgegengesetzte Dreiviertelrolle beim Ausstieg."
+    },
+    "en": "Half Reverse Cuban. Push entry, half roll on the 45 downline, outside loop, three-quarter opposite roll on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Entrée poussée, demi-tonneau sur la descente à 45 degrés, boucle extérieure, trois-quarts de tonneau opposé à la sortie."
+    },
+    "label": "Half Reverse Cuban",
+    "nl": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Gedrukte ingang, halve rol op de 45 graden daallijn, buitenlus, tegengestelde driekwartrol bij de uitgang."
+    }
+  },
+  "half-reverse-cuban-1a7c4305": {
+    "de": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Anderthalb negative Schnellrollen auf der Abwärtslinie, Innenlooping, halbe Rolle entgegengesetzt, dann halbe Rolle beim Ausstieg. Ausstieg im Rückenflug."
+    },
+    "en": "Half Reverse Cuban. One and a half negative snaps on the downline, inside loop, half roll opposite half roll on exit. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Une vrille déclenchée négative et demie sur la descente, boucle intérieure, demi-tonneau opposé puis demi-tonneau à la sortie. Sortie sur le dos."
+    },
+    "label": "Half Reverse Cuban",
+    "nl": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Anderhalve negatieve snaproll op de daallijn, binnenlus, halve rol tegengesteld, dan halve rol bij de uitgang. Uitgang ondersteboven."
+    }
+  },
+  "half-reverse-cuban-31ff3d3a": {
+    "de": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Innenlooping. Eindreiviertel positive Schnellrollen, entgegengesetzte Dreiviertelrolle beim Ausstieg."
+    },
+    "en": "Half Reverse Cuban. One and a quarter roll, opposite quarter roll on the 45 upline. Inside loop. One and three-quarter positive snaps, opposite three-quarter roll on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Un tonneau et quart, puis quart de tonneau opposé sur la montée à 45 degrés. Boucle intérieure. Vrille déclenchée positive trois quarts, puis trois-quarts de tonneau opposé à la sortie."
+    },
+    "label": "Half Reverse Cuban",
+    "nl": {
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Een en een kwart rol, tegengestelde kwartrol op de 45 graden stijglijn. Binnenlus. Een en driekwart positieve snaproll, tegengestelde driekwartrol bij de uitgang."
+    }
+  },
+  "hammerhead-1f1567df": {
+    "de": {
+      "needs_translation": false,
+      "text": "Hammerhead. Dreiviertelrolle, entgegengesetzte positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Hammerhead. Three-quarter roll, opposite three-quarter positive snap on the upline. Half roll on the downline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Hammerhead. Trois-quarts de tonneau, vrille déclenchée positive trois quarts opposée sur la montée. Demi-tonneau sur la descente. Sortie sur le dos."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": false,
+      "text": "Hammerhead. Driekwartrol, tegengestelde positieve driekwart snaproll op de stijglijn. Halve rol op de daallijn. Uitgang ondersteboven."
+    }
+  },
+  "hammerhead-34648bf1": {
+    "de": {
+      "needs_translation": false,
+      "text": "Hammerhead."
+    },
+    "en": "Hammerhead.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Hammerhead."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": false,
+      "text": "Hammerhead."
+    }
+  },
+  "hammerhead-4aca7f4d": {
+    "de": {
+      "needs_translation": false,
+      "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle, dann Dreiviertelrolle auf der Abwärtslinie."
+    },
+    "en": "Hammerhead. Half roll on the upline, three-quarter negative snap then three-quarter roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Hammerhead. Demi-tonneau sur la montée, vrille déclenchée négative de trois-quarts puis trois-quarts de tonneau sur la descente."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": false,
+      "text": "Hammerhead. Halve rol op de stijglijn, negatieve driekwart snaproll, daarna driekwartrol op de daallijn."
+    }
+  },
+  "hammerhead-91769321": {
+    "de": {
+      "needs_translation": false,
+      "text": "Hammerhead. Gedrückter Einstieg, halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie, halbe Rolle beim Ausstieg."
+    },
+    "en": "Hammerhead. Push entry, half roll on the upline, half roll on the downline, half roll to exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Hammerhead. Entrée poussée, demi-tonneau sur la montée, demi-tonneau sur la descente, demi-tonneau à la sortie."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": false,
+      "text": "Hammerhead. Gedrukte ingang, halve rol op de stijglijn, halve rol op de daallijn, halve rol bij de uitgang."
+    }
+  },
+  "hammerhead-f3222b9a": {
+    "de": {
+      "needs_translation": false,
+      "text": "Hammerhead. Halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie."
+    },
+    "en": "Hammerhead. Half roll on the upline, half roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Hammerhead. Demi-tonneau sur la montée, demi-tonneau sur la descente."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": false,
+      "text": "Hammerhead. Halve rol op de stijglijn, halve rol op de daallijn."
+    }
+  },
+  "humpty-bump-49898ee5": {
+    "de": {
+      "needs_translation": false,
+      "text": "Humpty Bump. Halbe Rolle auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie."
+    },
+    "en": "Humpty Bump. Half roll on the upline, half roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Humpty Bump. Demi-tonneau sur la montée, demi-tonneau sur la descente."
+    },
+    "label": "Humpty Bump",
+    "nl": {
+      "needs_translation": false,
+      "text": "Humpty Bump. Halve rol op de stijglijn, halve rol op de daallijn."
+    }
+  },
+  "humpty-e1786de6": {
+    "de": {
+      "needs_translation": false,
+      "text": "Humpty. Halbe Rolle, entgegengesetzt eineinhalb positive Schnellrollen auf der Aufwärtslinie. Eineinviertel Rollen auf der Abwärtslinie."
+    },
+    "en": "Humpty. Half roll, opposite one and a half positive snaps on the upline. One and a quarter rolls on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Humpty. Demi-tonneau, puis vrille déclenchée positive et demie opposée sur la montée. Un tonneau et quart sur la descente."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Humpty. Halve rol, tegengesteld anderhalve positieve snaproll op de stijglijn. Een en een kwart rol op de daallijn."
+    }
+  },
+  "immelmann-2da1159a": {
+    "de": {
+      "needs_translation": false,
+      "text": "Immelmann. Eindreiviertel Rollen, entgegengesetzt positive Dreiviertel-Schnellrolle beim Einstieg. Außenlooping. Ganze Rolle entgegengesetzt, ganze Rolle beim Ausstieg."
+    },
+    "en": "Immelmann. One and three-quarter rolls, opposite three-quarter positive snap on entry. Outside loop. Full roll opposite, full roll on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Immelmann. Un tonneau trois quarts, puis vrille déclenchée positive trois quarts opposée à l'entrée. Boucle extérieure. Tonneau complet opposé, tonneau complet à la sortie."
+    },
+    "label": "Immelmann",
+    "nl": {
+      "needs_translation": false,
+      "text": "Immelmann. Een en driekwart rol, tegengesteld positieve driekwart snaproll bij de ingang. Buitenlus. Volledige rol tegengesteld, volledige rol bij de uitgang."
+    }
+  },
+  "immelmann-a5bf0b3d": {
+    "de": {
+      "needs_translation": false,
+      "text": "Immelmann. Halbe Rolle oben."
+    },
+    "en": "Immelmann. Half roll at the top.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Immelmann. Demi-tonneau au sommet."
+    },
+    "label": "Immelmann",
+    "nl": {
+      "needs_translation": false,
+      "text": "Immelmann. Halve rol bovenaan."
+    }
+  },
+  "laydown-humpty-1c72a6c9": {
+    "de": {
+      "needs_translation": false,
+      "text": "Laydown Humpty. Ganze Rolle auf der Abwärtslinie, halbe Rolle auf der Aufwärtslinie."
+    },
+    "en": "Laydown Humpty. Full roll on the downline, half roll on the upline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Laydown Humpty. Tonneau complet sur la descente, demi-tonneau sur la montée."
+    },
+    "label": "Laydown Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Laydown Humpty. Volledige rol op de daallijn, halve rol op de stijglijn."
+    }
+  },
+  "laydown-s-e5765e5a": {
+    "de": {
+      "needs_translation": false,
+      "text": "Laydown S. Halbe Rolle beim Einstieg, Außenlooping, negative Dreiviertel-Schnellrolle und Viertelrolle auf der 45-Grad-Linie, Innenlooping, Vierpunktrolle beim Ausstieg."
+    },
+    "en": "Laydown S. Half roll on entry, outside loop, three-quarter negative snap and quarter roll on the 45, inside loop, four-point roll on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Laydown S. Demi-tonneau à l'entrée, boucle extérieure, vrille déclenchée négative trois quarts et quart de tonneau sur le 45, boucle intérieure, tonneau à quatre points à la sortie."
+    },
+    "label": "Laydown S",
+    "nl": {
+      "needs_translation": false,
+      "text": "Laydown S. Halve rol bij de ingang, buitenlus, negatieve driekwart snaproll en kwartrol op de 45 graden lijn, binnenlus, vierpuntsrol bij de uitgang."
+    }
+  },
+  "loop-2c15cc05": {
+    "de": {
+      "needs_translation": false,
+      "text": "Loop. Außenlooping-Einstieg, entgegengesetzte Dreiviertelrolle und Viertelrolle oben."
+    },
+    "en": "Loop. Outside entry, three-quarter opposite roll and quarter roll at the top.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Loop. Entrée extérieure, trois-quarts de tonneau opposé et quart de tonneau au sommet."
+    },
+    "label": "Loop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Loop. Buitenlus-ingang, tegengestelde driekwartrol en kwartrol bovenaan."
+    }
+  },
+  "loop-6c260463": {
+    "de": {
+      "needs_translation": false,
+      "text": "Loop."
+    },
+    "en": "Loop.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Loop."
+    },
+    "label": "Loop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Loop."
+    }
+  },
+  "p-loop-c6f4cf89": {
+    "de": {
+      "needs_translation": false,
+      "text": "P Loop. Zwei ganze Rollen beim Einstieg, Dreiviertel-Innenlooping, Viertelrolle auf der Abwärtslinie."
+    },
+    "en": "P Loop. Two full rolls on entry, three-quarter inside loop, quarter roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "P Loop. Deux tonneaux complets à l'entrée, boucle intérieure trois quarts, quart de tonneau sur la descente."
+    },
+    "label": "P Loop",
+    "nl": {
+      "needs_translation": false,
+      "text": "P Loop. Twee volledige rollen bij de ingang, driekwart binnenlus, kwartrol op de daallijn."
+    }
+  },
+  "q-loop-8fb90c0b": {
+    "de": {
+      "needs_translation": false,
+      "text": "Q Loop. Ganze Rolle integriert oben. Ausstieg auf einer 45-Grad-Abwärtslinie."
+    },
+    "en": "Q Loop. Full roll integrated at the top. Exit on a 45 downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Q Loop. Tonneau complet intégré au sommet. Sortie sur une descente à 45 degrés."
+    },
+    "label": "Q Loop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Q Loop. Volledige rol verwerkt bovenaan. Uitgang op een 45 graden daallijn."
+    }
+  },
+  "q-loop-cca0aa6d": {
+    "de": {
+      "needs_translation": false,
+      "text": "Q Loop. Halbe Rolle auf der Aufwärtslinie, negative Schnellrolle oben, halbe Rolle beim Ausstieg."
+    },
+    "en": "Q Loop. Half roll on the upline, negative snap at the top, half roll on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Q Loop. Demi-tonneau sur la montée, vrille déclenchée négative au sommet, demi-tonneau à la sortie."
+    },
+    "label": "Q Loop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Q Loop. Halve rol op de stijglijn, negatieve snaproll bovenaan, halve rol bij de uitgang."
+    }
+  },
+  "reset-aalt-3c5da9f0": {
+    "de": {
+      "needs_translation": false,
+      "text": "Advanced-ALT-Sequenz zurückgesetzt."
+    },
+    "en": "Advanced ALT sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Advanced ALT."
+    },
+    "label": "reset aalt",
+    "nl": {
+      "needs_translation": false,
+      "text": "Advanced ALT-sequentie gereset."
+    }
+  },
+  "reset-advan-e7dc8744": {
+    "de": {
+      "needs_translation": false,
+      "text": "Advanced-Sequenz zurückgesetzt."
+    },
+    "en": "Advanced sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Advanced."
+    },
+    "label": "reset advan",
+    "nl": {
+      "needs_translation": false,
+      "text": "Advanced-sequentie gereset."
+    }
+  },
+  "reset-basic-8f5c0bd2": {
+    "de": {
+      "needs_translation": false,
+      "text": "Basic-Sequenz zurückgesetzt."
+    },
+    "en": "Basic sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Basic."
+    },
+    "label": "reset basic",
+    "nl": {
+      "needs_translation": false,
+      "text": "Basic-sequentie gereset."
+    }
+  },
+  "reset-ialt-c8982ae3": {
+    "de": {
+      "needs_translation": false,
+      "text": "Intermediate-ALT-Sequenz zurückgesetzt."
+    },
+    "en": "Intermediate ALT sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Intermediate ALT."
+    },
+    "label": "reset ialt",
+    "nl": {
+      "needs_translation": false,
+      "text": "Intermediate ALT-sequentie gereset."
+    }
+  },
+  "reset-inter-7fef0d50": {
+    "de": {
+      "needs_translation": false,
+      "text": "Intermediate-Sequenz zurückgesetzt."
+    },
+    "en": "Intermediate sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Intermediate."
+    },
+    "label": "reset inter",
+    "nl": {
+      "needs_translation": false,
+      "text": "Intermediate-sequentie gereset."
+    }
+  },
+  "reset-sport-8b330e32": {
+    "de": {
+      "needs_translation": false,
+      "text": "Sportsman-Sequenz zurückgesetzt."
+    },
+    "en": "Sportsman sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Sportsman."
+    },
+    "label": "reset sport",
+    "nl": {
+      "needs_translation": false,
+      "text": "Sportsman-sequentie gereset."
+    }
+  },
+  "reset-ualt-c024eaab": {
+    "de": {
+      "needs_translation": false,
+      "text": "Unlimited-ALT-Sequenz zurückgesetzt."
+    },
+    "en": "Unlimited ALT sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Unlimited ALT."
+    },
+    "label": "reset ualt",
+    "nl": {
+      "needs_translation": false,
+      "text": "Unlimited ALT-sequentie gereset."
+    }
+  },
+  "reset-unlim-71fc1a67": {
+    "de": {
+      "needs_translation": false,
+      "text": "Unlimited-Sequenz zurückgesetzt."
+    },
+    "en": "Unlimited sequence reset.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Réinitialisation de la séquence Unlimited."
+    },
+    "label": "reset unlim",
+    "nl": {
+      "needs_translation": false,
+      "text": "Unlimited-sequentie gereset."
+    }
+  },
+  "reverse-half-cuban-efc78948": {
+    "de": {
+      "needs_translation": false,
+      "text": "Reverse Half Cuban. Halbe Rolle auf der 45-Grad-Aufwärtslinie."
+    },
+    "en": "Reverse Half Cuban. Half roll on the 45 upline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Reverse Half Cuban. Demi-tonneau sur la montée à 45 degrés."
+    },
+    "label": "Reverse Half Cuban",
+    "nl": {
+      "needs_translation": false,
+      "text": "Reverse Half Cuban. Halve rol op de 45 graden stijglijn."
+    }
+  },
+  "reverse-laydown-humpty-8b6a988d": {
+    "de": {
+      "needs_translation": false,
+      "text": "Reverse Laydown Humpty. Eineinhalb positive Schnellrollen, entgegengesetzt eineinhalb Rollen auf der Aufwärtslinie. Außenlooping, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Reverse Laydown Humpty. One and a half positive snaps, opposite one and a half rolls on the upline. Outside loop, half roll on the downline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Reverse Laydown Humpty. Une vrille déclenchée positive et demie, puis un tonneau et demi opposé sur la montée. Boucle extérieure, demi-tonneau sur la descente. Sortie sur le dos."
+    },
+    "label": "Reverse Laydown Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Reverse Laydown Humpty. Anderhalve positieve snaproll, tegengesteld anderhalve rol op de stijglijn. Buitenlus, halve rol op de daallijn. Uitgang ondersteboven."
+    }
+  },
+  "reverse-laydown-humpty-9523f40a": {
+    "de": {
+      "needs_translation": false,
+      "text": "Reverse Laydown Humpty. Eineinhalb Rollen auf der Aufwärtslinie, halbe Rolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Reverse Laydown Humpty. One and a half rolls on the upline, half roll on the downline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Reverse Laydown Humpty. Un tonneau et demi sur la montée, demi-tonneau sur la descente. Sortie sur le dos."
+    },
+    "label": "Reverse Laydown Humpty",
+    "nl": {
+      "needs_translation": false,
+      "text": "Reverse Laydown Humpty. Anderhalve rol op de stijglijn, halve rol op de daallijn. Uitgang ondersteboven."
+    }
+  },
+  "roll-28432ff9": {
+    "de": {
+      "needs_translation": false,
+      "text": "Roll."
+    },
+    "en": "Roll.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Roll."
+    },
+    "label": "Roll",
+    "nl": {
+      "needs_translation": false,
+      "text": "Roll."
+    }
+  },
+  "sharks-tooth-c145242c": {
+    "de": {
+      "needs_translation": false,
+      "text": "Sharks Tooth. Eineinviertel Rollen, entgegengesetzte Viertelrolle auf der 45-Grad-Aufwärtslinie. Halbe Rolle auf der Abwärtslinie."
+    },
+    "en": "Sharks Tooth. One and a quarter roll, opposite quarter roll on the 45 upline. Half roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Sharks Tooth. Un tonneau et quart, quart de tonneau opposé sur la montée à 45 degrés. Demi-tonneau sur la descente."
+    },
+    "label": "Sharks Tooth",
+    "nl": {
+      "needs_translation": false,
+      "text": "Sharks Tooth. Een en een kwart rol, tegengestelde kwartrol op de 45 graden stijglijn. Halve rol op de daallijn."
+    }
+  },
+  "sharks-tooth-cfbced3a": {
+    "de": {
+      "needs_translation": false,
+      "text": "Sharks Tooth. Dreiviertelrolle, positive Dreiviertel-Schnellrolle auf der Aufwärtslinie. Dreiviertelrolle, entgegengesetzte Dreiviertelrolle auf der Abwärtslinie."
+    },
+    "en": "Sharks Tooth. Three-quarter roll, three-quarter positive snap on the upline. Three-quarter roll, opposite three-quarter roll on the downline.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Sharks Tooth. Trois-quarts de tonneau, vrille déclenchée positive trois quarts sur la montée. Trois-quarts de tonneau, puis trois-quarts de tonneau opposé sur la descente."
+    },
+    "label": "Sharks Tooth",
+    "nl": {
+      "needs_translation": false,
+      "text": "Sharks Tooth. Driekwartrol, positieve driekwart snaproll op de stijglijn. Driekwartrol, tegengestelde driekwartrol op de daallijn."
+    }
+  },
+  "spin-29d9456c": {
+    "de": {
+      "needs_translation": false,
+      "text": "Spin. Eineinhalb positive Umdrehungen. Entgegengesetzt eindreiviertel negative Schnellrollen. Ausstieg im Normalflug."
+    },
+    "en": "Spin. One and a half positive turns. Opposite one and three-quarter negative snaps. Exit upright.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Spin. Un tour et demi positif. Puis vrille déclenchée négative trois quarts opposée. Sortie à l'endroit."
+    },
+    "label": "Spin",
+    "nl": {
+      "needs_translation": false,
+      "text": "Spin. Anderhalve positieve toer. Tegengesteld een en driekwart negatieve snaproll. Uitgang rechtop."
+    }
+  },
+  "spin-6de9190c": {
+    "de": {
+      "needs_translation": false,
+      "text": "Spin. Eineinhalb positive Umdrehungen. Halbe Rolle entgegengesetzt, gedrückter Ausstieg im Rückenflug."
+    },
+    "en": "Spin. One and a half positive turns. Half roll opposite, push to exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Spin. Un tour et demi positif. Demi-tonneau opposé, sortie poussée sur le dos."
+    },
+    "label": "Spin",
+    "nl": {
+      "needs_translation": false,
+      "text": "Spin. Anderhalf positieve toeren. Halve rol tegengesteld, gedrukte uitgang ondersteboven."
+    }
+  },
+  "spin-7bdc9e6b": {
+    "de": {
+      "needs_translation": false,
+      "text": "Spin. Eindreiviertel Umdrehungen im Rückenflug. Viertelrolle, gezogener Ausstieg im Normalflug."
+    },
+    "en": "Spin. One and three-quarter inverted turns. Quarter roll, pull to exit upright.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Spin. Un tour trois quarts inversé. Quart de tonneau, sortie tirée à l'endroit."
+    },
+    "label": "Spin",
+    "nl": {
+      "needs_translation": false,
+      "text": "Spin. Een en driekwart toeren ondersteboven. Kwartrol, getrokken uitgang rechtop."
+    }
+  },
+  "split-s-2457d785": {
+    "de": {
+      "needs_translation": false,
+      "text": "Split S. Halbe Rolle zum Einstieg."
+    },
+    "en": "Split S. Half roll to enter.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Split S. Demi-tonneau pour entrer."
+    },
+    "label": "Split S",
+    "nl": {
+      "needs_translation": false,
+      "text": "Split S. Halve rol om te beginnen."
+    }
+  },
+  "split-s-47b40932": {
+    "de": {
+      "needs_translation": false,
+      "text": "Split S. Halbe Rolle zum Einstieg, positive Schnellrolle beim Ausstieg."
+    },
+    "en": "Split S. Half roll to enter, positive snap on exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Split S. Demi-tonneau pour entrer, vrille déclenchée positive à la sortie."
+    },
+    "label": "Split S",
+    "nl": {
+      "needs_translation": false,
+      "text": "Split S. Halve rol om te beginnen, positieve snaproll bij de uitgang."
+    }
+  },
+  "tear-drop-46f78217": {
+    "de": {
+      "needs_translation": false,
+      "text": "Tear Drop. Negative Dreiviertel-Schnellrolle und Viertelrolle auf der Aufwärtslinie, positive Schnellrolle unten."
+    },
+    "en": "Tear Drop. Three-quarter negative snap and quarter roll on the upline, positive snap at the bottom.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Tear Drop. Vrille déclenchée négative trois quarts et quart de tonneau sur la montée, vrille déclenchée positive en bas."
+    },
+    "label": "Tear Drop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Tear Drop. Negatieve driekwart snaproll en kwartrol op de stijglijn, positieve snaproll onderaan."
+    }
+  },
+  "tear-drop-606745cb": {
+    "de": {
+      "needs_translation": false,
+      "text": "Tear Drop. Viertelrolle, entgegengesetzt eineinviertel Rollen auf der Aufwärtslinie, Innenlooping. Ganze Rolle, entgegengesetzt negative Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Tear Drop. Quarter roll, opposite one and a quarter rolls on the upline, inside loop. Full roll, opposite negative snap on the downline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Tear Drop. Quart de tonneau, puis un tonneau et quart opposé sur la montée, boucle intérieure. Tonneau complet, puis vrille déclenchée négative opposée sur la descente. Sortie sur le dos."
+    },
+    "label": "Tear Drop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Tear Drop. Kwartrol, tegengesteld een en een kwart rol op de stijglijn, binnenlus. Volledige rol, tegengesteld negatieve snaproll op de daallijn. Uitgang ondersteboven."
+    }
+  },
+  "tear-drop-be0af6f7": {
+    "de": {
+      "needs_translation": false,
+      "text": "Tear Drop. Viertelrolle, entgegengesetzt eineinviertel Rollen auf der Aufwärtslinie, Innenlooping. Ganze Rolle, entgegengesetzt negative Dreiviertel-Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
+    },
+    "en": "Tear Drop. Quarter roll, opposite one and a quarter rolls on the upline, inside loop. Full roll, opposite three-quarter negative snap on the downline. Exit inverted.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Tear Drop. Quart de tonneau, puis un tonneau et quart opposé sur la montée, boucle intérieure. Tonneau complet, puis vrille déclenchée négative trois quarts opposée sur la descente. Sortie sur le dos."
+    },
+    "label": "Tear Drop",
+    "nl": {
+      "needs_translation": false,
+      "text": "Tear Drop. Kwartrol, tegengesteld een en een kwart rol op de stijglijn, binnenlus. Volledige rol, tegengesteld negatieve driekwart snaproll op de daallijn. Uitgang ondersteboven."
+    }
+  },
+  "vertical-down-line-f664794d": {
+    "de": {
+      "needs_translation": false,
+      "text": "Vertical Down Line. Halbe Rolle."
+    },
+    "en": "Vertical Down Line. Half roll.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Vertical Down Line. Demi-tonneau."
+    },
+    "label": "Vertical Down Line",
+    "nl": {
+      "needs_translation": false,
+      "text": "Vertical Down Line. Halve rol."
+    }
+  },
+  "vertical-upline-d8766cad": {
+    "de": {
+      "needs_translation": false,
+      "text": "Vertical Upline. Halbe Rolle, gedrückter Ausstieg."
+    },
+    "en": "Vertical Upline. Half roll, push to exit.",
+    "fr": {
+      "needs_translation": false,
+      "text": "Vertical Upline. Demi-tonneau, sortie poussée."
+    },
+    "label": "Vertical Upline",
+    "nl": {
+      "needs_translation": false,
+      "text": "Vertical Upline. Halve rol, gedrukte uitgang."
+    }
+  }
+}

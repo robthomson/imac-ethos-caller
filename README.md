@@ -6,6 +6,7 @@ An FrSky Ethos widget that calls IMAC aerobatic competition sequences via audio 
 
 - Supports all 8 IMAC classes: Basic, Sportsman, Intermediate, Intermediate ALT, Advanced, Advanced ALT, Unlimited, Unlimited ALT
 - Per-year sequence files — adding a new season never touches existing data
+- Shared audio catalog — repeated maneuvers (common across classes/years) reuse a single recording instead of duplicating it
 - Progress bar shows current maneuver position through the sequence
 - Three configurable switches: Trigger (next maneuver), Repeat (replay current), Reset (restart sequence)
 - Sequence data for 2026 included with real figure names from official IMAC PDFs
@@ -77,58 +78,73 @@ Google Cloud Application Default Credentials must be configured (run `gcloud aut
 bin\generate-sounds.cmd
 ```
 
-This scans all `soundlist.csv` files under `src/imac-ethos-caller/seasons/` and generates any missing WAV files, including any per-locale `<class>/<lang>/soundlist.csv` files (see [Adding Translated Audio](#adding-translated-audio) below). To regenerate everything: delete the WAV files first, then run again.
+This scans the `soundlist.csv` files under `src/imac-ethos-caller/sounds/<locale>/<variant>/` (one per locale/variant — see [Voice Variants](#voice-variants)) and generates any missing WAV files. To regenerate everything: delete the WAV files first, then run again.
 
-The voice used is chosen automatically per CSV based on its locale (`LOCALE_VOICES` in `bin/generate-sounds.py`). Pass `--voice <name>` to override the voice for all CSVs in the run.
+The voice used is chosen automatically per CSV based on its locale/variant (`LOCALE_VOICES` in `bin/generate-sounds.py`). Pass `--voice <name>` to override the voice for all CSVs in the run.
 
 ## Adding a New Year
 
-The `seasons/` folder at the repo root is the editing surface — nothing in it is deployed to the radio.
+The repo-root `seasons/` and `i18n/` folders are the editing surface — nothing in them is deployed to the radio. Everything under `src/imac-ethos-caller/` is generated.
 
-1. Create `seasons/<year>/en.json` following the structure of [seasons/2026/en.json](seasons/2026/en.json)
-2. Run `bin\generate-season.cmd` — this writes `sequences.lua` and all `soundlist.csv` files into `src/`
-3. Run `bin\generate-sounds.cmd` to produce the WAV files
+1. Create `seasons/<year>/sequence.json` listing each class's `key`, `name`, `reset`, and ordered `figures` — each `reset`/figure value is a maneuver ID from [seasons/catalog.json](seasons/catalog.json).
+2. For any maneuver not already in the catalog, add it first:
+   ```cmd
+   python bin\catalog-add.py "Loop" "Loop. Outside entry, three-quarter opposite roll and quarter roll at the top."
+   python bin\catalog-add.py --reset basic "Basic sequence reset."
+   ```
+   Each command prints the maneuver ID to reference from `sequence.json`. New entries are added to `seasons/catalog.json` with English text only — `fr`/`de`/`nl` start as English placeholders flagged `"needs_translation": true` (see [Adding Translated Audio](#adding-translated-audio)).
+3. Run `bin\generate.cmd` — writes `sequences.lua` for that year and rebuilds the shared sound catalog (`src/imac-ethos-caller/sounds/<locale>/<variant>/soundlist.csv`) from `seasons/catalog.json`.
+4. Run `bin\generate-sounds.cmd` to produce any new WAV files.
 
-The widget auto-discovers year folders at runtime — no code changes needed.
+The widget auto-discovers year folders at runtime — no code changes needed. Maneuvers reused from another class or year (same catalog ID) are not regenerated — no new audio or catalog entry is created for them.
 
-Never edit `sequences.lua` or `soundlist.csv` directly — they are generated from the JSON and will be overwritten.
+Never edit `sequences.lua`, `soundlist.csv`, or `src/imac-ethos-caller/i18n/*.lua` directly — they are generated from the JSON and will be overwritten.
 
 ## Adding Translated Audio
 
-Spoken call-out text for each locale lives in per-locale overlay files
-`seasons/<year>/<lang>.json` (e.g. `seasons/2026/fr.json`), one per supported
-non-English language (fr, de, nl). These are scaffolded/updated from the
-English master via:
-
-```cmd
-python bin\generate-i18n-overlay.py --year 2026 --locales fr de nl
-```
-
-This adds an English-text placeholder entry with `"needs_translation": true`
-for every class `reset_tts` and figure `tts` that doesn't already have an
-overlay entry — existing entries (translated or not) are left untouched, so
-it's safe to re-run after adding new years or figures.
+Spoken call-out translations live directly in
+[seasons/catalog.json](seasons/catalog.json), one entry per maneuver, with a
+`fr`/`de`/`nl` block each. New maneuvers (added via `bin\catalog-add.py`)
+start with their `fr`/`de`/`nl` text set to the English placeholder and
+`"needs_translation": true`.
 
 To translate:
 
-1. Edit the `text` field for a class/figure entry in `seasons/<year>/<lang>.json`
-2. Set `"needs_translation": false`
-3. Run `bin\generate-season.cmd` — this writes
-   `src/imac-ethos-caller/seasons/<year>/<class>/<lang>/soundlist.csv` (or, for
-   locales with multiple voice variants, one CSV per variant — see below), but
-   only for entries with `needs_translation: false`
-4. Run `bin\generate-sounds.cmd` to generate the translated WAV files
+1. Find the maneuver's entry in `seasons/catalog.json` (search for its ID or English `en` text)
+2. Edit the `text` field under `fr`/`de`/`nl`
+3. Set `"needs_translation": false`
+4. Run `bin\generate.cmd` — this adds an entry to
+   `src/imac-ethos-caller/sounds/<lang>/<variant>/soundlist.csv` (one CSV per
+   voice variant — see below), but only for entries with
+   `needs_translation: false`
+5. Run `bin\generate-sounds.cmd` to generate the translated WAV files
 
-Entries still flagged `needs_translation: true` are skipped — no CSV row and
-no audio is generated for them, so the widget keeps falling back to the
+Entries still flagged `needs_translation: true` are skipped — no catalog entry
+and no audio is generated for them, so the widget keeps falling back to the
 English audio for those maneuvers.
+
+### Sound Catalog
+
+Audio is not stored per year/class. [seasons/catalog.json](seasons/catalog.json)
+is the master catalog of every maneuver and reset announcement, keyed by a
+"phrase ID" — a slug of its label plus a short hash of its English TTS text,
+e.g. `loop-6c260463` (see `bin/catalog-add.py`). `seasons/<year>/sequence.json`
+references maneuvers by phrase ID, `sequences.lua` carries that through
+(`file = "loop-6c260463"`, `reset = "reset-basic-8f5c0bd2"`), and the actual
+audio lives in a shared pool at
+`src/imac-ethos-caller/sounds/<locale>/<variant>/<phrase id>.wav`.
+
+Because a maneuver's ID is derived from its label + English text, the same
+maneuver referenced from multiple classes or years collapses to the same
+phrase ID and is only generated/stored once. The catalog (`soundlist.csv` per
+locale/variant) is rebuilt from `seasons/catalog.json` every time
+`bin/generate.py` runs, so it stays complete and deduped as years are added.
 
 ### Voice Variants
 
-Every locale is written under `<class>/<locale>/<variant>/`, one voice-pack
-folder per variant the radio supports (`LOCALE_VARIANTS` in
-`bin/generate-season.py`), matching the layout of rfsuite's sound-generator
-soundpacks:
+Each locale's catalog is split into one `soundlist.csv` per voice variant the
+radio supports (`LOCALE_VARIANTS` in `bin/generate.py`), matching the
+layout of rfsuite's sound-generator soundpacks:
 
 | Locale | Variants | Default |
 |---|---|---|
@@ -137,11 +153,11 @@ soundpacks:
 | German | `default` | `default` |
 | Dutch | `default` | `default` |
 
-English variants are generated from `seasons/<year>/en.json`; French variants
-are generated from the same `seasons/<year>/fr.json` overlay text. Each
-variant is written to its own `soundlist.csv`
-(`src/imac-ethos-caller/seasons/<year>/<class>/<locale>/<variant>/soundlist.csv`),
-with voices configured in `LOCALE_VOICES` in `bin/generate-sounds.py`:
+English variants are generated from each catalog entry's `en` text; French,
+German, and Dutch variants are generated from the entry's `fr`/`de`/`nl` text
+(only when `needs_translation` is `false`). Each variant is written to its own
+`src/imac-ethos-caller/sounds/<locale>/<variant>/soundlist.csv`, with voices
+configured in `LOCALE_VOICES` in `bin/generate-sounds.py`:
 
 | Variant | Voice |
 |---|---|
@@ -158,53 +174,59 @@ default variant.
 
 ## Project Structure
 
-```
-seasons/                            # Editing surface — not deployed
-└── 2026/
-    ├── en.json                     # Single source of truth for labels, TTS, and structure
-    ├── fr.json                     # Per-locale TTS overlay (placeholders + needs_translation)
-    ├── de.json
-    └── nl.json
+JSON under the repo root is the editing surface; everything under
+`src/imac-ethos-caller/` is generated by `bin/generate.py` and never hand-edited
+(except `widget_impl.lua`, `main.lua`, and `i18n/i18n.lua`, which are widget code).
 
-src/imac-ethos-caller/             # Deployed to radio
+```
+i18n/                                # Editing surface — not deployed
+└── strings.json                    # UI chrome strings, all locales (year, routine, switch labels, ...)
+
+seasons/                            # Editing surface — not deployed
+├── catalog.json                    # Maneuver catalog: id -> label + en/fr/de/nl text + needs_translation
+└── 2026/
+    └── sequence.json               # Class/figure structure for this year — references catalog IDs
+
+src/imac-ethos-caller/             # Deployed to radio (generated, except widget code below)
 ├── main.lua                        # Widget entry point
+├── widget_impl.lua                 # Widget logic
 ├── i18n/
-│   ├── i18n.lua                    # Runtime locale loader/translate helper
-│   ├── en.lua                      # UI strings per locale
+│   ├── i18n.lua                    # Runtime locale loader/translate helper (hand-written)
+│   ├── en.lua                      # Generated from i18n/strings.json
 │   ├── fr.lua
 │   ├── de.lua
 │   └── nl.lua
-└── seasons/
-    └── 2026/
-        ├── sequences.lua           # Generated from JSON
-        ├── basic/
-        │   ├── en/                 # Generated from en.json
-        │   │   ├── gb/             # Default — British English voice
-        │   │   │   ├── soundlist.csv
-        │   │   │   └── rst.wav, mnvr01.wav ... mnvr10.wav
-        │   │   └── us/             # American English voice
-        │   │       ├── soundlist.csv
-        │   │       └── rst.wav, mnvr01.wav, ...
-        │   ├── fr/                 # Optional: translated audio (falls back to English if absent)
-        │   │   ├── femme/          # Default — generated from fr.json (translated entries only)
-        │   │   │   ├── soundlist.csv
-        │   │   │   └── rst.wav, mnvr01.wav, ...
-        │   │   └── homme/
-        │   │       ├── soundlist.csv
-        │   │       └── rst.wav, mnvr01.wav, ...
-        │   ├── de/                 # Single voice
-        │   │   └── default/
-        │   │       ├── soundlist.csv
-        │   │       └── rst.wav, mnvr01.wav, ...
-        │   └── nl/
-        │       └── default/
-        ├── sport/ ...
-        └── ...
+├── seasons/
+│   └── 2026/
+│       └── sequences.lua           # Generated from seasons/2026/sequence.json + seasons/catalog.json
+└── sounds/                          # Shared audio catalog (deduped across classes/years)
+    ├── en/
+    │   ├── gb/                      # Default — British English voice
+    │   │   ├── soundlist.csv
+    │   │   └── loop-6c260463.wav, reset-basic-8f5c0bd2.wav, ...
+    │   └── us/                      # American English voice
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── fr/
+    │   ├── femme/                   # Default — translated audio (falls back to English if absent)
+    │   │   ├── soundlist.csv
+    │   │   └── ...
+    │   └── homme/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── de/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    └── nl/
+        └── default/
+            ├── soundlist.csv
+            └── ...
 
 bin/
-├── generate-season.py              # JSON (+ locale overlays) → sequences.lua + soundlist.csv files
-├── generate-season.cmd             # Windows wrapper
-├── generate-i18n-overlay.py        # Scaffolds/updates per-locale TTS overlay files
+├── generate.py                     # JSON sources → i18n/*.lua + sequences.lua + sound catalog (soundlist.csv per locale/variant)
+├── generate.cmd                    # Windows wrapper
+├── catalog-add.py                  # Adds a new maneuver to seasons/catalog.json, prints its catalog ID
 ├── generate-sounds.py              # soundlist.csv → WAV files via Google TTS (per-locale/variant voices)
 └── generate-sounds.cmd             # Windows wrapper (runs --only-missing)
 ```

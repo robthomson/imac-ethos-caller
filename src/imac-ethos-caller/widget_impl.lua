@@ -1,5 +1,6 @@
-local BASE   = "SCRIPTS:/imac-ethos-caller/"
-local SOUNDS = BASE .. "seasons/"
+local BASE    = "SCRIPTS:/imac-ethos-caller/"
+local SEASONS = BASE .. "seasons/"
+local SOUNDS  = BASE .. "sounds/"
 
 local i18n = loadfile(BASE .. "i18n/i18n.lua")()
 
@@ -10,12 +11,12 @@ local function effectiveLang(widget)
 end
 
 local function loadYear(name)
-    local chunk = loadfile(SOUNDS .. name .. "/sequences.lua")
+    local chunk = loadfile(SEASONS .. name .. "/sequences.lua")
     return chunk and chunk() or nil
 end
 
 local YEARS = {}
-local entries = system.listFiles(SOUNDS)
+local entries = system.listFiles(SEASONS)
 if entries then
     table.sort(entries)
     for _, entry in ipairs(entries) do
@@ -61,26 +62,28 @@ local function resolveVariant(lang)
     return variants.default
 end
 
-local function audioPath(widget, year, clsKey, file)
+-- file is a catalog phrase ID (see seasons/catalog.json + bin/generate.py), shared across
+-- classes/years — the audio pool is not nested under seasons/<year>/<class>/.
+local function audioPath(widget, file)
     local lang = effectiveLang(widget)
     if lang ~= "en" then
-        local localized = SOUNDS .. year .. "/" .. clsKey .. "/" .. lang .. "/" .. resolveVariant(lang) .. "/" .. file .. ".wav"
+        local localized = SOUNDS .. lang .. "/" .. resolveVariant(lang) .. "/" .. file .. ".wav"
         if os.stat(localized) then return localized end
     end
-    return SOUNDS .. year .. "/" .. clsKey .. "/en/" .. resolveVariant("en") .. "/" .. file .. ".wav"
+    return SOUNDS .. "en/" .. resolveVariant("en") .. "/" .. file .. ".wav"
 end
 
 local function playMnvr(widget, idx)
     local s = currentSeq(widget)
     if idx >= 1 and idx <= #s.cls.seq then
-        system.playFile(audioPath(widget, s.year, s.cls.key, s.cls.seq[idx].file))
+        system.playFile(audioPath(widget, s.cls.seq[idx].file))
     end
 end
 
 local function resetSeq(widget)
     local s = currentSeq(widget)
     widget.mnvrIdx = 0
-    system.playFile(audioPath(widget, s.year, s.cls.key, "rst"))
+    system.playFile(audioPath(widget, s.cls.reset))
     lcd.invalidate()
 end
 
