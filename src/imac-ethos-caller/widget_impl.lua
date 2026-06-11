@@ -55,7 +55,9 @@ local function resolveVariant(lang)
     local variants = LOCALE_VARIANTS[lang]
     if not variants then return "default" end
     local avLang, avVariant = audioVoiceFolder():match("^([^/]+)/([^/]+)$")
-    if avLang == lang and variants[avVariant] then return avVariant end
+    -- "default" is a fallback alias (e.g. variants.default == "gb"), not a
+    -- folder of its own, so it must not be returned verbatim here.
+    if avLang == lang and avVariant ~= "default" and variants[avVariant] then return avVariant end
     return variants.default
 end
 
