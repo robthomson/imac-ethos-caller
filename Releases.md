@@ -1,3 +1,14 @@
+# 1.0.3
+
+- Refactor system to work with muliple languages.   Currently supported are
+   - english
+   - german
+   - dutch
+   - french
+
+ Audio files have been created in each language for each class. (Basic, Sportsman, Intermediate, Intermediate ALT, Advanced, Advanced ALT, Unlimited, Unlimited ALT)
+
+
 # 1.0.2
 
 - Improve some audio files
