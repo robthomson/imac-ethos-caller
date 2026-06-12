@@ -1,14 +1,15 @@
 {
-  "year":           {"en": "Year",           "fr": "Année",                       "de": "Jahr",             "nl": "Jaar"},
-  "routine":        {"en": "Routine",        "fr": "Programme",                   "de": "Programm",         "nl": "Programma"},
-  "trigger_switch": {"en": "Trigger Switch", "fr": "Interrupteur Déclencheur",     "de": "Auslöseschalter",  "nl": "Trigger-schakelaar"},
-  "repeat_switch":  {"en": "Repeat Switch",  "fr": "Interrupteur Répéter",         "de": "Wiederholschalter","nl": "Herhaal-schakelaar"},
-  "reset_switch":   {"en": "Reset Switch",   "fr": "Interrupteur Réinitialiser",   "de": "Reset-Schalter",   "nl": "Reset-schakelaar"},
-  "ready":          {"en": "Ready",          "fr": "Prêt",                        "de": "Bereit",           "nl": "Gereed"},
-  "language":       {"en": "Language",       "fr": "Langue",                       "de": "Sprache",          "nl": "Taal"},
-  "lang_auto":      {"en": "Auto",           "fr": "Auto",                         "de": "Auto",             "nl": "Auto"},
-  "lang_en":        {"en": "English",        "fr": "Anglais",                      "de": "English",          "nl": "English"},
-  "lang_fr":        {"en": "Français",       "fr": "Français",                     "de": "Français",         "nl": "Français"},
-  "lang_de":        {"en": "Deutsch",        "fr": "Allemand",                      "de": "Deutsch",          "nl": "Deutsch"},
-  "lang_nl":        {"en": "Nederlands",     "fr": "Néerlandais",                  "de": "Nederlands",       "nl": "Nederlands"}
+  "year":           {"en": "Year",           "fr": "Année",                       "de": "Jahr",             "nl": "Jaar",                "cz": "Year"},
+  "routine":        {"en": "Routine",        "fr": "Programme",                   "de": "Programm",         "nl": "Programma",           "cz": "Routine"},
+  "trigger_switch": {"en": "Trigger Switch", "fr": "Interrupteur Déclencheur",     "de": "Auslöseschalter",  "nl": "Trigger-schakelaar",  "cz": "Trigger Switch"},
+  "repeat_switch":  {"en": "Repeat Switch",  "fr": "Interrupteur Répéter",         "de": "Wiederholschalter","nl": "Herhaal-schakelaar",  "cz": "Repeat Switch"},
+  "reset_switch":   {"en": "Reset Switch",   "fr": "Interrupteur Réinitialiser",   "de": "Reset-Schalter",   "nl": "Reset-schakelaar",    "cz": "Reset Switch"},
+  "ready":          {"en": "Ready",          "fr": "Prêt",                        "de": "Bereit",           "nl": "Gereed",              "cz": "Ready"},
+  "language":       {"en": "Language",       "fr": "Langue",                       "de": "Sprache",          "nl": "Taal",                "cz": "Language"},
+  "lang_auto":      {"en": "Auto",           "fr": "Auto",                         "de": "Auto",             "nl": "Auto",                "cz": "Auto"},
+  "lang_en":        {"en": "English",        "fr": "Anglais",                      "de": "English",          "nl": "English",             "cz": "English"},
+  "lang_fr":        {"en": "Français",       "fr": "Français",                     "de": "Français",         "nl": "Français",            "cz": "Français"},
+  "lang_de":        {"en": "Deutsch",        "fr": "Allemand",                      "de": "Deutsch",          "nl": "Deutsch",             "cz": "Deutsch"},
+  "lang_nl":        {"en": "Nederlands",     "fr": "Néerlandais",                  "de": "Nederlands",       "nl": "Nederlands",          "cz": "Nederlands"},
+  "lang_cz":        {"en": "Czech",          "fr": "Czech",                         "de": "Czech",            "nl": "Czech",               "cz": "Czech"}
 }

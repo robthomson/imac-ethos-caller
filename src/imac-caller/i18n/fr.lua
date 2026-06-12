@@ -11,4 +11,5 @@ return {
     lang_fr        = "Français",
     lang_de        = "Allemand",
     lang_nl        = "Néerlandais",
+    lang_cz        = "Czech",
 }

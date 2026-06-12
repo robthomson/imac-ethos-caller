@@ -8,7 +8,7 @@ and reusing an existing maneuver in a new sequence.json just means copying
 its id, no catalog changes needed.
 
 If the id doesn't exist yet, a new entry is added with the given English
-text and English-text placeholders for fr/de/nl, each flagged
+text and English-text placeholders for fr/de/nl/cz, each flagged
 "needs_translation": true. Translators then edit seasons/catalog.json
 directly: fill in `text` and set `needs_translation` to false.
 
@@ -26,7 +26,7 @@ import re
 SCRIPT_DIR   = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT    = os.path.normpath(os.path.join(SCRIPT_DIR, ".."))
 CATALOG_PATH = os.path.join(REPO_ROOT, "seasons", "catalog.json")
-LOCALES      = ["fr", "de", "nl"]
+LOCALES      = ["fr", "de", "nl", "cz"]
 
 
 def slugify(text, max_len=24):

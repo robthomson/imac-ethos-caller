@@ -40,8 +40,9 @@ SEASONS_OUT = os.path.join(WIDGET_ROOT, "seasons")
 SOUNDS_OUT  = os.path.join(WIDGET_ROOT, "sounds")
 I18N_OUT    = os.path.join(WIDGET_ROOT, "i18n")
 
-SUPPORTED_LOCALES = ["en", "fr", "de", "nl"]
-TRANSLATABLE_LOCALES = ["fr", "de", "nl"]
+SUPPORTED_LOCALES = ["en", "fr", "de", "nl", "cz"]
+TRANSLATABLE_LOCALES = ["fr", "de", "nl", "cz"]
+PLACEHOLDER_AUDIO_LOCALES = ["cz"]
 
 # Voice variant folders per locale, matching the official Ethos audio pack
 # names used by rfsuite's sound-generator soundpacks (see
@@ -52,6 +53,7 @@ LOCALE_VARIANTS = {
     "fr": ["femme", "homme"],
     "de": ["default"],
     "nl": ["default"],
+    "cz": ["default"],
 }
 
 
@@ -117,6 +119,9 @@ def write_soundlists(catalog):
     "en" entries are always included. Translated-locale entries are included
     only when not flagged needs_translation, so generate-sounds.py never
     generates audio from untranslated placeholder text.
+
+    Locales in PLACEHOLDER_AUDIO_LOCALES intentionally emit English placeholder
+    text until real translations are available.
     """
     pools = {
         f"{locale}/{variant}": {}
@@ -129,9 +134,12 @@ def write_soundlists(catalog):
             pools[f"en/{variant}"][fid] = entry["en"]
         for locale in TRANSLATABLE_LOCALES:
             translation = entry.get(locale)
-            if translation and not translation.get("needs_translation", True):
+            if translation and (not translation.get("needs_translation", True) or locale in PLACEHOLDER_AUDIO_LOCALES):
                 for variant in LOCALE_VARIANTS[locale]:
                     pools[f"{locale}/{variant}"][fid] = translation["text"]
+            elif locale in PLACEHOLDER_AUDIO_LOCALES:
+                for variant in LOCALE_VARIANTS[locale]:
+                    pools[f"{locale}/{variant}"][fid] = entry["en"]
 
     for locale_variant, entries in sorted(pools.items()):
         if not entries:
