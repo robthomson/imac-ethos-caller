@@ -7,8 +7,8 @@ return {
     ready          = "Prêt",
     language       = "Langue",
     lang_auto      = "Auto",
-    lang_en        = "English",
+    lang_en        = "Anglais",
     lang_fr        = "Français",
-    lang_de        = "Deutsch",
-    lang_nl        = "Nederlands",
+    lang_de        = "Allemand",
+    lang_nl        = "Néerlandais",
 }

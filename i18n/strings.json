@@ -7,8 +7,8 @@
   "ready":          {"en": "Ready",          "fr": "Prêt",                        "de": "Bereit",           "nl": "Gereed"},
   "language":       {"en": "Language",       "fr": "Langue",                       "de": "Sprache",          "nl": "Taal"},
   "lang_auto":      {"en": "Auto",           "fr": "Auto",                         "de": "Auto",             "nl": "Auto"},
-  "lang_en":        {"en": "English",        "fr": "English",                      "de": "English",          "nl": "English"},
+  "lang_en":        {"en": "English",        "fr": "Anglais",                      "de": "English",          "nl": "English"},
   "lang_fr":        {"en": "Français",       "fr": "Français",                     "de": "Français",         "nl": "Français"},
-  "lang_de":        {"en": "Deutsch",        "fr": "Deutsch",                      "de": "Deutsch",          "nl": "Deutsch"},
-  "lang_nl":        {"en": "Nederlands",     "fr": "Nederlands",                   "de": "Nederlands",       "nl": "Nederlands"}
+  "lang_de":        {"en": "Deutsch",        "fr": "Allemand",                      "de": "Deutsch",          "nl": "Deutsch"},
+  "lang_nl":        {"en": "Nederlands",     "fr": "Néerlandais",                  "de": "Nederlands",       "nl": "Nederlands"}
 }
