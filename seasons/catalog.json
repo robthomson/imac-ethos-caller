@@ -45,7 +45,7 @@
     "audio": "da0cb7",
     "cz": {
       "needs_translation": false,
-      "text": "Tři výkruty do kruhu 270. Výlet normál, kolmo."
+      "text": "Tři výkruty dovnitř kruhu 270. Výlet normál, kolmo."
     },
     "de": {
       "needs_translation": false,
@@ -108,20 +108,20 @@
     "audio": "78b7e2",
     "cz": {
       "needs_translation": false,
-      "text": "Motýlek. V obou 45 půlka. Výlet záda v horní."
+      "text": "Půl přesýpaček. V obou 45 půlka. Výlet záda v horní."
     },
     "de": {
-      "needs_translation": false,
+      "needs_translation": true,
       "text": "Bow Tie. Halbe Rolle auf beiden 45-Grad-Aufwärtslinien. Ausstieg im Rückenflug."
     },
-    "en": "Bow Tie. Half roll on both 45 uplines. Exit inverted.",
+    "en": "Half Hourglass. Half roll on both 45 uplines. Exit inverted.",
     "fr": {
-      "needs_translation": false,
+      "needs_translation": true,
       "text": "Bow Tie. Demi-tonneau sur chaque montée à 45 degrés. Sortie sur le dos."
     },
     "label": "Bow Tie",
     "nl": {
-      "needs_translation": false,
+      "needs_translation": true,
       "text": "Bow Tie. Halve rol op beide 45 graden stijglijnen. Uitgang ondersteboven."
     }
   },
@@ -654,7 +654,7 @@
     "audio": "e32c7d",
     "cz": {
       "needs_translation": false,
-      "text": "Obrácená položená smyčka. 45 dolů s celým, tahej 45 nahoru, a dvě půlky."
+      "text": "Obrácená smyčka 45. Dolů s celým, tahej 45 nahoru, a dvě půlky."
     },
     "de": {
       "needs_translation": true,
@@ -1011,7 +1011,7 @@
     "audio": "16e65f",
     "cz": {
       "needs_translation": false,
-      "text": "Obrácená nakloněná tlačená smyčka. Táhni 135, jeden a půl nahoru, zatlač do 45 a dvě půlky. Výlet záda ve spodní."
+      "text": "Obrácená šikmá tlačená smyčka. Táhni 135, jeden a půl nahoru, zatlač do 45 a dvě půlky. Výlet záda ve spodní."
     },
     "de": {
       "needs_translation": true,
@@ -1200,7 +1200,7 @@
     "audio": "0a07d0",
     "cz": {
       "needs_translation": false,
-      "text": "Slza. Nahoru tři čtvrtě tlačeného a čtvrt ve stejném, dolů jeden tažený."
+      "text": "Tear Drop. Nahoru tři čtvrtě tlačeného a čtvrt ve stejném, dolů jeden tažený."
     },
     "de": {
       "needs_translation": false,
@@ -1221,7 +1221,7 @@
     "audio": "e4b390",
     "cz": {
       "needs_translation": false,
-      "text": "Slza. V pětačtyřiceti nahoru dvě osminy, proti jeden a čtvrt výkrut, táhni, dolů celý do tlačeného proti. Výlet záda."
+      "text": "Tear Drop. V pětačtyřiceti nahoru dvě osminy, proti jeden a čtvrt výkrut, táhni, dolů celý do tlačeného proti. Výlet záda."
     },
     "de": {
       "needs_translation": true,
@@ -1242,7 +1242,7 @@
     "audio": "a7e703",
     "cz": {
       "needs_translation": false,
-      "text": "Slza. V pětačtyřiceti dvě osminy do jednoho a čtvrt nahoru, celý do třičtvrtě tlačeného proti, výlet záda kolmo."
+      "text": "Tear Drop. V pětačtyřiceti dvě osminy do jednoho a čtvrt nahoru, celý do třičtvrtě tlačeného proti, výlet záda kolmo."
     },
     "de": {
       "needs_translation": true,
