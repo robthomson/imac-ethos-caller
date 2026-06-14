@@ -54,6 +54,7 @@ LOCALE_VOICES = {
     "fr/homme":  "fr-FR-Standard-B",
     "de/default": "de-DE-Neural2-C",
     "nl/default": "nl-NL-Wavenet-A",
+    "cz/default": "cs-CZ-Wavenet-A",
 }
 DEFAULT_VOICE = LOCALE_VOICES["en/gb"]
 
