@@ -1,3 +1,7 @@
+# 1.0.4
+
+- Extend system to support more languages.
+
 # 1.0.3
 
 - Refactor system to work with muliple languages.   Currently supported are
