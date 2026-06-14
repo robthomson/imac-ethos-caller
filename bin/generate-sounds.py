@@ -55,6 +55,13 @@ LOCALE_VOICES = {
     "de/default": "de-DE-Neural2-C",
     "nl/default": "nl-NL-Wavenet-A",
     "cs/default": "cs-CZ-Wavenet-A",
+    "es/default": "es-ES-Wavenet-C",
+    "he/default": "he-IL-Wavenet-C",
+    "it/default": "it-IT-Wavenet-B",
+    "no/default": "nb-NO-Standard-E",
+    "pl/default": "cs-CZ-Wavenet-A",
+    "pt-br/default": "pt-BR-Wavenet-A",
+    "zh-cn/default": "cmn-CN-Wavenet-A",
 }
 DEFAULT_VOICE = LOCALE_VOICES["en/gb"]
 

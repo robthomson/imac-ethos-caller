@@ -5,7 +5,7 @@
 
 local BASE = "SCRIPTS:/imac-caller/i18n/"
 
-local SUPPORTED = {"en", "fr", "de", "nl", "cs"}
+local SUPPORTED = {"en", "fr", "de", "nl", "cs", "es", "he", "it", "no", "pl", "pt-br", "zh-cn"}
 
 local locales = {}
 for _, lang in ipairs(SUPPORTED) do
@@ -15,8 +15,10 @@ end
 
 local function resolveLocale(lang)
     if type(lang) == "string" then
-        lang = lang:sub(1, 2):lower()
+        lang = lang:lower()
         if locales[lang] then return lang end
+        local short = lang:sub(1, 2)
+        if locales[short] then return short end
     end
     return "en"
 end

@@ -32,22 +32,23 @@ Long-press the widget to open settings:
 | Trigger Switch | Advances to the next maneuver and announces it |
 | Repeat Switch | Re-announces the current maneuver |
 | Reset Switch | Resets to the start and announces the class reset |
-| Language | UI/audio language: Auto (follows the radio's locale), English, Français, Deutsch, Nederlands, Czech |
+| Language | UI/audio language: Auto (follows the radio's locale), English, Français, Deutsch, Nederlands, Česky, Español, עברית, Italiano, Norsk, Polski, Português (BR), 中文 (简体) |
 
 ## Languages
 
-The widget UI is available in English, French, German, Dutch, and Czech. By default
-("Auto") it follows the radio's locale (`system.getLocale()`), falling back to
-English for any unsupported locale. You can override this with the
-**Language** field in the widget settings.
+The widget UI is available in English, French, German, Dutch, Czech, Spanish,
+Hebrew, Italian, Norwegian, Polish, Portuguese (Brazil), and Chinese
+(Simplified). By default ("Auto") it follows the radio's locale
+(`system.getLocale()`), falling back to English for any unsupported locale.
+You can override this with the **Language** field in the widget settings.
 
 IMAC class names (Basic, Sportsman, Advanced, …) and figure/maneuver names
 (Loop, Hammerhead, Immelmann, …) are always shown in English — these are
 standard FAI/IMAC competition terms pilots recognize from official sequence
 sheets, regardless of UI language.
 
-Spoken call-outs are available in English, French, German, Dutch, and Czech. Any
-maneuver without translated audio falls back to the English recording — see
+Spoken call-outs are available in all 12 supported languages. Any maneuver
+without translated audio falls back to the English recording — see
 [Adding Translated Audio](#adding-translated-audio) for how to add more.
 
 Audio is organized into per-locale voice-pack folders matching the official
@@ -56,8 +57,8 @@ English ships `gb` (British, the default) and `us` voices, and French ships
 `femme` (female, the default) and `homme` (male) voices. The widget picks
 whichever variant matches the radio's currently selected audio voice
 (`system.getAudioVoice()`), falling back to that locale's default variant if
-the radio's voice isn't one of the available options. German, Dutch, and Czech
-ship a single `default` voice each, since Ethos doesn't offer multiple official
+the radio's voice isn't one of the available options. All other locales ship
+a single `default` voice each, since Ethos doesn't offer multiple official
 voice packs for those locales.
 
 ## Generating Sound Files
@@ -92,7 +93,7 @@ The repo-root `seasons/` and `i18n/` folders are the editing surface — nothing
    python bin\catalog-add.py "Loop" "Loop. Outside entry, three-quarter opposite roll and quarter roll at the top."
    python bin\catalog-add.py --reset basic "Basic sequence reset."
    ```
-   Each command prints the maneuver ID to reference from `sequence.json`. New entries are added to `seasons/catalog.json` with English text only — `fr`/`de`/`nl`/`cs` start as English placeholders flagged `"needs_translation": true` (see [Adding Translated Audio](#adding-translated-audio)).
+   Each command prints the maneuver ID to reference from `sequence.json`. New entries are added to `seasons/catalog.json` with English text only — every other locale (`fr`, `de`, `nl`, `cs`, `es`, `he`, `it`, `no`, `pl`, `pt-br`, `zh-cn`) starts as an English placeholder flagged `"needs_translation": true` (see [Adding Translated Audio](#adding-translated-audio)).
 3. Run `bin\generate.cmd` — writes `sequences.lua` for that year and rebuilds the shared sound catalog (`src/imac-caller/sounds/<locale>/<variant>/soundlist.csv`) from `seasons/catalog.json`.
 4. Run `bin\generate-sounds.cmd` to produce any new WAV files.
 
@@ -104,14 +105,14 @@ Never edit `sequences.lua`, `soundlist.csv`, or `src/imac-caller/i18n/*.lua` dir
 
 Spoken call-out translations live directly in
 [seasons/catalog.json](seasons/catalog.json), one entry per maneuver, with a
-`fr`/`de`/`nl`/`cs` block each. New maneuvers (added via `bin\catalog-add.py`)
-start with their `fr`/`de`/`nl`/`cs` text set to the English placeholder and
-`"needs_translation": true`.
+block for each of `fr`/`de`/`nl`/`cs`/`es`/`he`/`it`/`no`/`pl`/`pt-br`/`zh-cn`.
+New maneuvers (added via `bin\catalog-add.py`) start with each of these set to
+the English placeholder and `"needs_translation": true`.
 
 To translate:
 
 1. Find the maneuver's entry in `seasons/catalog.json` (search for its ID or English `en` text)
-2. Edit the `text` field under `fr`/`de`/`nl`/`cs`
+2. Edit the `text` field under the target locale (e.g. `fr`, `pt-br`, `zh-cn`)
 3. Set `"needs_translation": false`
 4. Run `bin\generate.cmd` — this adds an entry to
    `src/imac-caller/sounds/<lang>/<variant>/soundlist.csv` (one CSV per
@@ -158,12 +159,18 @@ layout of rfsuite's sound-generator soundpacks:
 | German | `default` | `default` |
 | Dutch | `default` | `default` |
 | Czech | `default` | `default` |
+| Spanish | `default` | `default` |
+| Hebrew | `default` | `default` |
+| Italian | `default` | `default` |
+| Norwegian | `default` | `default` |
+| Polish | `default` | `default` |
+| Portuguese (Brazil) | `default` | `default` |
+| Chinese (Simplified) | `default` | `default` |
 
-English variants are generated from each catalog entry's `en` text; French,
-German, Dutch, and Czech variants are generated from the entry's
-`fr`/`de`/`nl`/`cs` text. French, German, and Dutch are generated only when
-`needs_translation` is `false`; Czech currently uses English placeholder text
-until translated text is available. Each variant is written to its own
+English variants are generated from each catalog entry's `en` text; every
+other locale's variant is generated from the entry's text for that locale
+(e.g. `fr`, `de`, `cs`, `pt-br`, `zh-cn`), but only when `needs_translation`
+is `false`. Each variant is written to its own
 `src/imac-caller/sounds/<locale>/<variant>/soundlist.csv`, with voices
 configured in `LOCALE_VOICES` in `bin/generate-sounds.py`:
 
@@ -176,6 +183,13 @@ configured in `LOCALE_VOICES` in `bin/generate-sounds.py`:
 | `de/default` | `de-DE-Neural2-C` |
 | `nl/default` | `nl-NL-Wavenet-A` |
 | `cs/default` | `cs-CZ-Wavenet-A` |
+| `es/default` | `es-ES-Wavenet-C` |
+| `he/default` | `he-IL-Wavenet-C` |
+| `it/default` | `it-IT-Wavenet-B` |
+| `no/default` | `nb-NO-Standard-E` |
+| `pl/default` | `cs-CZ-Wavenet-A` |
+| `pt-br/default` | `pt-BR-Wavenet-A` |
+| `zh-cn/default` | `cmn-CN-Wavenet-A` |
 
 At runtime, the widget picks the variant matching the radio's currently
 selected audio voice (`system.getAudioVoice()`), falling back to the locale's
@@ -192,7 +206,7 @@ i18n/                                # Editing surface — not deployed
 └── strings.json                    # UI chrome strings, all locales (year, routine, switch labels, ...)
 
 seasons/                            # Editing surface — not deployed
-├── catalog.json                    # Maneuver catalog: id -> label + en/fr/de/nl/cs text + needs_translation
+├── catalog.json                    # Maneuver catalog: id -> label + per-locale text + needs_translation
 └── 2026/
     └── sequence.json               # Class/figure structure for this year — references catalog IDs
 
@@ -205,7 +219,14 @@ src/imac-caller/                   # Deployed to radio (generated, except widget
 │   ├── fr.lua
 │   ├── de.lua
 │   ├── nl.lua
-│   └── cs.lua
+│   ├── cs.lua
+│   ├── es.lua
+│   ├── he.lua
+│   ├── it.lua
+│   ├── no.lua
+│   ├── pl.lua
+│   ├── pt-br.lua
+│   └── zh-cn.lua
 ├── seasons/
 │   └── 2026/
 │       └── sequences.lua           # Generated from seasons/2026/sequence.json + seasons/catalog.json
@@ -232,7 +253,35 @@ src/imac-caller/                   # Deployed to radio (generated, except widget
     │   └── default/
     │       ├── soundlist.csv
     │       └── ...
-    └── cs/
+    ├── cs/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── es/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── he/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── it/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── no/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── pl/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    ├── pt-br/
+    │   └── default/
+    │       ├── soundlist.csv
+    │       └── ...
+    └── zh-cn/
         └── default/
             ├── soundlist.csv
             └── ...

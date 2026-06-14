@@ -29,6 +29,7 @@ import csv
 import glob
 import json
 import os
+import re
 
 SCRIPT_DIR  = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT   = os.path.normpath(os.path.join(SCRIPT_DIR, ".."))
@@ -40,8 +41,8 @@ SEASONS_OUT = os.path.join(WIDGET_ROOT, "seasons")
 SOUNDS_OUT  = os.path.join(WIDGET_ROOT, "sounds")
 I18N_OUT    = os.path.join(WIDGET_ROOT, "i18n")
 
-SUPPORTED_LOCALES = ["en", "fr", "de", "nl", "cs"]
-TRANSLATABLE_LOCALES = ["fr", "de", "nl", "cs"]
+SUPPORTED_LOCALES = ["en", "fr", "de", "nl", "cs", "es", "he", "it", "no", "pl", "pt-br", "zh-cn"]
+TRANSLATABLE_LOCALES = ["fr", "de", "nl", "cs", "es", "he", "it", "no", "pl", "pt-br", "zh-cn"]
 PLACEHOLDER_AUDIO_LOCALES = ["cs"]
 
 # Voice variant folders per locale, matching the official Ethos audio pack
@@ -54,6 +55,13 @@ LOCALE_VARIANTS = {
     "de": ["default"],
     "nl": ["default"],
     "cs": ["default"],
+    "es": ["default"],
+    "he": ["default"],
+    "it": ["default"],
+    "no": ["default"],
+    "pl": ["default"],
+    "pt-br": ["default"],
+    "zh-cn": ["default"],
 }
 
 
@@ -66,16 +74,25 @@ def lua_str(s):
     return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
+def lua_key(key):
+    """Render a Lua table key, using bracket+string syntax for keys that
+    aren't valid Lua identifiers (e.g. "lang_pt-br")."""
+    if re.match(r"^[A-Za-z_][A-Za-z0-9_]*$", key):
+        return key
+    return f'["{key}"]'
+
+
 def write_i18n(strings):
     """Write src/imac-caller/i18n/<locale>.lua from i18n/strings.json."""
     keys = list(strings.keys())
-    pad = max(len(k) for k in keys) + 1
+    rendered = {key: lua_key(key) for key in keys}
+    pad = max(len(k) for k in rendered.values()) + 1
 
     for locale in SUPPORTED_LOCALES:
         lines = ["return {"]
         for key in keys:
             value = strings[key].get(locale, strings[key]["en"])
-            lines.append(f"    {key.ljust(pad)}= {lua_str(value)},")
+            lines.append(f"    {rendered[key].ljust(pad)}= {lua_str(value)},")
         lines.append("}")
         lines.append("")
 

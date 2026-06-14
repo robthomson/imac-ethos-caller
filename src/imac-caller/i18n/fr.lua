@@ -12,4 +12,11 @@ return {
     lang_de        = "Deutsch",
     lang_nl        = "Nederlands",
     lang_cs        = "Česky",
+    lang_es        = "Español",
+    lang_he        = "עברית",
+    lang_it        = "Italiano",
+    lang_no        = "Norsk",
+    lang_pl        = "Polski",
+    ["lang_pt-br"] = "Português (BR)",
+    ["lang_zh-cn"] = "中文 (简体)",
 }
