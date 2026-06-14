@@ -40,9 +40,9 @@ SEASONS_OUT = os.path.join(WIDGET_ROOT, "seasons")
 SOUNDS_OUT  = os.path.join(WIDGET_ROOT, "sounds")
 I18N_OUT    = os.path.join(WIDGET_ROOT, "i18n")
 
-SUPPORTED_LOCALES = ["en", "fr", "de", "nl", "cz"]
-TRANSLATABLE_LOCALES = ["fr", "de", "nl", "cz"]
-PLACEHOLDER_AUDIO_LOCALES = ["cz"]
+SUPPORTED_LOCALES = ["en", "fr", "de", "nl", "cs"]
+TRANSLATABLE_LOCALES = ["fr", "de", "nl", "cs"]
+PLACEHOLDER_AUDIO_LOCALES = ["cs"]
 
 # Voice variant folders per locale, matching the official Ethos audio pack
 # names used by rfsuite's sound-generator soundpacks (see
@@ -53,7 +53,7 @@ LOCALE_VARIANTS = {
     "fr": ["femme", "homme"],
     "de": ["default"],
     "nl": ["default"],
-    "cz": ["default"],
+    "cs": ["default"],
 }
 
 

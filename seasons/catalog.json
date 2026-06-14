@@ -1,7 +1,7 @@
 {
   "180-inverted-turn-fca74fc8": {
     "audio": "b165d2",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Zatáčka 180 na zádech."
     },
@@ -22,7 +22,7 @@
   },
   "270-degree-roller-751d8c67": {
     "audio": "85ab47",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Výkruty do kruhu 270. Celý dovnitř, půlka ven. Výlet normál a Out."
     },
@@ -43,7 +43,7 @@
   },
   "270-roller-711e718a": {
     "audio": "da0cb7",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tři výkruty dovnitř kruhu 270. Výlet normál, kolmo."
     },
@@ -64,7 +64,7 @@
   },
   "45-downline-9fdb799f": {
     "audio": "33df59",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "45 Dolů. Výlet ve spodní."
     },
@@ -85,7 +85,7 @@
   },
   "90-degree-roller-2c40ae38": {
     "audio": "118a7f",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Jeden výkrut dovnitř kruhu 90 stupňů. Výlet záda a Out."
     },
@@ -106,7 +106,7 @@
   },
   "bow-tie-a0d18cb9": {
     "audio": "78b7e2",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Půl přesýpaček. V obou 45 půlka. Výlet záda v horní."
     },
@@ -127,7 +127,7 @@
   },
   "double-humpty-0399fb87": {
     "audio": "f0de7d",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Dvojitá smyčka. Nahoru nic, dolů dvě čtvrtky, tlač nahoru, třičtvrtě taženého kopu. Táhni do vrchní, výlet záda."
     },
@@ -148,7 +148,7 @@
   },
   "double-humpty-d8156fd4": {
     "audio": "5afbfd",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Dvojitá tažená smyčka. Čtvrtka nahoru, tažený kop dolů, dvě osminy nahoru proti. Přitáhnout na záda."
     },
@@ -169,7 +169,7 @@
   },
   "down-fig-n-0f13642e": {
     "audio": "3054df",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Obrácené N. Dvě půlky v pětačtyřiceti a zatlač střemhlav. Výlet ve spodní a Out."
     },
@@ -190,7 +190,7 @@
   },
   "down-humpty-95e6a404": {
     "audio": "7843ae",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tažená smyčka dolů. Zatlač, dvě čtvrtky dolů, celý nahoru. Zatlač na výlet normál."
     },
@@ -211,7 +211,7 @@
   },
   "down-humpty-bump-c7629585": {
     "audio": "ff8000",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Jedna a třičtvrtě vývrtky do spodní tažené smyčky. Výlet na zádech napříč, v horní."
     },
@@ -232,7 +232,7 @@
   },
   "down-loop-47ee27c9": {
     "audio": "e14425",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Obrácený přemet. Tlač, třičtvrtě výkrutu do třičtvrtě taženého proti dole."
     },
@@ -253,7 +253,7 @@
   },
   "down-sharks-tooth-964556f5": {
     "audio": "6410d4",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Obrácený zub. Střemhlav, třičtvrtě výkrutu, dvě čtvrtky v pětačtyřiceti nahoru. Výlet záda."
     },
@@ -274,7 +274,7 @@
   },
   "down-sharks-tooth-spin-dea81b46": {
     "audio": "414026",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Zub dolů. Začíná dvěma vývrtkami, táhni do 45 nahoru."
     },
@@ -295,7 +295,7 @@
   },
   "fig-n-bf2b0a3d": {
     "audio": "9e2926",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Enko. Táhni 90 Nahoru, do 45 dolů dvě čtvrtky, a 90 do horní. Výlet záda."
     },
@@ -316,7 +316,7 @@
   },
   "fig-p-958a6404": {
     "audio": "2d2053",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "P loop. Nahoru čtyřbod, nahoře integruj celý, tažený kop na výletu."
     },
@@ -337,7 +337,7 @@
   },
   "goldfish-632aaaa2": {
     "audio": "67a43e",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Zlatá rybka. Dvě čtvrtky v první 45, ve druhé nic. Výlet v horní."
     },
@@ -358,7 +358,7 @@
   },
   "half-cuban-85915bfc": {
     "audio": "881636",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tlačená půl Kuba. Dvě půlky dolů, a Out."
     },
@@ -379,7 +379,7 @@
   },
   "half-cuban-95ebc2d7": {
     "audio": "a69a0f",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Půl Kuba. 45 nahoru, třičtvrtě a tři čtvrtky proti, tlač, dvě půlky na výletu záda."
     },
@@ -400,7 +400,7 @@
   },
   "half-reverse-cuban-054bb707": {
     "audio": "4edc53",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Půl obrácené Kuby. Tlač čtyřicet pět dolů, čtyři osminy, tlač, na výletu tři čtvrtky a třičtvrtě zpět. Výlet normálně."
     },
@@ -421,7 +421,7 @@
   },
   "half-reverse-cuban-1a7c4305": {
     "audio": "bb63fb",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Půl obrácené kuby. Jeden a půl tlačeného kopu do normálu, na výstupu čtyři osminy a čtyři proti. Záda."
     },
@@ -442,7 +442,7 @@
   },
   "half-reverse-cuban-31ff3d3a": {
     "audio": "75794b",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Půl obrácené kuby. tlač 45, pět čtvrtek do nože, čtvrtka proti, táhni, na výletu jeden a třičtvrtě taženého, proti tři čtvrtky. Výlet normál a Out."
     },
@@ -463,7 +463,7 @@
   },
   "hammerhead-1f1567df": {
     "audio": "af6f8e",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Souvrat. Třičtvrtě výkrutu do třičtvrtě taženého proti nahoru, čtyři osminy dolů, výlet záda."
     },
@@ -484,7 +484,7 @@
   },
   "hammerhead-34648bf1": {
     "audio": "460043",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Souvrat."
     },
@@ -505,7 +505,7 @@
   },
   "hammerhead-4aca7f4d": {
     "audio": "cb8782",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Souvrat. Čtyři osminy nahoru, třičtvrtě tlačený kop a stejně třičtvrtě dolů."
     },
@@ -526,7 +526,7 @@
   },
   "hammerhead-91769321": {
     "audio": "6e38a2",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Souvrat. Zatlač 90, půlka nahoru, dvě čtvrtky dolů tlač 45 na záda s půlkou, výlet normál."
     },
@@ -547,7 +547,7 @@
   },
   "hammerhead-f3222b9a": {
     "audio": "ae3462",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Souvrat se vstupem 45. Půlka nahoru, půlka dolů."
     },
@@ -568,7 +568,7 @@
   },
   "humpty-bump-49898ee5": {
     "audio": "0e1c80",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tažená smyčka. Půlka nahoru, půlka dolů. Pokračuj ve spodní."
     },
@@ -589,7 +589,7 @@
   },
   "humpty-e1786de6": {
     "audio": "a9baf6",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Smyčka. Dvě čtvrtky do jeden a půl taženého nahoru, jeden a čtvrt dolů. Výlet normál."
     },
@@ -610,7 +610,7 @@
   },
   "immelmann-2da1159a": {
     "audio": "df36d6",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Překrut. Vstup jeden a třičtvrtě do třičtvrtě taženého proti, tlač do horní, výstup jeden tam a jeden zpět normálně."
     },
@@ -631,7 +631,7 @@
   },
   "immelmann-a5bf0b3d": {
     "audio": "5e8b19",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Překrut. Půlka na výletu."
     },
@@ -652,7 +652,7 @@
   },
   "laydown-humpty-1c72a6c9": {
     "audio": "e32c7d",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Obrácená smyčka 45. Dolů s celým, tahej 45 nahoru, a dvě půlky."
     },
@@ -660,7 +660,7 @@
       "needs_translation": true,
       "text": "Laydown Humpty. Ganze Rolle auf der Abwärtslinie, halbe Rolle auf der Aufwärtslinie."
     },
-    "en": "Laydown Humpty. Full roll on the downline, two-point roll on the upline.", //two-point roll instead of half roll
+    "en": "Laydown Humpty. Full roll on the downline, two-point roll on the upline.",
     "fr": {
       "needs_translation": true,
       "text": "Laydown Humpty. Tonneau complet sur la descente, demi-tonneau sur la montée."
@@ -673,7 +673,7 @@
   },
   "laydown-s-e5765e5a": {
     "audio": "3a61a0",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Super S. Dvě půlky na vstupu, tlač, nahoru třičtvrtě tlačeného, čtvrtka stejně, táhni, čtyřbod na výstupu normálně."
     },
@@ -694,7 +694,7 @@
   },
   "loop-2c15cc05": {
     "audio": "0a0edd",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Přemet. Tlač, integruj tři čtvrtky a jednu proti do tahu. Výlet normál."
     },
@@ -715,7 +715,7 @@
   },
   "loop-6c260463": {
     "audio": "ceaecb",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Přemet."
     },
@@ -736,7 +736,7 @@
   },
   "p-loop-c6f4cf89": {
     "audio": "ded186",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "P Loop. Čtyři půlky na vstupu, táhni tři čtvrtě přemetu, čtvrtka, táhni na výlet kolmo normál."
     },
@@ -757,7 +757,7 @@
   },
   "q-loop-8fb90c0b": {
     "audio": "f10f90",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Q Loop. Nahoře integruj výkrut. Výlet 45 dolů."
     },
@@ -778,7 +778,7 @@
   },
   "q-loop-cca0aa6d": {
     "audio": "488b35",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Q Loop. Táhni 45 se čtyřma osminama, tlač přemet s negativním kopem nahoře, půlka na výletu normál."
     },
@@ -799,7 +799,7 @@
   },
   "reset-aalt-3c5da9f0": {
     "audio": "699fed",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Advanced ALT sequence reset."
     },
@@ -820,7 +820,7 @@
   },
   "reset-advan-e7dc8744": {
     "audio": "7ccc94",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset Advanced sekvence."
     },
@@ -841,7 +841,7 @@
   },
   "reset-basic-8f5c0bd2": {
     "audio": "2f7cd5",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset Basic sekvence"
     },
@@ -862,7 +862,7 @@
   },
   "reset-ialt-c8982ae3": {
     "audio": "8f43d3",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset alternativní Intermediate sekvence."
     },
@@ -883,7 +883,7 @@
   },
   "reset-inter-7fef0d50": {
     "audio": "53ec08",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset Intermediate sekvence."
     },
@@ -904,7 +904,7 @@
   },
   "reset-sport-8b330e32": {
     "audio": "4afef4",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset Sportsman sekvence."
     },
@@ -925,7 +925,7 @@
   },
   "reset-ualt-c024eaab": {
     "audio": "5aefed",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset Unlimited ALT sekvence."
     },
@@ -946,7 +946,7 @@
   },
   "reset-unlim-71fc1a67": {
     "audio": "379bd7",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Reset Unlimited sekvence."
     },
@@ -967,7 +967,7 @@
   },
   "reverse-half-cuban-efc78948": {
     "audio": "9a82e1",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Obrácená Kuba. Půlka ve 45 nahoru."
     },
@@ -988,7 +988,7 @@
   },
   "reverse-laydown-humpty-8b6a988d": {
     "audio": "aa2c94",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Šikmá smyčka zezadu. Tlač 135, nahoru jeden a půl taženého a jeden a půl proti, tlač, dvoubod dolů. Výlet záda."
     },
@@ -1009,7 +1009,7 @@
   },
   "reverse-laydown-humpty-9523f40a": {
     "audio": "16e65f",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Obrácená šikmá tlačená smyčka. Táhni 135, jeden a půl nahoru, zatlač do 45 a dvě půlky. Výlet záda ve spodní."
     },
@@ -1030,7 +1030,7 @@
   },
   "roll-28432ff9": {
     "audio": "e673a1",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Výkrut."
     },
@@ -1051,7 +1051,7 @@
   },
   "sharks-tooth-c145242c": {
     "audio": "aa00eb",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Zub. Jeden a čtvrt do nože, čtvrt proti, dolů dvě čtvrtky, výlet normál a Out."
     },
@@ -1072,7 +1072,7 @@
   },
   "sharks-tooth-cfbced3a": {
     "audio": "c6f15a",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Zub. Ve čtyřiceti pěti šest osmin do nože, třičtvtě taženého stejně na záda, dolů tři čtvrtky a proti třičtvrtě."
     },
@@ -1093,7 +1093,7 @@
   },
   "spin-29d9456c": {
     "audio": "7cbea2",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Vývrtka. Jedna a půl tažená, proti jeden a třičtvrtě tlačeného kopu, výlet normál kolmo."
     },
@@ -1114,7 +1114,7 @@
   },
   "spin-6de9190c": {
     "audio": "0c04fe",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Vývrtka. Jedna a půl tažené vývrtky, dvě čtvrtky proti. Zatlač na záda."
     },
@@ -1135,7 +1135,7 @@
   },
   "spin-7bdc9e6b": {
     "audio": "bb208c",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Vývrtka na zádech. Jeden a tři čtvrtě do prostoru, dvě osminy stejný směr. Výlet normál."
     },
@@ -1156,7 +1156,7 @@
   },
   "split-s-2457d785": {
     "audio": "20f5b2",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Zvrat. Půlka na začátku."
     },
@@ -1177,7 +1177,7 @@
   },
   "split-s-47b40932": {
     "audio": "4b1714",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Překrut. Na vstupu půl, kop na výletu."
     },
@@ -1198,7 +1198,7 @@
   },
   "tear-drop-46f78217": {
     "audio": "0a07d0",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tear Drop. Nahoru tři čtvrtě tlačeného a čtvrt ve stejném, dolů jeden tažený."
     },
@@ -1219,7 +1219,7 @@
   },
   "tear-drop-606745cb": {
     "audio": "e4b390",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tear Drop. V pětačtyřiceti nahoru dvě osminy, proti jeden a čtvrt výkrut, táhni, dolů celý do tlačeného proti. Výlet záda."
     },
@@ -1240,7 +1240,7 @@
   },
   "tear-drop-be0af6f7": {
     "audio": "a7e703",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Tear Drop. V pětačtyřiceti dvě osminy do jednoho a čtvrt nahoru, celý do třičtvrtě tlačeného proti, výlet záda kolmo."
     },
@@ -1261,7 +1261,7 @@
   },
   "vertical-down-line-f664794d": {
     "audio": "7bf888",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Střemhlav. Čtyři osminy dolů."
     },
@@ -1282,7 +1282,7 @@
   },
   "vertical-upline-d8766cad": {
     "audio": "6bb17e",
-    "cz": {
+    "cs": {
       "needs_translation": false,
       "text": "Vertikála nahoru s půlkou. Zatlač do výletu."
     },

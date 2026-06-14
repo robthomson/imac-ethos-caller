@@ -1,15 +1,15 @@
 {
-  "year":           {"en": "Year",           "fr": "Année",                       "de": "Jahr",             "nl": "Jaar",                "cz": "Ročník"},
-  "routine":        {"en": "Routine",        "fr": "Programme",                   "de": "Programm",         "nl": "Programma",           "cz": "Program"},
-  "trigger_switch": {"en": "Trigger Switch", "fr": "Interrupteur Déclencheur",     "de": "Auslöseschalter",  "nl": "Trigger-schakelaar",  "cz": "Spínač Další"},
-  "repeat_switch":  {"en": "Repeat Switch",  "fr": "Interrupteur Répéter",         "de": "Wiederholschalter","nl": "Herhaal-schakelaar",  "cz": "Spínač Opakovat"},
-  "reset_switch":   {"en": "Reset Switch",   "fr": "Interrupteur Réinitialiser",   "de": "Reset-Schalter",   "nl": "Reset-schakelaar",    "cz": "Spínač Reset"},
-  "ready":          {"en": "Ready",          "fr": "Prêt",                        "de": "Bereit",           "nl": "Gereed",              "cz": "Připraven"},
-  "language":       {"en": "Language",       "fr": "Langue",                       "de": "Sprache",          "nl": "Taal",                "cz": "Jazyk"},
-  "lang_auto":      {"en": "Auto",           "fr": "Auto",                         "de": "Auto",             "nl": "Auto",                "cz": "Auto"},
-  "lang_en":        {"en": "English",        "fr": "English",                      "de": "English",          "nl": "English",             "cz": "English"},
-  "lang_fr":        {"en": "Français",       "fr": "Français",                     "de": "Français",         "nl": "Français",            "cz": "Français"},
-  "lang_de":        {"en": "Deutsch",        "fr": "Deutsch",                      "de": "Deutsch",          "nl": "Deutsch",             "cz": "Deutsch"},
-  "lang_nl":        {"en": "Nederlands",     "fr": "Nederlands",                  "de": "Nederlands",       "nl": "Nederlands",          "cz": "Nederlands"},
-  "lang_cz":        {"en": "Česky",          "fr": "Česky",                         "de": "Česky",            "nl": "Česky",               "cz": "Česky"}
+  "year":           {"en": "Year",           "fr": "Année",                       "de": "Jahr",             "nl": "Jaar",                "cs": "Ročník"},
+  "routine":        {"en": "Routine",        "fr": "Programme",                   "de": "Programm",         "nl": "Programma",           "cs": "Program"},
+  "trigger_switch": {"en": "Trigger Switch", "fr": "Interrupteur Déclencheur",     "de": "Auslöseschalter",  "nl": "Trigger-schakelaar",  "cs": "Spínač Další"},
+  "repeat_switch":  {"en": "Repeat Switch",  "fr": "Interrupteur Répéter",         "de": "Wiederholschalter","nl": "Herhaal-schakelaar",  "cs": "Spínač Opakovat"},
+  "reset_switch":   {"en": "Reset Switch",   "fr": "Interrupteur Réinitialiser",   "de": "Reset-Schalter",   "nl": "Reset-schakelaar",    "cs": "Spínač Reset"},
+  "ready":          {"en": "Ready",          "fr": "Prêt",                        "de": "Bereit",           "nl": "Gereed",              "cs": "Připraven"},
+  "language":       {"en": "Language",       "fr": "Langue",                       "de": "Sprache",          "nl": "Taal",                "cs": "Jazyk"},
+  "lang_auto":      {"en": "Auto",           "fr": "Auto",                         "de": "Auto",             "nl": "Auto",                "cs": "Auto"},
+  "lang_en":        {"en": "English",        "fr": "English",                      "de": "English",          "nl": "English",             "cs": "English"},
+  "lang_fr":        {"en": "Français",       "fr": "Français",                     "de": "Français",         "nl": "Français",            "cs": "Français"},
+  "lang_de":        {"en": "Deutsch",        "fr": "Deutsch",                      "de": "Deutsch",          "nl": "Deutsch",             "cs": "Deutsch"},
+  "lang_nl":        {"en": "Nederlands",     "fr": "Nederlands",                  "de": "Nederlands",       "nl": "Nederlands",          "cs": "Nederlands"},
+  "lang_cs":        {"en": "Česky",          "fr": "Česky",                         "de": "Česky",            "nl": "Česky",               "cs": "Česky"}
 }

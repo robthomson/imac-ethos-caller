@@ -1,0 +1,15 @@
+return {
+    year           = "Ročník",
+    routine        = "Program",
+    trigger_switch = "Spínač Další",
+    repeat_switch  = "Spínač Opakovat",
+    reset_switch   = "Spínač Reset",
+    ready          = "Připraven",
+    language       = "Jazyk",
+    lang_auto      = "Auto",
+    lang_en        = "English",
+    lang_fr        = "Français",
+    lang_de        = "Deutsch",
+    lang_nl        = "Nederlands",
+    lang_cs        = "Česky",
+}
