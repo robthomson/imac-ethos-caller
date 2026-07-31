@@ -1,3 +1,7 @@
+# 1.0.5
+
+- Internal fix: the lazy-loading helper's proxy no longer stays a permanent indirection layer after the widget implementation loads -- it now resolves to the real functions on first use, removing an ongoing per-tick overhead on wakeup()/paint(). No user-facing behavior change.
+
 # 1.0.4
 
 - Extend system to support more languages.
