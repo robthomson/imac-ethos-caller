@@ -2,50 +2,50 @@
   "1-1-2-spin-with-down-hum-534a841b": {
     "audio": "8ea8fa",
     "cs": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Vývrtka s taženou smyčkou. Jeden a půl do prostoru normál, tažený kop na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Eineinhalb Umdrehungen im Normalflug, positive Schnellrolle beim Ausstieg."
     },
     "en": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Una vuelta y media en posición normal, tonel rápido positivo en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Un tour et demi à l'endroit, vrille déclenchée positive à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. אחד וחצי סיבובים ישרים, סנאפ חיובי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Un giro e mezzo diritto, vite positiva all'uscita."
     },
     "label": "1-1/2 Spin with Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Anderhalve toer rechtop, positieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. En og en halv omdrei oppreist, positiv snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Jeden i pół obrotu w locie normalnym, beczka łamana dodatnia na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. Uma volta e meia normal, parafuso positivo na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "One and a Half Spin with Down Humpty. 一个又二分之一正飞圈，退出时做正螺旋滚。"
     }
   },
   "180-inverted-turn-fca74fc8": {
@@ -198,99 +198,99 @@
   "270-roller-771cd916": {
     "audio": "d1e8b6",
     "cs": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "Tři výkruty dovnitř kruhu dvě stě sedmdesát. Výlet normál napříč."
     },
     "de": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Drei ganze Rollen innen. Ausstieg im Normalflug, quer zur Box."
     },
     "en": "270 Roller. Three full rolls inside. Exit upright cross box.",
     "es": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Tres toneles completos en el interior. Salida normal, cruzando la caja."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Trois tonneaux complets à l'intérieur. Sortie à l'endroit, en travers de la boîte."
     },
     "he": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. שלושה גלגולים מלאים פנימיים. יציאה ישרה לרוחב התיבה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Tre rollii completi interni. Uscita diritto, di traverso al box."
     },
     "label": "270 Roller",
     "nl": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Drie volledige rollen binnen. Uitgang rechtop, dwars door de box."
     },
     "no": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Tre full ruller inni. Utgang oppreist, på tvers av boksen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Trzy pełne beczki do wewnątrz. Wyjście w locie normalnym, w poprzek pudełka."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. Três rolagens completas na entrada. Saída normal, atravessando a caixa."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+      "needs_translation": false,
+      "text": "270 Roller. 内筋斗中做三个整横滚。正飞横穿航线箱退出。"
     }
   },
   "360-roller-c8fd37e5": {
     "audio": "07d57c",
     "cs": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "Jeden výkrut ven, jeden dovnitř kruhu tři sta šedesát. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Ganze Rolle außen, ganze Rolle innen. Ausstieg im Rückenflug."
     },
     "en": "360 Roller. Full roll outside, full roll inside. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Tonel completo en el exterior, tonel completo en el interior. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Tonneau complet à l'extérieur, tonneau complet à l'intérieur. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. גלגול מלא חיצוני, גלגול מלא פנימי. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Rollio completo esterno, rollio completo interno. Uscita rovescia."
     },
     "label": "360 Roller",
     "nl": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Volledige rol buiten, volledige rol binnen. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Full rull utenfor, full rull inni. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Pełna beczka na zewnątrz, pełna beczka do wewnątrz. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. Rolagem completa na saída, rolagem completa na entrada. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+      "needs_translation": false,
+      "text": "360 Roller. 外筋斗做一个整横滚，内筋斗做一个整横滚。倒飞退出。"
     }
   },
   "45-downline-9fdb799f": {
@@ -394,50 +394,50 @@
   "90-roller-409ad111": {
     "audio": "788a52",
     "cs": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Devadesátka. Celý dovnitř. Výlet záda napříč."
     },
     "de": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Ganze Rolle innen. Ausstieg im Rückenflug, quer zur Box."
     },
     "en": "90 Roller. Full roll inside. Exit inverted cross box.",
     "es": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Tonel completo en el interior. Salida invertida, cruzando la caja."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Tonneau complet à l'intérieur. Sortie sur le dos, en travers de la boîte."
     },
     "he": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. גלגול מלא פנימי. יציאה הפוכה לרוחב התיבה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Rollio completo interno. Uscita rovescia, di traverso al box."
     },
     "label": "90 Roller",
     "nl": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Volledige rol binnen. Uitgang ondersteboven, dwars door de box."
     },
     "no": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Full rull inni. Utgang på ryggen, på tvers av boksen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Pełna beczka do wewnątrz. Wyjście na grzbiecie, w poprzek pudełka."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. Rolagem completa na entrada. Saída invertida, atravessando a caixa."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "90 Roller. 内筋斗中做一个整横滚。倒飞横穿航线箱退出。"
     }
   },
   "bow-tie-a0d18cb9": {
@@ -541,50 +541,50 @@
   "double-humpty-869cfe42": {
     "audio": "6d4483",
     "cs": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Dvojitá tažená smyčka. Půlka a proti dva ze čtyřbodu dolů, na výletu třičtvrtě a čtvrtka proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Halbe Rolle, entgegengesetzt zwei von vier Punkten Rolle auf der Abwärtslinie, Dreiviertelrolle, entgegengesetzte Viertelrolle beim Ausstieg."
     },
     "en": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Medio tonel y, en sentido opuesto, dos de cuatro puntos en la línea de bajada, tonel de tres cuartos y cuarto de tonel opuesto en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Demi-tonneau puis, en sens opposé, deux de quatre points de tonneau sur la descente, trois-quarts de tonneau puis quart de tonneau opposé à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. חצי גלגול ולאחריו בכיוון מנוגד שתיים מארבע נקודות עצירה של גלגול על קו הירידה, שלושת רבעי גלגול ולאחריו רבע גלגול בכיוון מנוגד ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Mezzo rollio seguito, in direzione opposta, da un rollio a quattro tempi di mezzo giro sulla discesa, rollio di tre quarti seguito da un quarto di rollio opposto all'uscita."
     },
     "label": "Double Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Halve rol, tegengesteld twee van de vier punten rol op de daallijn, driekwartrol, tegengestelde kwartrol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Halv rull, motsatt to av fire-punkts rull på dykkelinjen, tre fjerdedels rull, motsatt kvart rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Pół beczki, a w przeciwnym kierunku dwa z czterech punktów beczki na linii opadającej, trzy czwarte beczki, a w przeciwnym kierunku ćwierć beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. Meia rolagem seguida, em direção oposta, de dois de quatro tempos de rolagem na linha descendente, três quartos de rolagem seguidos de um quarto de rolagem oposta na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Double Humpty. 二分之一横滚接反向下降线上四分之一处两个横滚，退出时四分之三横滚接反向四分之一横滚。"
     }
   },
   "double-humpty-d8156fd4": {
@@ -688,99 +688,99 @@
   "down-humpty-13b0db35": {
     "audio": "69aa05",
     "cs": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Tažená smyčka dolů. Čtvrtka a stejný směr jeden a čtvrt taženého kopu na vstupu, na výletu kop proti a tažený kop. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Viertelrolle, gleicher Richtung eineinviertel positive Schnellrolle beim Einstieg, negative Schnellrolle, entgegengesetzte positive Schnellrolle beim Ausstieg. Ausstieg im Rückenflug."
     },
     "en": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Cuarto de tonel y, en la misma dirección, tonel rápido positivo de uno y cuarto en la entrada, tonel rápido negativo y opuesto positivo en la salida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Quart de tonneau puis, dans le même sens, vrille déclenchée positive d'un tour et quart à l'entrée, vrille déclenchée négative puis positive opposée à la sortie. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. רבע גלגול ובאותו כיוון אחד ורבע סנאפ חיובי בכניסה, סנאפ שלילי ולאחריו חיובי בכיוון מנוגד ביציאה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Quarto di rollio seguito, nella stessa direzione, da vite positiva di un giro e un quarto all'ingresso, vite negativa seguita da vite positiva opposta all'uscita. Uscita rovescia."
     },
     "label": "Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Kwartrol, zelfde richting een en een kwart positieve snaproll bij de ingang, negatieve snaproll, tegengestelde positieve snaproll bij de uitgang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Kvart rull, samme retning en og en kvart positiv snap roll ved inngang, negativ snap roll, motsatt positiv snap roll ved utgang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Ćwierć beczki, w tym samym kierunku beczka łamana dodatnia jeden i ćwierć na wejściu, beczka łamana ujemna, a w przeciwnym kierunku dodatnia na wyjściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Um quarto de rolagem, na mesma direção um e um quarto de parafuso positivo na entrada, parafuso negativo seguido de positivo oposto na saída. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. 四分之一横滚接同方向一个又四分之一正螺旋滚于进入时，退出时做负螺旋滚接反向正螺旋滚。倒飞退出。"
     }
   },
   "down-humpty-550b2ac9": {
     "audio": "db1be6",
     "cs": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tažená smyčka dolů. Jeden a čtvrt vývrtky, na výletu čtyři z osmibodu. Výlet záda napříč."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Eineinviertel Umdrehungen, vier von acht Punkten Rolle beim Ausstieg. Ausstieg im Rückenflug, quer zur Box."
     },
     "en": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box.",
     "es": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Una vuelta y cuarto, cuatro de ocho puntos en la salida. Salida invertida, cruzando la caja."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Un tour et quart, quatre de huit points de tonneau à la sortie. Sortie sur le dos, en travers de la boîte."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. אחד ורבע סיבוב, ארבע משמונה נקודות עצירה של גלגול ביציאה. יציאה הפוכה לרוחב התיבה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Un giro e un quarto, rollio a otto tempi di mezzo giro all'uscita. Uscita rovescia, di traverso al box."
     },
     "label": "Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Een en een kwart toer, vier van de acht punten rol bij de uitgang. Uitgang ondersteboven, dwars door de box."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. En og en kvart omdrei, fire av åtte-punkts rull ved utgang. Utgang på ryggen, på tvers av boksen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Jeden i ćwierć obrotu, cztery z ośmiu punktów beczki na wyjściu. Wyjście na grzbiecie, w poprzek pudełka."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. Uma volta e um quarto, quatro de oito tempos de rolagem na saída. Saída invertida, atravessando a caixa."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Down Humpty. 一个又四分之一圈，退出时八分之一处做四个横滚。倒飞横穿航线箱退出。"
     }
   },
   "down-humpty-95e6a404": {
@@ -835,50 +835,50 @@
   "down-humpty-98f5e721": {
     "audio": "324135",
     "cs": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Tažená smyčka dolů. Jeden a čtvrt vývrtky a proti třičtvrtě tlačeného kopu, na výletu čtyři z osmibodu. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Eineinviertel Umdrehungen, entgegengesetzte negative Dreiviertel-Schnellrolle, vier von acht Punkten Rolle beim Ausstieg. Ausstieg im Rückenflug."
     },
     "en": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Una vuelta y cuarto y, en sentido opuesto, tonel rápido negativo de tres cuartos, cuatro de ocho puntos en la salida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Un tour et quart puis, en sens opposé, vrille déclenchée négative de trois-quarts, quatre de huit points de tonneau à la sortie. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. אחד ורבע סיבוב ולאחריו בכיוון מנוגד סנאפ שלילי של שלושת רבעי סיבוב, ארבע משמונה נקודות עצירה של גלגול ביציאה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Un giro e un quarto seguito, in direzione opposta, da vite negativa di tre quarti, rollio a otto tempi di mezzo giro all'uscita. Uscita rovescia."
     },
     "label": "Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Een en een kwart toer, tegengestelde negatieve driekwart snaproll, vier van de acht punten rol bij de uitgang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. En og en kvart omdrei, motsatt tre fjerdedels negativ snap roll, fire av åtte-punkts rull ved utgang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Jeden i ćwierć obrotu, a w przeciwnym kierunku beczka łamana ujemna trzy czwarte, cztery z ośmiu punktów beczki na wyjściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. Uma volta e um quarto, em direção oposta três quartos de parafuso negativo, quatro de oito tempos de rolagem na saída. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Humpty. 一个又四分之一圈接反向四分之三负螺旋滚，退出时八分之一处做四个横滚。倒飞退出。"
     }
   },
   "down-humpty-bump-c7629585": {
@@ -982,148 +982,148 @@
   "down-p-loop-5087958a": {
     "audio": "74adbe",
     "cs": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "P lup dolů. Na vstupu tři ze čtyřbodu a třičtvrtě proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Drei von vier Punkten Rolle, entgegengesetzte Dreiviertelrolle beim Einstieg."
     },
     "en": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry.",
     "es": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Tres de cuatro puntos y tonel opuesto de tres cuartos en la entrada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Trois de quatre points de tonneau puis trois-quarts de tonneau opposé à l'entrée."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. שלוש מארבע נקודות עצירה של גלגול ולאחריו שלושת רבעי גלגול בכיוון מנוגד בכניסה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Rollio a quattro tempi di tre quarti di giro, quindi rollio opposto di tre quarti all'ingresso."
     },
     "label": "Down P Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Drie van de vier punten rol, tegengestelde driekwartrol bij de ingang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Tre av fire-punkts rull, motsatt tre fjerdedels rull ved inngang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Trzy z czterech punktów beczki, a następnie trzy czwarte beczki w przeciwnym kierunku na wejściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. Três de quatro tempos de rolagem seguidos de três quartos de rolagem oposta na entrada."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+      "needs_translation": false,
+      "text": "Down P Loop. 进入时四分之一处做三个横滚，接反向四分之三横滚。"
     }
   },
   "down-q-loop-157cef3c": {
     "audio": "49801d",
     "cs": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Q lup dolů. Tlačený kop na vstupu. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Negative Schnellrolle beim Einstieg. Ausstieg im Rückenflug."
     },
     "en": "Down Q Loop. Negative snap on entry. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Tonel rápido negativo en la entrada. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Vrille déclenchée négative à l'entrée. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. סנאפ שלילי בכניסה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Vite negativa all'ingresso. Uscita rovescia."
     },
     "label": "Down Q Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Negatieve snaproll bij de ingang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Negativ snap roll ved inngang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Beczka łamana ujemna na wejściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. Parafuso negativo na entrada. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Q Loop. 进入时做负螺旋滚。倒飞退出。"
     }
   },
   "down-q-loop-5243a46d": {
     "audio": "48017f",
     "cs": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Q lup dolů. Tři ze čtyřbodu a stejný směr jeden a třičtvrtě taženého kopu na vstupu, na výletu jeden a půl kopu proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Drei von vier Punkten Rolle, gleicher Richtung eindreiviertel positive Schnellrollen beim Einstieg, anderthalb negative Schnellrollen beim Ausstieg."
     },
     "en": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Tres de cuatro puntos y, en la misma dirección, tonel rápido positivo de uno y tres cuartos en la entrada, uno y medio toneles rápidos negativos en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Trois de quatre points de tonneau puis, dans le même sens, une vrille déclenchée positive d'un tour trois-quarts à l'entrée, une vrille déclenchée négative et demie à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. שלוש מארבע נקודות עצירה של גלגול ובאותו כיוון אחד ושלושת רבעי סנאפ חיובי בכניסה, אחד וחצי סנאפ שלילי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Rollio a quattro tempi di tre quarti di giro seguito, nella stessa direzione, da vite positiva di un giro e tre quarti all'ingresso, vite negativa di un giro e mezzo all'uscita."
     },
     "label": "Down Q Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Drie van de vier punten rol, zelfde richting een en driekwart positieve snaproll bij de ingang, anderhalve negatieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Tre av fire-punkts rull, samme retning en og tre fjerdedels positiv snap roll ved inngang, en og en halv negativ snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Trzy z czterech punktów beczki, w tym samym kierunku beczka łamana dodatnia jeden i trzy czwarte na wejściu, jeden i pół beczki łamanej ujemnej na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. Três de quatro tempos de rolagem, na mesma direção um e três quartos de parafusos positivos na entrada, um e meio de parafusos negativos na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Down Q Loop. 四分之一处做三个横滚接同方向一个又四分之三正螺旋滚于进入时，退出时做一个又二分之一负螺旋滚。"
     }
   },
   "down-sharks-tooth-964556f5": {
@@ -1227,50 +1227,50 @@
   "down-tear-drop-f588f840": {
     "audio": "abcd26",
     "cs": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Slza dolů. Jeden a půl do prostoru normál, na výletu čtyřbod. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Eineinhalb Umdrehungen im Normalflug, Vierpunktrolle beim Ausstieg. Ausstieg im Rückenflug."
     },
     "en": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Una vuelta y media en posición normal, tonel de cuatro puntos en la salida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Un tour et demi à l'endroit, tonneau à quatre points à la sortie. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. אחד וחצי סיבובים ישרים, גלגול בארבע נקודות עצירה ביציאה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Un giro e mezzo diritto, rollio a quattro tempi all'uscita. Uscita rovescia."
     },
     "label": "Down Tear Drop",
     "nl": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Anderhalve toer rechtop, vierpuntsrol bij de uitgang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. En og en halv omdrei oppreist, fire-punkts rull ved utgang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Jeden i pół obrotu w locie normalnym, przewrót czteropunktowy beczki na wyjściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. Uma volta e meia normal, rolagem em 4 tempos na saída. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Down Tear Drop. 一个又二分之一正飞圈，退出时做四分之一处横滚。倒飞退出。"
     }
   },
   "fig-n-bf2b0a3d": {
@@ -1325,50 +1325,50 @@
   "fig-p-5a1f0cd1": {
     "audio": "52d04f",
     "cs": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "P lup. Na vstupu dvoubod, půlka na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Zweipunktrolle beim Einstieg, halbe Rolle beim Ausstieg."
     },
     "en": "Fig P. Two-point roll on entry, half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Tonel de dos puntos en la entrada, medio tonel en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Tonneau à deux points à l'entrée, demi-tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. גלגול בשתי נקודות עצירה בכניסה, חצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Rollio a due tempi all'ingresso, mezzo rollio all'uscita."
     },
     "label": "Fig P",
     "nl": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Tweepuntsrol bij de ingang, halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. To-punkts rull ved inngang, halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Przewrót dwupunktowy beczki na wejściu, pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. Rolagem em 2 tempos na entrada, meia rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Fig P. Two-point roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Fig P. 进入时做二分之一处横滚，退出时做二分之一横滚。"
     }
   },
   "fig-p-958a6404": {
@@ -1472,99 +1472,99 @@
   "half-cuban-2d6f6a7c": {
     "audio": "705bd0",
     "cs": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Půl Kuba. Celý na vstupu, půlka na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Ganze Rolle beim Einstieg, halbe Rolle beim Ausstieg."
     },
     "en": "Half Cuban. Full roll on entry, half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Tonel completo en la entrada, medio tonel en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Tonneau complet à l'entrée, demi-tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. גלגול מלא בכניסה, חצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Rollio completo all'ingresso, mezzo rollio all'uscita."
     },
     "label": "Half Cuban",
     "nl": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Volledige rol bij de ingang, halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Full rull ved inngang, halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Pełna beczka na wejściu, pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Rolagem completa na entrada, meia rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Half Cuban. Full roll on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. 进入时做一个整横滚，退出时做二分之一横滚。"
     }
   },
   "half-cuban-5b82cdf8": {
     "audio": "1d04f3",
     "cs": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Půl Kuba. Na výletu dva ze čtyřbodu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Zwei von vier Punkten Rolle beim Ausstieg."
     },
     "en": "Half Cuban. Two of four-point roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Dos de cuatro puntos en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Deux de quatre points de tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. שתיים מארבע נקודות עצירה של גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Rollio a quattro tempi di mezzo giro all'uscita."
     },
     "label": "Half Cuban",
     "nl": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Twee van de vier punten rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. To av fire-punkts rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Dwa z czterech punktów beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. Dois de quatro tempos de rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Half Cuban. Two of four-point roll on exit."
+      "needs_translation": false,
+      "text": "Half Cuban. 退出时四分之一处做两个横滚。"
     }
   },
   "half-cuban-85915bfc": {
@@ -1815,99 +1815,99 @@
   "half-reverse-cuban-ab0eba9e": {
     "audio": "7b0fe9",
     "cs": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Půl obrácené Kuby. Nahoru dva ze čtyřbodu. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Zwei von vier Punkten Rolle auf der Aufwärtslinie. Ausstieg im Rückenflug."
     },
     "en": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Dos de cuatro puntos en la línea de subida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Deux de quatre points de tonneau sur la montée. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. שתיים מארבע נקודות עצירה של גלגול על קו העלייה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Rollio a quattro tempi di mezzo giro sulla salita. Uscita rovescia."
     },
     "label": "Half Reverse Cuban",
     "nl": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Twee van de vier punten rol op de stijglijn. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. To av fire-punkts rull på stigelinjen. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Dwa z czterech punktów beczki na linii wznoszącej. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. Dois de quatro tempos de rolagem na linha ascendente. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+      "needs_translation": false,
+      "text": "Half Reverse Cuban. 上升线上四分之一处做两个横滚。倒飞退出。"
     }
   },
   "hammer-head-9d8c2dd2": {
     "audio": "55a394",
     "cs": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Souvrat. Čtvrtka nahoru, čtvrtka dolů."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Viertelrolle auf der Aufwärtslinie, Viertelrolle auf der Abwärtslinie."
     },
     "en": "Hammerhead. Quarter roll on the upline, quarter roll on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Cuarto de tonel en la línea de subida, cuarto de tonel en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Quart de tonneau sur la montée, quart de tonneau sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. רבע גלגול על קו העלייה, רבע גלגול על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Quarto di rollio sulla salita, quarto di rollio sulla discesa."
     },
     "label": "Hammer Head",
     "nl": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Kwartrol op de stijglijn, kwartrol op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Kvart rull på stigelinjen, kvart rull på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Ćwierć beczki na linii wznoszącej, ćwierć beczki na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Um quarto de rolagem na linha ascendente, um quarto de rolagem na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. 上升线上做四分之一横滚，下降线上做四分之一横滚。"
     }
   },
   "hammerhead-1f1567df": {
@@ -2060,50 +2060,50 @@
   "hammerhead-4d9a0215": {
     "audio": "5dc8d3",
     "cs": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Souvrat. Nahoru jeden a čtvrt, dolů tři ze čtyřbodu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Eineinviertel Rollen auf der Aufwärtslinie, drei von vier Punkten Rolle auf der Abwärtslinie."
     },
     "en": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Tonel de uno y cuarto en la línea de subida, tres de cuatro puntos en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Un tonneau et quart sur la montée, trois de quatre points de tonneau sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. אחד ורבע גלגול על קו העלייה, שלוש מארבע נקודות עצירה של גלגול על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Rollio di un giro e un quarto sulla salita, rollio a quattro tempi di tre quarti di giro sulla discesa."
     },
     "label": "Hammerhead",
     "nl": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Een en een kwart rol op de stijglijn, drie van de vier punten rol op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. En og en kvart rull på stigelinjen, tre av fire-punkts rull på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Jeden i ćwierć beczki na linii wznoszącej, trzy z czterech punktów beczki na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. Um e um quarto de rolagem na linha ascendente, três de quatro tempos de rolagem na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Hammerhead. 上升线上做一个又四分之一横滚，下降线上四分之一处做三个横滚。"
     }
   },
   "hammerhead-91769321": {
@@ -2158,99 +2158,99 @@
   "hammerhead-9423d18a": {
     "audio": "f3324c",
     "cs": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Souvrat. Třičtvrtě tlačeného kopu a proti dva z osmibodu nahoru, půl taženého kopu dolů. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Negative Dreiviertel-Schnellrolle, entgegengesetzt zwei von acht Punkten Rolle auf der Aufwärtslinie, halbe positive Schnellrolle auf der Abwärtslinie. Ausstieg im Rückenflug."
     },
     "en": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Tonel rápido negativo de tres cuartos y, en sentido opuesto, dos de ocho puntos en la línea de subida, medio tonel rápido positivo en la línea de bajada. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Vrille déclenchée négative de trois-quarts puis, en sens opposé, deux de huit points de tonneau sur la montée, demi-vrille déclenchée positive sur la descente. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. סנאפ שלילי של שלושת רבעי סיבוב ולאחריו בכיוון מנוגד שתיים משמונה נקודות עצירה של גלגול על קו העלייה, חצי סנאפ חיובי על קו הירידה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Vite negativa di tre quarti seguita, in direzione opposta, da un rollio a otto tempi di un quarto di giro sulla salita, mezza vite positiva sulla discesa. Uscita rovescia."
     },
     "label": "Hammerhead",
     "nl": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Negatieve driekwart snaproll, tegengesteld twee van de acht punten rol op de stijglijn, halve positieve snaproll op de daallijn. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Tre fjerdedels negativ snap roll, motsatt to av åtte-punkts rull på stigelinjen, halv positiv snap roll på dykkelinjen. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Beczka łamana ujemna trzy czwarte, a w przeciwnym kierunku dwa z ośmiu punktów beczki na linii wznoszącej, pół beczki łamanej dodatniej na linii opadającej. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Três quartos de parafuso negativo, em direção oposta dois de oito tempos de rolagem na linha ascendente, meio parafuso positivo na linha descendente. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. 四分之三负螺旋滚接反向上升线上八分之一处两个横滚，下降线上做二分之一正螺旋滚。倒飞退出。"
     }
   },
   "hammerhead-cca1d8e4": {
     "audio": "543ef4",
     "cs": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Souvrat. Nahoru třičtvrtě tlačeného kopu, dolů jeden a čtvrt. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Negative Dreiviertel-Schnellrolle auf der Aufwärtslinie, eineinviertel Rollen auf der Abwärtslinie. Ausstieg im Rückenflug."
     },
     "en": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Tonel rápido negativo de tres cuartos en la línea de subida, tonel de uno y cuarto en la línea de bajada. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Vrille déclenchée négative de trois-quarts sur la montée, un tonneau et quart sur la descente. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. סנאפ שלילי של שלושת רבעי סיבוב על קו העלייה, אחד ורבע גלגול על קו הירידה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Vite negativa di tre quarti sulla salita, rollio di un giro e un quarto sulla discesa. Uscita rovescia."
     },
     "label": "Hammerhead",
     "nl": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Negatieve driekwart snaproll op de stijglijn, een en een kwart rol op de daallijn. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Tre fjerdedels negativ snap roll på stigelinjen, en og en kvart rull på dykkelinjen. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Beczka łamana ujemna trzy czwarte na linii wznoszącej, jeden i ćwierć beczki na linii opadającej. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. Três quartos de parafuso negativo na linha ascendente, um e um quarto de rolagem na linha descendente. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+      "needs_translation": false,
+      "text": "Hammerhead. 上升线上做四分之三负螺旋滚，下降线上做一个又四分之一横滚。倒飞退出。"
     }
   },
   "hammerhead-f3222b9a": {
@@ -2305,197 +2305,197 @@
   "humpty-06cf4d52": {
     "audio": "77fcb7",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Tažená smyčka. Půlka nahoru, celý dolů."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Halbe Rolle auf der Aufwärtslinie, ganze Rolle auf der Abwärtslinie."
     },
     "en": "Humpty. Half roll on the upline, full roll on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Medio tonel en la línea de subida, tonel completo en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Demi-tonneau sur la montée, tonneau complet sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. חצי גלגול על קו העלייה, גלגול מלא על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Mezzo rollio sulla salita, rollio completo sulla discesa."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Halve rol op de stijglijn, volledige rol op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Halv rull på stigelinjen, full rull på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Pół beczki na linii wznoszącej, pełna beczka na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Meia rolagem na linha ascendente, rolagem completa na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. Half roll on the upline, full roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上做二分之一横滚，下降线上做一个整横滚。"
     }
   },
   "humpty-79c55f1e": {
     "audio": "63e99e",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Souvrat. Nahoru pět ze čtyřbodu, třičtvrtě tlačeného kopu a stejný směr dva ze čtyřbodu dolů."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Fünf von vier Punkten Rolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle, gleicher Richtung zwei von vier Punkten Rolle auf der Abwärtslinie."
     },
     "en": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Cinco de cuatro puntos en la línea de subida, tonel rápido negativo de tres cuartos y, en la misma dirección, dos de cuatro puntos en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Cinq de quatre points de tonneau sur la montée, vrille déclenchée négative de trois-quarts puis, dans le même sens, deux de quatre points de tonneau sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. חמש מארבע נקודות עצירה של גלגול על קו העלייה, סנאפ שלילי של שלושת רבעי סיבוב ובאותו כיוון שתיים מארבע נקודות עצירה של גלגול על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Rollio a quattro tempi di un giro e un quarto sulla salita, vite negativa di tre quarti seguita, nella stessa direzione, da un rollio a quattro tempi di mezzo giro sulla discesa."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Vijf van de vier punten rol op de stijglijn, negatieve driekwart snaproll, zelfde richting twee van de vier punten rol op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Fem av fire-punkts rull på stigelinjen, tre fjerdedels negativ snap roll, samme retning to av fire-punkts rull på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Pięć z czterech punktów beczki na linii wznoszącej, beczka łamana ujemna trzy czwarte, w tym samym kierunku dwa z czterech punktów beczki na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Cinco de quatro tempos de rolagem na linha ascendente, três quartos de parafuso negativo, na mesma direção dois de quatro tempos de rolagem na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上四分之一处做五个横滚，接四分之三负螺旋滚，同方向下降线上四分之一处做两个横滚。"
     }
   },
   "humpty-a8212fb3": {
     "audio": "5e3c3e",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Tažená smyčka. Nahoru jeden a půl, dolů jeden a půl taženého kopu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Anderthalb Rollen auf der Aufwärtslinie, anderthalb positive Schnellrollen auf der Abwärtslinie."
     },
     "en": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Tonel de uno y medio en la línea de subida, tonel rápido positivo de uno y medio en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Un tonneau et demi sur la montée, une vrille déclenchée positive et demie sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. אחד וחצי גלגול על קו העלייה, אחד וחצי סנאפ חיובי על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Rollio di un giro e mezzo sulla salita, vite positiva di un giro e mezzo sulla discesa."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Anderhalve rol op de stijglijn, anderhalve positieve snaproll op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. En og en halv rull på stigelinjen, en og en halv positiv snap roll på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Jeden i pół beczki na linii wznoszącej, jeden i pół beczki łamanej dodatniej na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Um e meio de rolagem na linha ascendente, um e meio de parafusos positivos na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上做一个又二分之一横滚，下降线上做一个又二分之一正螺旋滚。"
     }
   },
   "humpty-ba9b7ffa": {
     "audio": "2cbb71",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Souvrat. Nahoru tři z dvoubodu, dolů jeden a čtvrt kopu proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Drei von zwei Punkten Rolle auf der Aufwärtslinie, eineinviertel negative Schnellrollen auf der Abwärtslinie."
     },
     "en": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Tres de dos puntos en la línea de subida, tonel rápido negativo de uno y cuarto en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Trois de deux points de tonneau sur la montée, une vrille déclenchée négative et quart sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. שלוש משתי נקודות עצירה של גלגול על קו העלייה, אחד ורבע סנאפ שלילי על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Rollio a due tempi di un giro e mezzo sulla salita, vite negativa di un giro e un quarto sulla discesa."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Drie van de twee punten rol op de stijglijn, een en een kwart negatieve snaproll op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Tre av to-punkts rull på stigelinjen, en og en kvart negativ snap roll på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Trzy z dwóch punktów beczki na linii wznoszącej, jeden i ćwierć beczki łamanej ujemnej na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Três de dois tempos de rolagem na linha ascendente, um e um quarto de parafusos negativos na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上二分之一处做三个横滚，下降线上做一个又四分之一负螺旋滚。"
     }
   },
   "humpty-bump-49898ee5": {
@@ -2550,148 +2550,148 @@
   "humpty-bump-6ccdb757": {
     "audio": "f6f356",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty Bump."
+      "needs_translation": false,
+      "text": "Tažená smyčka."
     },
     "de": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "en": "Humpty Bump.",
     "es": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "fr": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "he": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "it": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "label": "Humpty Bump",
     "nl": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "no": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "pl": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "pt-br": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     },
     "zh-cn": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Humpty Bump."
     }
   },
   "humpty-cbd5240c": {
     "audio": "a0ea55",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Souvrat. Nahoru tři z dvoubodu, dolů celý a stejný směr kop proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Drei von zwei Punkten Rolle auf der Aufwärtslinie, ganze Rolle, gleicher Richtung negative Schnellrolle auf der Abwärtslinie."
     },
     "en": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Tres de dos puntos en la línea de subida, tonel completo y, en la misma dirección, tonel rápido negativo en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Trois de deux points de tonneau sur la montée, tonneau complet puis, dans le même sens, vrille déclenchée négative sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. שלוש משתי נקודות עצירה של גלגול על קו העלייה, גלגול מלא ובאותו כיוון סנאפ שלילי על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Rollio a due tempi di un giro e mezzo sulla salita, rollio completo seguito, nella stessa direzione, da vite negativa sulla discesa."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Drie van de twee punten rol op de stijglijn, volledige rol, zelfde richting negatieve snaproll op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Tre av to-punkts rull på stigelinjen, full rull, samme retning negativ snap roll på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Trzy z dwóch punktów beczki na linii wznoszącej, pełna beczka, w tym samym kierunku beczka łamana ujemna na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. Três de dois tempos de rolagem na linha ascendente, rolagem completa, na mesma direção parafuso negativo na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上二分之一处做三个横滚，下降线上做一个整横滚接同方向负螺旋滚。"
     }
   },
   "humpty-cf450f3b": {
     "audio": "c46f96",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Tažená smyčka. Nahoru dvoubod, na výletu dva z osmibodu a čtvrtka proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Zweipunktrolle auf der Aufwärtslinie, zwei von acht Punkten Rolle, entgegengesetzte Viertelrolle beim Ausstieg."
     },
     "en": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Tonel de dos puntos en la línea de subida, dos de ocho puntos y cuarto de tonel opuesto en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Tonneau à deux points sur la montée, deux de huit points de tonneau puis quart de tonneau opposé à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. גלגול בשתי נקודות עצירה על קו העלייה, שתיים משמונה נקודות עצירה של גלגול ולאחריו רבע גלגול בכיוון מנוגד ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Rollio a due tempi sulla salita, rollio a otto tempi di un quarto di giro seguito da un quarto di rollio opposto all'uscita."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Tweepuntsrol op de stijglijn, twee van de acht punten rol, tegengestelde kwartrol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. To-punkts rull på stigelinjen, to av åtte-punkts rull, motsatt kvart rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Przewrót dwupunktowy beczki na linii wznoszącej, dwa z ośmiu punktów beczki, a w przeciwnym kierunku ćwierć beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Rolagem em 2 tempos na linha ascendente, dois de oito tempos de rolagem seguidos de um quarto de rolagem oposta na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上做二分之一处横滚，退出时八分之一处两个横滚接反向四分之一横滚。"
     }
   },
   "humpty-e1786de6": {
@@ -2746,148 +2746,148 @@
   "humpty-eb49139e": {
     "audio": "7a72d8",
     "cs": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Tažená smyčka. Nahoru dvoubod, na výletu dva z osmibodu a půlka proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Zweipunktrolle auf der Aufwärtslinie, zwei von acht Punkten Rolle, entgegengesetzte halbe Rolle beim Ausstieg."
     },
     "en": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Tonel de dos puntos en la línea de subida, dos de ocho puntos y medio tonel opuesto en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Tonneau à deux points sur la montée, deux de huit points de tonneau puis demi-tonneau opposé à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. גלגול בשתי נקודות עצירה על קו העלייה, שתיים משמונה נקודות עצירה של גלגול ולאחריו חצי גלגול בכיוון מנוגד ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Rollio a due tempi sulla salita, rollio a otto tempi di un quarto di giro seguito da mezzo rollio opposto all'uscita."
     },
     "label": "Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Tweepuntsrol op de stijglijn, twee van de acht punten rol, tegengestelde halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. To-punkts rull på stigelinjen, to av åtte-punkts rull, motsatt halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Przewrót dwupunktowy beczki na linii wznoszącej, dwa z ośmiu punktów beczki, a w przeciwnym kierunku pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. Rolagem em 2 tempos na linha ascendente, dois de oito tempos de rolagem seguidos de meia rolagem oposta na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+      "needs_translation": false,
+      "text": "Humpty. 上升线上做二分之一处横滚，退出时八分之一处两个横滚接反向二分之一横滚。"
     }
   },
   "immelmann-0c494ff6": {
     "audio": "5ab88c",
     "cs": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Překrut. Půlka na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Halbe Rolle beim Ausstieg."
     },
     "en": "Immelmann. Half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Medio tonel en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Demi-tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. חצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Mezzo rollio all'uscita."
     },
     "label": "Immelmann",
     "nl": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Meia rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Immelmann. Half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. 退出时做二分之一横滚。"
     }
   },
   "immelmann-233ca6cb": {
     "audio": "d674a2",
     "cs": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Překrut. Na vstupu tři z dvoubodu, tažený kop na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Drei von zwei Punkten Rolle beim Einstieg, positive Schnellrolle beim Ausstieg."
     },
     "en": "Immelmann. Three of two-point roll on entry, positive snap on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Tres de dos puntos en la entrada, tonel rápido positivo en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Trois de deux points de tonneau à l'entrée, vrille déclenchée positive à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. שלוש משתי נקודות עצירה של גלגול בכניסה, סנאפ חיובי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Rollio a due tempi di un giro e mezzo all'ingresso, vite positiva all'uscita."
     },
     "label": "Immelmann",
     "nl": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Drie van de twee punten rol bij de ingang, positieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Tre av to-punkts rull ved inngang, positiv snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Trzy z dwóch punktów beczki na wejściu, beczka łamana dodatnia na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Três de dois tempos de rolagem na entrada, parafuso positivo na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. 进入时二分之一处做三个横滚，退出时做正螺旋滚。"
     }
   },
   "immelmann-2da1159a": {
@@ -2942,50 +2942,50 @@
   "immelmann-6739891a": {
     "audio": "7c31f1",
     "cs": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Překrut. Na vstupu čtyři z dvoubodu, na výletu půl kopu proti směru."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Vier von zwei Punkten Rolle beim Einstieg, halbe negative Schnellrolle beim Ausstieg."
     },
     "en": "Immelmann. Four of two-point roll on entry, half negative snap on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Cuatro de dos puntos en la entrada, medio tonel rápido negativo en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Quatre de deux points de tonneau à l'entrée, demi-vrille déclenchée négative à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. ארבע משתי נקודות עצירה של גלגול בכניסה, חצי סנאפ שלילי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Rollio a due tempi di due giri all'ingresso, mezza vite negativa all'uscita."
     },
     "label": "Immelmann",
     "nl": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Vier van de twee punten rol bij de ingang, halve negatieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Fire av to-punkts rull ved inngang, halv negativ snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Cztery z dwóch punktów beczki na wejściu, pół beczki łamanej ujemnej na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Quatro de dois tempos de rolagem na entrada, meio parafuso negativo na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+      "needs_translation": false,
+      "text": "Immelmann. 进入时二分之一处做四个横滚，退出时做二分之一负螺旋滚。"
     }
   },
   "immelmann-a5bf0b3d": {
@@ -3040,148 +3040,148 @@
   "immelmann-e56df2ac": {
     "audio": "8b6d37",
     "cs": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Překrut. Tažený kop na vstupu, půlka na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Positive Schnellrolle beim Einstieg, halbe Rolle beim Ausstieg."
     },
     "en": "Immelmann. Positive snap on entry, half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Tonel rápido positivo en la entrada, medio tonel en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Vrille déclenchée positive à l'entrée, demi-tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. סנאפ חיובי בכניסה, חצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Vite positiva all'ingresso, mezzo rollio all'uscita."
     },
     "label": "Immelmann",
     "nl": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Positieve snaproll bij de ingang, halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Positiv snap roll ved inngang, halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Beczka łamana dodatnia na wejściu, pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. Parafuso positivo na entrada, meia rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Immelmann. Positive snap on entry, half roll on exit."
+      "needs_translation": false,
+      "text": "Immelmann. 进入时做正螺旋滚，退出时做二分之一横滚。"
     }
   },
   "lay-down-humpty-2e4c9d33": {
     "audio": "f1699d",
     "cs": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Tažená smyčka na zádech. Třičtvrtě taženého kopu a proti třičtvrtě na vstupu, na výletu jeden a půl taženého kopu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Positive Dreiviertel-Schnellrolle, entgegengesetzt Dreiviertelrolle beim Einstieg, anderthalb positive Schnellrollen beim Ausstieg."
     },
     "en": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Tonel rápido positivo de tres cuartos y, en sentido opuesto, tonel de tres cuartos en la entrada, uno y medio toneles rápidos positivos en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Vrille déclenchée positive de trois-quarts puis, en sens opposé, trois-quarts de tonneau à l'entrée, une vrille déclenchée positive et demie à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. סנאפ חיובי של שלושת רבעי סיבוב ולאחריו בכיוון מנוגד שלושת רבעי גלגול בכניסה, אחד וחצי סנאפ חיובי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Vite positiva di tre quarti seguita, in direzione opposta, da un rollio di tre quarti all'ingresso, vite positiva di un giro e mezzo all'uscita."
     },
     "label": "Lay Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Positieve driekwart snaproll, tegengesteld driekwartrol bij de ingang, anderhalve positieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Tre fjerdedels positiv snap roll, motsatt tre fjerdedels rull ved inngang, en og en halv positiv snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Beczka łamana dodatnia trzy czwarte, a w przeciwnym kierunku trzy czwarte beczki na wejściu, jeden i pół beczki łamanej dodatniej na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Três quartos de parafuso positivo, em direção oposta três quartos de rolagem na entrada, um e meio de parafusos positivos na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. 四分之三正螺旋滚接反向进入时四分之三横滚，退出时做一个又二分之一正螺旋滚。"
     }
   },
   "lay-down-humpty-d0142578": {
     "audio": "4d71fc",
     "cs": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Tažená smyčka na zádech. Dva ze čtyřbodu a stejný směr tažený kop na vstupu, na výletu jeden a půl kopu proti směru."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Zwei von vier Punkten Rolle, gleicher Richtung positive Schnellrolle beim Einstieg, anderthalb negative Schnellrollen beim Ausstieg."
     },
     "en": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Dos de cuatro puntos y, en la misma dirección, tonel rápido positivo en la entrada, uno y medio toneles rápidos negativos en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Deux de quatre points de tonneau puis, dans le même sens, vrille déclenchée positive à l'entrée, une vrille déclenchée négative et demie à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. שתיים מארבע נקודות עצירה של גלגול ובאותו כיוון סנאפ חיובי בכניסה, אחד וחצי סנאפ שלילי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Rollio a quattro tempi di mezzo giro seguito, nella stessa direzione, da vite positiva all'ingresso, vite negativa di un giro e mezzo all'uscita."
     },
     "label": "Lay Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Twee van de vier punten rol, zelfde richting positieve snaproll bij de ingang, anderhalve negatieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. To av fire-punkts rull, samme retning positiv snap roll ved inngang, en og en halv negativ snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Dwa z czterech punktów beczki, w tym samym kierunku beczka łamana dodatnia na wejściu, jeden i pół beczki łamanej ujemnej na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. Dois de quatro tempos de rolagem, na mesma direção parafuso positivo na entrada, um e meio de parafusos negativos na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+      "needs_translation": false,
+      "text": "Lay Down Humpty. 四分之一处做两个横滚接同方向正螺旋滚于进入时，退出时做一个又二分之一负螺旋滚。"
     }
   },
   "laydown-humpty-1c72a6c9": {
@@ -3236,50 +3236,50 @@
   "laydown-humpty-e52ca154": {
     "audio": "7b2e8a",
     "cs": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Tažená smyčka na zádech. Půlka na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Halbe Rolle beim Ausstieg."
     },
     "en": "Laydown Humpty. Half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Medio tonel en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Demi-tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. חצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Mezzo rollio all'uscita."
     },
     "label": "Laydown Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. Meia rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Laydown Humpty. Half roll on exit."
+      "needs_translation": false,
+      "text": "Laydown Humpty. 退出时做二分之一横滚。"
     }
   },
   "laydown-s-e5765e5a": {
@@ -3383,99 +3383,99 @@
   "loop-398863ad": {
     "audio": "6b79fc",
     "cs": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Přemet. Nahoře integruj jeden a půl taženého kopu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Eineinhalb positive Schnellrollen oben integriert."
     },
     "en": "Loop. One and a half positive snaps integrated at the top.",
     "es": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Tonel rápido positivo de uno y medio integrado en la parte alta."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Vrille déclenchée positive d'un tour et demi intégrée au sommet."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. אחד וחצי סנאפ חיובי משולב בקודקוד."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Vite positiva di un giro e mezzo integrata in cima."
     },
     "label": "Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Anderhalve positieve snaproll verwerkt bovenaan."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. En og en halv positiv snap roll integrert på toppen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Beczka łamana dodatnia jeden i pół zintegrowana na górze."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Um e meio de parafusos positivos integrados no topo."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Loop. One and a half positive snaps integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. 顶部融合做一个又二分之一正螺旋滚。"
     }
   },
   "loop-547e4fdf": {
     "audio": "12a635",
     "cs": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Přemet. Nahoře integruj čtyři z osmibodu. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Vier von acht Punkten Rolle oben integriert. Ausstieg im Rückenflug."
     },
     "en": "Loop. Four of eight-point roll integrated at the top. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Cuatro de ocho puntos integrado en la parte alta. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Quatre de huit points de tonneau intégré au sommet. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. ארבע משמונה נקודות עצירה של גלגול משולב בקודקוד. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Rollio a otto tempi di mezzo giro integrato in cima. Uscita rovescia."
     },
     "label": "Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Vier van de acht punten rol verwerkt bovenaan. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Fire av åtte-punkts rull integrert på toppen. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Cztery z ośmiu punktów beczki zintegrowana na górze. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Quatro de oito tempos de rolagem integrada no topo. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. 顶部融合做八分之一处四个横滚。倒飞退出。"
     }
   },
   "loop-6c260463": {
@@ -3530,99 +3530,99 @@
   "loop-8077bfad": {
     "audio": "646afc",
     "cs": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Přemet. Nahoře integruj celý."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Ganze Rolle oben integriert."
     },
     "en": "Loop. Full roll integrated at the top.",
     "es": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Tonel completo integrado en la parte alta."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Tonneau complet intégré au sommet."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. גלגול מלא משולב בקודקוד."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Rollio completo integrato in cima."
     },
     "label": "Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Volledige rol verwerkt bovenaan."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Full rull integrert på toppen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Pełna beczka zintegrowana na górze."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. Rolagem completa integrada no topo."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Loop. Full roll integrated at the top."
+      "needs_translation": false,
+      "text": "Loop. 顶部融合做一个整横滚。"
     }
   },
   "loop-dd3314dd": {
     "audio": "d9f044",
     "cs": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Přemet. Třičtvrtě a stejný směr nahoře integruj jeden a čtvrt kopu proti. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Dreiviertelrolle, gleicher Richtung eineinviertel negative Schnellrolle oben integriert. Ausstieg im Rückenflug."
     },
     "en": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Tonel de tres cuartos y, en la misma dirección, tonel rápido negativo de uno y cuarto integrado en la parte alta. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Trois-quarts de tonneau puis, dans le même sens, une vrille déclenchée négative et quart intégrée au sommet. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. שלושת רבעי גלגול ובאותו כיוון אחד ורבע סנאפ שלילי משולב בקודקוד. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Rollio di tre quarti seguito, nella stessa direzione, da vite negativa di un giro e un quarto integrata in cima. Uscita rovescia."
     },
     "label": "Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Driekwartrol, zelfde richting een en een kwart negatieve snaproll verwerkt bovenaan. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Tre fjerdedels rull, samme retning en og en kvart negativ snap roll integrert på toppen. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Trzy czwarte beczki, w tym samym kierunku beczka łamana ujemna jeden i ćwierć zintegrowana na górze. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. Três quartos de rolagem, na mesma direção um e um quarto de parafuso negativo integrado no topo. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+      "needs_translation": false,
+      "text": "Loop. 四分之三横滚接同方向顶部融合做一个又四分之一负螺旋滚。倒飞退出。"
     }
   },
   "p-loop-c6f4cf89": {
@@ -3677,148 +3677,148 @@
   "p-loop-d1260ccb": {
     "audio": "4003b7",
     "cs": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P lup. Jeden a čtvrt a proti dva z osmibodu na vstupu, nahoře integruj čtyřbod, na výletu třičtvrtě tlačeného kopu. Výlet záda napříč."
     },
     "de": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Eineinviertel Rollen, entgegengesetzt zwei von acht Punkten Rolle beim Einstieg, Vierpunktrolle oben integriert, negative Dreiviertel-Schnellrolle beim Ausstieg. Ausstieg im Rückenflug, quer zur Box."
     },
     "en": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box.",
     "es": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Tonel de uno y cuarto y, en sentido opuesto, dos de ocho puntos en la entrada, tonel de cuatro puntos integrado en la parte alta, tonel rápido negativo de tres cuartos en la salida. Salida invertida, cruzando la caja."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Un tonneau et quart puis, en sens opposé, deux de huit points de tonneau à l'entrée, tonneau à quatre points intégré au sommet, vrille déclenchée négative de trois-quarts à la sortie. Sortie sur le dos, en travers de la boîte."
     },
     "he": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. אחד ורבע גלגול ולאחריו בכיוון מנוגד שתיים משמונה נקודות עצירה של גלגול בכניסה, גלגול בארבע נקודות עצירה משולב בקודקוד, סנאפ שלילי של שלושת רבעי סיבוב ביציאה. יציאה הפוכה לרוחב התיבה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Rollio di un giro e un quarto seguito, in direzione opposta, da un rollio a otto tempi di un quarto di giro all'ingresso, rollio a quattro tempi integrato in cima, vite negativa di tre quarti all'uscita. Uscita rovescia, di traverso al box."
     },
     "label": "P Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Een en een kwart rol, tegengesteld twee van de acht punten rol bij de ingang, vierpuntsrol verwerkt bovenaan, negatieve driekwart snaproll bij de uitgang. Uitgang ondersteboven, dwars door de box."
     },
     "no": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. En og en kvart rull, motsatt to av åtte-punkts rull ved inngang, fire-punkts rull integrert på toppen, tre fjerdedels negativ snap roll ved utgang. Utgang på ryggen, på tvers av boksen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Jeden i ćwierć beczki, a w przeciwnym kierunku dwa z ośmiu punktów beczki na wejściu, przewrót czteropunktowy beczki zintegrowany na górze, beczka łamana ujemna trzy czwarte na wyjściu. Wyjście na grzbiecie, w poprzek pudełka."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. Um e um quarto de rolagem, em direção oposta dois de oito tempos de rolagem na entrada, rolagem em 4 tempos integrada no topo, três quartos de parafuso negativo na saída. Saída invertida, atravessando a caixa."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "P Loop. 进入时做一个又四分之一横滚接反向八分之一处两个横滚，顶部融合做四分之一处横滚，退出时做四分之三负螺旋滚。倒飞横穿航线箱退出。"
     }
   },
   "p-loop-fd0a703d": {
     "audio": "65160a",
     "cs": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P lup. Jeden a čtvrt a proti dva z osmibodu na vstupu, nahoře integruj čtyřbod, na výletu třičtvrtě tlačeného kopu a třičtvrtě proti. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Eineinviertel Rollen, entgegengesetzt zwei von acht Punkten Rolle beim Einstieg, Vierpunktrolle oben integriert, negative Dreiviertel-Schnellrolle, entgegengesetzte Dreiviertelrolle beim Ausstieg. Ausstieg im Rückenflug."
     },
     "en": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Tonel de uno y cuarto y, en sentido opuesto, dos de ocho puntos en la entrada, tonel de cuatro puntos integrado en la parte alta, tonel rápido negativo de tres cuartos y tonel opuesto de tres cuartos en la salida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Un tonneau et quart puis, en sens opposé, deux de huit points de tonneau à l'entrée, tonneau à quatre points intégré au sommet, vrille déclenchée négative de trois-quarts puis trois-quarts de tonneau opposé à la sortie. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. אחד ורבע גלגול ולאחריו בכיוון מנוגד שתיים משמונה נקודות עצירה של גלגול בכניסה, גלגול בארבע נקודות עצירה משולב בקודקוד, סנאפ שלילי של שלושת רבעי סיבוב ולאחריו שלושת רבעי גלגול בכיוון מנוגד ביציאה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Rollio di un giro e un quarto seguito, in direzione opposta, da un rollio a otto tempi di un quarto di giro all'ingresso, rollio a quattro tempi integrato in cima, vite negativa di tre quarti seguita da un rollio opposto di tre quarti all'uscita. Uscita rovescia."
     },
     "label": "P Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Een en een kwart rol, tegengesteld twee van de acht punten rol bij de ingang, vierpuntsrol verwerkt bovenaan, negatieve driekwart snaproll, tegengestelde driekwartrol bij de uitgang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. En og en kvart rull, motsatt to av åtte-punkts rull ved inngang, fire-punkts rull integrert på toppen, tre fjerdedels negativ snap roll, motsatt tre fjerdedels rull ved utgang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Jeden i ćwierć beczki, a w przeciwnym kierunku dwa z ośmiu punktów beczki na wejściu, przewrót czteropunktowy beczki zintegrowany na górze, beczka łamana ujemna trzy czwarte, a w przeciwnym kierunku trzy czwarte beczki na wyjściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. Um e um quarto de rolagem, em direção oposta dois de oito tempos de rolagem na entrada, rolagem em 4 tempos integrada no topo, três quartos de parafuso negativo seguidos de três quartos de rolagem oposta na saída. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "P Loop. 进入时做一个又四分之一横滚接反向八分之一处两个横滚，顶部融合做四分之一处横滚，退出时做四分之三负螺旋滚接反向四分之三横滚。倒飞退出。"
     }
   },
   "q-loop-6d0a1535": {
     "audio": "8b308b",
     "cs": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q lup. Nahoře integruj tažený kop."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Positive Schnellrolle oben integriert."
     },
     "en": "Q Loop. Positive snap integrated at the top.",
     "es": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Tonel rápido positivo integrado en la parte alta."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Vrille déclenchée positive intégrée au sommet."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. סנאפ חיובי משולב בקודקוד."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Vite positiva integrata in cima."
     },
     "label": "Q Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Positieve snaproll verwerkt bovenaan."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Positiv snap roll integrert på toppen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Beczka łamana dodatnia zintegrowana na górze."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. Parafuso positivo integrado no topo."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Q Loop. Positive snap integrated at the top."
+      "needs_translation": false,
+      "text": "Q Loop. 顶部融合做正螺旋滚。"
     }
   },
   "q-loop-8fb90c0b": {
@@ -4314,50 +4314,50 @@
   "reverse-cuban-56cc47f4": {
     "audio": "14f100",
     "cs": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Obrácená Kuba. Půlka a stejný směr tažený kop na vstupu, na výletu jeden a půl."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Halbe Rolle, gleicher Richtung positive Schnellrolle beim Einstieg, anderthalb Rollen beim Ausstieg."
     },
     "en": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Medio tonel y, en la misma dirección, tonel rápido positivo en la entrada, tonel de uno y medio en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Demi-tonneau puis, dans le même sens, vrille déclenchée positive à l'entrée, un tonneau et demi à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. חצי גלגול ובאותו כיוון סנאפ חיובי בכניסה, אחד וחצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Mezzo rollio seguito, nella stessa direzione, da vite positiva all'ingresso, rollio di un giro e mezzo all'uscita."
     },
     "label": "Reverse Cuban",
     "nl": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Halve rol, zelfde richting positieve snaproll bij de ingang, anderhalve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Halv rull, samme retning positiv snap roll ved inngang, en og en halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Pół beczki, w tym samym kierunku beczka łamana dodatnia na wejściu, jeden i pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. Meia rolagem, na mesma direção parafuso positivo na entrada, um e meio de rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+      "needs_translation": false,
+      "text": "Reverse Cuban. 二分之一横滚接同方向正螺旋滚于进入时，退出时做一个又二分之一横滚。"
     }
   },
   "reverse-half-cuban-efc78948": {
@@ -4510,197 +4510,197 @@
   "reverse-sharks-tooth-70356bd9": {
     "audio": "dd2954",
     "cs": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Obrácený zub. V 45 nahoru celý."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Ganze Rolle auf der 45-Grad-Aufwärtslinie."
     },
     "en": "Reverse Sharks Tooth. Full roll on the 45 upline.",
     "es": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Tonel completo en la línea de subida a 45."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Tonneau complet sur la montée à 45 degrés."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. גלגול מלא על קו העלייה ב-45 מעלות."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Rollio completo sulla salita a 45°."
     },
     "label": "Reverse Sharks Tooth",
     "nl": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Volledige rol op de 45 graden stijglijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Full rull på 45 graders stigelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Pełna beczka na linii wznoszącej 45 stopni."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Rolagem completa na linha ascendente de 45."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. 四十五度上升线上做一个整横滚。"
     }
   },
   "reverse-sharks-tooth-be166232": {
     "audio": "3d4bae",
     "cs": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Obrácený zub. Půlka na vstupu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Halbe Rolle beim Einstieg."
     },
     "en": "Reverse Sharks Tooth. Half roll on entry.",
     "es": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Medio tonel en la entrada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Demi-tonneau à l'entrée."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. חצי גלגול בכניסה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Mezzo rollio all'ingresso."
     },
     "label": "Reverse Sharks Tooth",
     "nl": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Halve rol bij de ingang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Halv rull ved inngang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Pół beczki na wejściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. Meia rolagem na entrada."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Reverse Sharks Tooth. Half roll on entry."
+      "needs_translation": false,
+      "text": "Reverse Sharks Tooth. 进入时做二分之一横滚。"
     }
   },
   "reversing-loop-0b03d754": {
     "audio": "43475d",
     "cs": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Obrácený přemet. Na vstupu jeden a půl, nahoře tažený kop, na výletu čtyřbod. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Anderthalb Rollen beim Einstieg, positive Schnellrolle oben, Vierpunktrolle beim Ausstieg. Ausstieg im Rückenflug."
     },
     "en": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Tonel de uno y medio en la entrada, tonel rápido positivo en la parte alta, tonel de cuatro puntos en la salida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Un tonneau et demi à l'entrée, vrille déclenchée positive au sommet, tonneau à quatre points à la sortie. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. אחד וחצי גלגול בכניסה, סנאפ חיובי בקודקוד, גלגול בארבע נקודות עצירה ביציאה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Rollio di un giro e mezzo all'ingresso, vite positiva in cima, rollio a quattro tempi all'uscita. Uscita rovescia."
     },
     "label": "Reversing Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Anderhalve rol bij de ingang, positieve snaproll bovenaan, vierpuntsrol bij de uitgang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. En og en halv rull ved inngang, positiv snap roll på toppen, fire-punkts rull ved utgang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Jeden i pół beczki na wejściu, beczka łamana dodatnia na górze, przewrót czteropunktowy beczki na wyjściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. Um e meio de rolagem na entrada, parafuso positivo no topo, rolagem em 4 tempos na saída. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Reversing Loop. 进入时做一个又二分之一横滚，顶部做正螺旋滚，退出时做四分之一处横滚。倒飞退出。"
     }
   },
   "reversing-loop-ce08465b": {
     "audio": "a7191c",
     "cs": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Obrácený přemet. Tažený kop na vstupu, na výletu čtyři z osmibodu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Positive Schnellrolle beim Einstieg, vier von acht Punkten Rolle beim Ausstieg."
     },
     "en": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Tonel rápido positivo en la entrada, cuatro de ocho puntos en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Vrille déclenchée positive à l'entrée, quatre de huit points de tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. סנאפ חיובי בכניסה, ארבע משמונה נקודות עצירה של גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Vite positiva all'ingresso, rollio a otto tempi di mezzo giro all'uscita."
     },
     "label": "Reversing Loop",
     "nl": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Positieve snaproll bij de ingang, vier van de acht punten rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Positiv snap roll ved inngang, fire av åtte-punkts rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Beczka łamana dodatnia na wejściu, cztery z ośmiu punktów beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. Parafuso positivo na entrada, quatro de oito tempos de rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+      "needs_translation": false,
+      "text": "Reversing Loop. 进入时做正螺旋滚，退出时八分之一处做四个横滚。"
     }
   },
   "roll-28432ff9": {
@@ -4755,50 +4755,50 @@
   "sharks-tooth-b20bed95": {
     "audio": "ffe578",
     "cs": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Zub. Jeden a čtvrt taženého kopu a proti čtvrtka nahoru, třičtvrtě kopu proti a stejný směr čtvrtka dolů."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Eineinviertel positive Schnellrolle, entgegengesetzt Viertelrolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle, gleicher Richtung Viertelrolle auf der Abwärtslinie."
     },
     "en": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline.",
     "es": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Tonel rápido positivo de uno y cuarto y, en sentido opuesto, cuarto de tonel en la línea de subida, tonel rápido negativo de tres cuartos y, en la misma dirección, cuarto de tonel en la línea de bajada."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Vrille déclenchée positive d'un tour et quart puis, en sens opposé, quart de tonneau sur la montée, vrille déclenchée négative de trois-quarts puis, dans le même sens, quart de tonneau sur la descente."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. אחד ורבע סנאפ חיובי ולאחריו בכיוון מנוגד רבע גלגול על קו העלייה, סנאפ שלילי של שלושת רבעי סיבוב ובאותו כיוון רבע גלגול על קו הירידה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Vite positiva di un giro e un quarto seguita, in direzione opposta, da un quarto di rollio sulla salita, vite negativa di tre quarti seguita, nella stessa direzione, da un quarto di rollio sulla discesa."
     },
     "label": "Sharks Tooth",
     "nl": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Een en een kwart positieve snaproll, tegengesteld kwartrol op de stijglijn, negatieve driekwart snaproll, zelfde richting kwartrol op de daallijn."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. En og en kvart positiv snap roll, motsatt kvart rull på stigelinjen, tre fjerdedels negativ snap roll, samme retning kvart rull på dykkelinjen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Beczka łamana dodatnia jeden i ćwierć, a w przeciwnym kierunku ćwierć beczki na linii wznoszącej, beczka łamana ujemna trzy czwarte, w tym samym kierunku ćwierć beczki na linii opadającej."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. Um e um quarto de parafuso positivo, em direção oposta um quarto de rolagem na linha ascendente, três quartos de parafuso negativo, na mesma direção um quarto de rolagem na linha descendente."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+      "needs_translation": false,
+      "text": "Sharks Tooth. 一个又四分之一正螺旋滚接反向上升线上四分之一横滚，四分之三负螺旋滚接同方向下降线上四分之一横滚。"
     }
   },
   "sharks-tooth-c145242c": {
@@ -4902,50 +4902,50 @@
   "spin-1929f147": {
     "audio": "a1b162",
     "cs": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Vývrtka normál. Jeden a půl do prostoru."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Eineinhalb Umdrehungen im Normalflug."
     },
     "en": "Spin. One and a half upright turns.",
     "es": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Una vuelta y media en posición normal."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Un tour et demi à l'endroit."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. אחד וחצי סיבובים ישרים."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Un giro e mezzo diritto."
     },
     "label": "Spin",
     "nl": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Anderhalve toer rechtop."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. En og en halv omdrei oppreist."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Jeden i pół obrotu w locie normalnym."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. Uma volta e meia normal."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Spin. One and a half upright turns."
+      "needs_translation": false,
+      "text": "Spin. 一个又二分之一正飞圈。"
     }
   },
   "spin-29d9456c": {
@@ -5098,99 +5098,99 @@
   "spin-bae82639": {
     "audio": "123c53",
     "cs": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Vývrtka normál. Dvě do prostoru."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Zwei Umdrehungen im Normalflug."
     },
     "en": "Spin. Two upright turns.",
     "es": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Dos vueltas en posición normal."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Deux tours à l'endroit."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. שני סיבובים ישרים."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Due giri diritto."
     },
     "label": "Spin",
     "nl": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Twee toeren rechtop."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. To omdrei oppreist."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Dwa obroty w locie normalnym."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. Duas voltas normais."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Spin. Two upright turns."
+      "needs_translation": false,
+      "text": "Spin. 两个正飞圈。"
     }
   },
   "spin-with-down-humpty-e8fad620": {
     "audio": "6612e8",
     "cs": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Vývrtka s taženou smyčkou. Jeden a půl do prostoru normál, tažený kop na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Eineinhalb Umdrehungen im Normalflug, positive Schnellrolle beim Ausstieg."
     },
     "en": "Spin with Down Humpty. One and a half upright turns, positive snap on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Una vuelta y media en posición normal, tonel rápido positivo en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Un tour et demi à l'endroit, vrille déclenchée positive à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. אחד וחצי סיבובים ישרים, סנאפ חיובי ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Un giro e mezzo diritto, vite positiva all'uscita."
     },
     "label": "Spin with Down Humpty",
     "nl": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Anderhalve toer rechtop, positieve snaproll bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. En og en halv omdrei oppreist, positiv snap roll ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Jeden i pół obrotu w locie normalnym, beczka łamana dodatnia na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. Uma volta e meia normal, parafuso positivo na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+      "needs_translation": false,
+      "text": "Spin with Down Humpty. 一个又二分之一正飞圈，退出时做正螺旋滚。"
     }
   },
   "split-s-2457d785": {
@@ -5294,50 +5294,50 @@
   "split-s-590a91f3": {
     "audio": "6151f8",
     "cs": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Půlené S. Jeden a půl kopu proti na vstupu, na výletu osmibod. Výlet záda."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Anderthalb negative Schnellrollen beim Einstieg, Achtpunktrolle beim Ausstieg. Ausstieg im Rückenflug."
     },
     "en": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted.",
     "es": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Uno y medio toneles rápidos negativos en la entrada, tonel de ocho puntos en la salida. Salida invertida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Une vrille déclenchée négative et demie à l'entrée, tonneau à huit points à la sortie. Sortie sur le dos."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. אחד וחצי סנאפ שלילי בכניסה, גלגול בשמונה נקודות עצירה ביציאה. יציאה הפוכה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Vite negativa di un giro e mezzo all'ingresso, rollio a otto tempi all'uscita. Uscita rovescia."
     },
     "label": "Split S",
     "nl": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Anderhalve negatieve snaproll bij de ingang, achtpuntsrol bij de uitgang. Uitgang ondersteboven."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. En og en halv negativ snap roll ved inngang, åtte-punkts rull ved utgang. Utgang på ryggen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Jeden i pół beczki łamanej ujemnej na wejściu, przewrót ośmiopunktowy beczki na wyjściu. Wyjście na grzbiecie."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. Um e meio de parafusos negativos na entrada, rolagem em 8 tempos na saída. Saída invertida."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+      "needs_translation": false,
+      "text": "Split S. 进入时做一个又二分之一负螺旋滚，退出时八分之一处做横滚。倒飞退出。"
     }
   },
   "tear-drop-46f78217": {
@@ -5441,50 +5441,50 @@
   "tear-drop-8596193d": {
     "audio": "662802",
     "cs": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Slza. Nahoru tři ze čtyřbodu a třičtvrtě proti, na výletu třičtvrtě tlačeného kopu. Výlet záda napříč."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Drei von vier Punkten Rolle, entgegengesetzte Dreiviertelrolle auf der Aufwärtslinie, negative Dreiviertel-Schnellrolle beim Ausstieg. Ausstieg im Rückenflug, quer zur Box."
     },
     "en": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box.",
     "es": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Tres de cuatro puntos y tonel opuesto de tres cuartos en la línea de subida, tonel rápido negativo de tres cuartos en la salida. Salida invertida, cruzando la caja."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Trois de quatre points de tonneau puis trois-quarts de tonneau opposé sur la montée, vrille déclenchée négative de trois-quarts à la sortie. Sortie sur le dos, en travers de la boîte."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. שלוש מארבע נקודות עצירה של גלגול ולאחריו שלושת רבעי גלגול בכיוון מנוגד על קו העלייה, סנאפ שלילי של שלושת רבעי סיבוב ביציאה. יציאה הפוכה לרוחב התיבה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Rollio a quattro tempi di tre quarti di giro, quindi rollio opposto di tre quarti sulla salita, vite negativa di tre quarti all'uscita. Uscita rovescia, di traverso al box."
     },
     "label": "Tear Drop",
     "nl": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Drie van de vier punten rol, tegengestelde driekwartrol op de stijglijn, negatieve driekwart snaproll bij de uitgang. Uitgang ondersteboven, dwars door de box."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Tre av fire-punkts rull, motsatt tre fjerdedels rull på stigelinjen, tre fjerdedels negativ snap roll ved utgang. Utgang på ryggen, på tvers av boksen."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Trzy z czterech punktów beczki, a następnie trzy czwarte beczki w przeciwnym kierunku na linii wznoszącej, beczka łamana ujemna trzy czwarte na wyjściu. Wyjście na grzbiecie, w poprzek pudełka."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. Três de quatro tempos de rolagem seguidos de três quartos de rolagem oposta na linha ascendente, três quartos de parafuso negativo na saída. Saída invertida, atravessando a caixa."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+      "needs_translation": false,
+      "text": "Tear Drop. 上升线上四分之一处做三个横滚接反向四分之三横滚，退出时做四分之三负螺旋滚。倒飞横穿航线箱退出。"
     }
   },
   "tear-drop-be0af6f7": {
@@ -5539,148 +5539,148 @@
   "tear-drop-c78a3007": {
     "audio": "341a31",
     "cs": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Slza. Nahoru dvoubod, půlka na výletu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Zweipunktrolle auf der Aufwärtslinie, halbe Rolle beim Ausstieg."
     },
     "en": "Tear Drop. Two-point roll on the upline, half roll on exit.",
     "es": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Tonel de dos puntos en la línea de subida, medio tonel en la salida."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Tonneau à deux points sur la montée, demi-tonneau à la sortie."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. גלגול בשתי נקודות עצירה על קו העלייה, חצי גלגול ביציאה."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Rollio a due tempi sulla salita, mezzo rollio all'uscita."
     },
     "label": "Tear Drop",
     "nl": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Tweepuntsrol op de stijglijn, halve rol bij de uitgang."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. To-punkts rull på stigelinjen, halv rull ved utgang."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Przewrót dwupunktowy beczki na linii wznoszącej, pół beczki na wyjściu."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. Rolagem em 2 tempos na linha ascendente, meia rolagem na saída."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+      "needs_translation": false,
+      "text": "Tear Drop. 上升线上做二分之一处横滚，退出时做二分之一横滚。"
     }
   },
   "vertical-down-line-3ceac9c6": {
     "audio": "d6995b",
     "cs": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Kolmo dolů. Třičtvrtě a čtvrtka proti."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Dreiviertelrolle, entgegengesetzte Viertelrolle."
     },
     "en": "Vertical Down Line. Three-quarter roll opposite quarter roll.",
     "es": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Tonel de tres cuartos y cuarto de tonel opuesto."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Trois-quarts de tonneau puis quart de tonneau opposé."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. שלושת רבעי גלגול ולאחריו רבע גלגול בכיוון מנוגד."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Rollio di tre quarti seguito da un quarto di rollio opposto."
     },
     "label": "Vertical Down Line",
     "nl": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Driekwartrol, tegengestelde kwartrol."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Tre fjerdedels rull, motsatt kvart rull."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Trzy czwarte beczki, a w przeciwnym kierunku ćwierć beczki."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Três quartos de rolagem seguidos de um quarto de rolagem oposta."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. 四分之三横滚接反向四分之一横滚。"
     }
   },
   "vertical-down-line-56aa6c36": {
     "audio": "db0910",
     "cs": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Kolmo dolů. Tři ze čtyřbodu."
     },
     "de": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Drei von vier Punkten Rolle."
     },
     "en": "Vertical Down Line. Three of four-point roll.",
     "es": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Tres de cuatro puntos."
     },
     "fr": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Trois de quatre points de tonneau."
     },
     "he": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. שלוש מארבע נקודות עצירה של גלגול."
     },
     "it": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Rollio a quattro tempi di tre quarti di giro."
     },
     "label": "Vertical Down Line",
     "nl": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Drie van de vier punten rol."
     },
     "no": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Tre av fire-punkts rull."
     },
     "pl": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Trzy z czterech punktów beczki."
     },
     "pt-br": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. Três de quatro tempos de rolagem."
     },
     "zh-cn": {
-      "needs_translation": true,
-      "text": "Vertical Down Line. Three of four-point roll."
+      "needs_translation": false,
+      "text": "Vertical Down Line. 四分之一处做三个横滚。"
     }
   },
   "vertical-down-line-f664794d": {
@@ -5735,49 +5735,49 @@
   "vertical-downline-95a05bec": {
     "audio": "a87d7e",
     "cs": {
-      "needs_translation": true,
-      "text": "Vertical Downline."
+      "needs_translation": false,
+      "text": "Kolmo dolů. Výlet normál."
     },
     "de": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "en": "Vertical Downline.",
     "es": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "fr": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "he": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "it": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "label": "Vertical Downline",
     "nl": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "no": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "pl": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "pt-br": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     },
     "zh-cn": {
-      "needs_translation": true,
+      "needs_translation": false,
       "text": "Vertical Downline."
     }
   },
