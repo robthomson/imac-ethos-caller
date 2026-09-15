@@ -1,4 +1,53 @@
 {
+  "1-1-2-spin-with-down-hum-534a841b": {
+    "audio": "8ea8fa",
+    "cs": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "en": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "label": "1-1/2 Spin with Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "One and a Half Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    }
+  },
   "180-inverted-turn-fca74fc8": {
     "audio": "b165d2",
     "cs": {
@@ -146,6 +195,104 @@
       "text": "270 Roller. 内筋斗中做三个整横滚。"
     }
   },
+  "270-roller-771cd916": {
+    "audio": "d1e8b6",
+    "cs": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "en": "270 Roller. Three full rolls inside. Exit upright cross box.",
+    "es": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "label": "270 Roller",
+    "nl": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "270 Roller. Three full rolls inside. Exit upright cross box."
+    }
+  },
+  "360-roller-c8fd37e5": {
+    "audio": "07d57c",
+    "cs": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "en": "360 Roller. Full roll outside, full roll inside. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "label": "360 Roller",
+    "nl": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "360 Roller. Full roll outside, full roll inside. Exit inverted."
+    }
+  },
   "45-downline-9fdb799f": {
     "audio": "33df59",
     "cs": {
@@ -242,6 +389,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "90 Degree Roller. 内筋斗中做一个整横滚，倒飞退出。"
+    }
+  },
+  "90-roller-409ad111": {
+    "audio": "788a52",
+    "cs": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "en": "90 Roller. Full roll inside. Exit inverted cross box.",
+    "es": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "label": "90 Roller",
+    "nl": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "90 Roller. Full roll inside. Exit inverted cross box."
     }
   },
   "bow-tie-a0d18cb9": {
@@ -342,6 +538,55 @@
       "text": "Double Humpty. 下降线上做二分之一横滚，外筋斗，上升线上做四分之三正螺旋滚，倒飞退出。"
     }
   },
+  "double-humpty-869cfe42": {
+    "audio": "6d4483",
+    "cs": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "en": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "label": "Double Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Double Humpty. Half roll opposite two of four-point roll on the downline, three-quarter roll opposite quarter roll on exit."
+    }
+  },
   "double-humpty-d8156fd4": {
     "audio": "5afbfd",
     "cs": {
@@ -440,6 +685,104 @@
       "text": "Down Fig N. 四十五度上升线上做两个整横滚。"
     }
   },
+  "down-humpty-13b0db35": {
+    "audio": "69aa05",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "en": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "label": "Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down Humpty. Quarter roll same direction one and a quarter positive snap on entry, negative snap opposite positive snap on exit. Exit inverted."
+    }
+  },
+  "down-humpty-550b2ac9": {
+    "audio": "db1be6",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "en": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "label": "Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns, four of eight-point roll on exit. Exit inverted cross box."
+    }
+  },
   "down-humpty-95e6a404": {
     "audio": "7843ae",
     "cs": {
@@ -487,6 +830,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Down Humpty. 下降线上做两个四分之一横滚，上升线上做一个整横滚。"
+    }
+  },
+  "down-humpty-98f5e721": {
+    "audio": "324135",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "en": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "label": "Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down Humpty. One and a quarter turns opposite three-quarter negative snap, four of eight-point roll on exit. Exit inverted."
     }
   },
   "down-humpty-bump-c7629585": {
@@ -587,6 +979,153 @@
       "text": "Down Loop. 外筋斗，反向四分之三横滚，底部做一个又四分之三正螺旋滚。"
     }
   },
+  "down-p-loop-5087958a": {
+    "audio": "74adbe",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "en": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "label": "Down P Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down P Loop. Three of four-point roll opposite three-quarter roll on entry."
+    }
+  },
+  "down-q-loop-157cef3c": {
+    "audio": "49801d",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "en": "Down Q Loop. Negative snap on entry. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "label": "Down Q Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Negative snap on entry. Exit inverted."
+    }
+  },
+  "down-q-loop-5243a46d": {
+    "audio": "48017f",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "en": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "label": "Down Q Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down Q Loop. Three of four-point roll same direction one and three-quarter positive snaps on entry, one and a half negative snaps on exit."
+    }
+  },
   "down-sharks-tooth-964556f5": {
     "audio": "6410d4",
     "cs": {
@@ -685,6 +1224,55 @@
       "text": "Down Sharks Tooth. 进入时做两圈正螺旋。"
     }
   },
+  "down-tear-drop-f588f840": {
+    "audio": "abcd26",
+    "cs": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "en": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "label": "Down Tear Drop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Down Tear Drop. One and a half upright turns, four-point roll on exit. Exit inverted."
+    }
+  },
   "fig-n-bf2b0a3d": {
     "audio": "9e2926",
     "cs": {
@@ -732,6 +1320,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Fig N. 倒飞四十五度下降线上做二分之一处二分之一横滚，倒飞退出。"
+    }
+  },
+  "fig-p-5a1f0cd1": {
+    "audio": "52d04f",
+    "cs": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "en": "Fig P. Two-point roll on entry, half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "label": "Fig P",
+    "nl": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Fig P. Two-point roll on entry, half roll on exit."
     }
   },
   "fig-p-958a6404": {
@@ -830,6 +1467,104 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Goldfish. 四十五度上升线上做两个四分之一横滚。"
+    }
+  },
+  "half-cuban-2d6f6a7c": {
+    "audio": "705bd0",
+    "cs": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "en": "Half Cuban. Full roll on entry, half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "label": "Half Cuban",
+    "nl": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Half Cuban. Full roll on entry, half roll on exit."
+    }
+  },
+  "half-cuban-5b82cdf8": {
+    "audio": "1d04f3",
+    "cs": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "en": "Half Cuban. Two of four-point roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "label": "Half Cuban",
+    "nl": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Half Cuban. Two of four-point roll on exit."
     }
   },
   "half-cuban-85915bfc": {
@@ -1077,6 +1812,104 @@
       "text": "Half Reverse Cuban. 四十五度上升线上做四分之一处五个横滚，接反向四分之一横滚，内筋斗，退出时做一个又四分之三正螺旋滚，接反向四分之一处三个横滚。"
     }
   },
+  "half-reverse-cuban-ab0eba9e": {
+    "audio": "7b0fe9",
+    "cs": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "en": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "label": "Half Reverse Cuban",
+    "nl": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Half Reverse Cuban. Two of four-point roll on the upline. Exit inverted."
+    }
+  },
+  "hammer-head-9d8c2dd2": {
+    "audio": "55a394",
+    "cs": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "en": "Hammerhead. Quarter roll on the upline, quarter roll on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "label": "Hammer Head",
+    "nl": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Hammerhead. Quarter roll on the upline, quarter roll on the downline."
+    }
+  },
   "hammerhead-1f1567df": {
     "audio": "af6f8e",
     "cs": {
@@ -1224,6 +2057,55 @@
       "text": "Hammerhead. 上升线上做四分之一处二分之一横滚，下降线上做四分之三负螺旋滚接四分之三横滚。"
     }
   },
+  "hammerhead-4d9a0215": {
+    "audio": "5dc8d3",
+    "cs": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "en": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Hammerhead. One and a quarter roll on the upline, three of four-point roll on the downline."
+    }
+  },
   "hammerhead-91769321": {
     "audio": "6e38a2",
     "cs": {
@@ -1271,6 +2153,104 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Hammerhead. 推杆进入，上升线上做二分之一横滚，下降线上做二分之一处二分之一横滚，推杆至四十五度并做二分之一横滚退出。"
+    }
+  },
+  "hammerhead-9423d18a": {
+    "audio": "f3324c",
+    "cs": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "en": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap opposite two of eight-point roll on the upline, half positive snap on the downline. Exit inverted."
+    }
+  },
+  "hammerhead-cca1d8e4": {
+    "audio": "543ef4",
+    "cs": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "en": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "label": "Hammerhead",
+    "nl": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Hammerhead. Three-quarter negative snap on the upline, one and a quarter rolls on the downline. Exit inverted."
     }
   },
   "hammerhead-f3222b9a": {
@@ -1322,6 +2302,202 @@
       "text": "Hammerhead. 上升线上做二分之一横滚，下降线上做二分之一横滚。"
     }
   },
+  "humpty-06cf4d52": {
+    "audio": "77fcb7",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "en": "Humpty. Half roll on the upline, full roll on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. Half roll on the upline, full roll on the downline."
+    }
+  },
+  "humpty-79c55f1e": {
+    "audio": "63e99e",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "en": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. Five of four-point roll on the upline, three-quarter negative snap same direction two of four-point roll on the downline."
+    }
+  },
+  "humpty-a8212fb3": {
+    "audio": "5e3c3e",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "en": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. One and a half rolls on the upline, one and a half positive snaps on the downline."
+    }
+  },
+  "humpty-ba9b7ffa": {
+    "audio": "2cbb71",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "en": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, one and a quarter negative snaps on the downline."
+    }
+  },
   "humpty-bump-49898ee5": {
     "audio": "0e1c80",
     "cs": {
@@ -1369,6 +2545,153 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Humpty Bump. 上升线上做二分之一横滚，下降线上做二分之一横滚。"
+    }
+  },
+  "humpty-bump-6ccdb757": {
+    "audio": "f6f356",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "en": "Humpty Bump.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "label": "Humpty Bump",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty Bump."
+    }
+  },
+  "humpty-cbd5240c": {
+    "audio": "a0ea55",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "en": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. Three of two-point roll on the upline, full roll same direction negative snap on the downline."
+    }
+  },
+  "humpty-cf450f3b": {
+    "audio": "c46f96",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "en": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite quarter roll on exit."
     }
   },
   "humpty-e1786de6": {
@@ -1420,6 +2743,153 @@
       "text": "Humpty. 上升线上做二分之一处二分之一横滚，接反向一个又二分之一正螺旋滚，下降线上做一个又四分之一横滚，正飞退出。"
     }
   },
+  "humpty-eb49139e": {
+    "audio": "7a72d8",
+    "cs": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "en": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "label": "Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Humpty. Two-point roll on the upline, two of eight-point roll opposite half roll on exit."
+    }
+  },
+  "immelmann-0c494ff6": {
+    "audio": "5ab88c",
+    "cs": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "en": "Immelmann. Half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "label": "Immelmann",
+    "nl": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Immelmann. Half roll on exit."
+    }
+  },
+  "immelmann-233ca6cb": {
+    "audio": "d674a2",
+    "cs": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "en": "Immelmann. Three of two-point roll on entry, positive snap on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "label": "Immelmann",
+    "nl": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Immelmann. Three of two-point roll on entry, positive snap on exit."
+    }
+  },
   "immelmann-2da1159a": {
     "audio": "df36d6",
     "cs": {
@@ -1467,6 +2937,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Immelmann. 进入时做一个又四分之三横滚，接反向四分之三正螺旋滚，外筋斗，反向整横滚，退出时做整横滚。"
+    }
+  },
+  "immelmann-6739891a": {
+    "audio": "7c31f1",
+    "cs": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "en": "Immelmann. Four of two-point roll on entry, half negative snap on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "label": "Immelmann",
+    "nl": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Immelmann. Four of two-point roll on entry, half negative snap on exit."
     }
   },
   "immelmann-a5bf0b3d": {
@@ -1518,6 +3037,153 @@
       "text": "Immelmann. 顶部做二分之一横滚。"
     }
   },
+  "immelmann-e56df2ac": {
+    "audio": "8b6d37",
+    "cs": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "en": "Immelmann. Positive snap on entry, half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "label": "Immelmann",
+    "nl": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Immelmann. Positive snap on entry, half roll on exit."
+    }
+  },
+  "lay-down-humpty-2e4c9d33": {
+    "audio": "f1699d",
+    "cs": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "en": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "label": "Lay Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Three-quarter positive snap opposite three-quarter roll on entry, one and a half positive snaps on exit."
+    }
+  },
+  "lay-down-humpty-d0142578": {
+    "audio": "4d71fc",
+    "cs": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "en": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "label": "Lay Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Lay Down Humpty. Two of four-point roll same direction positive snap on entry, one and a half negative snaps on exit."
+    }
+  },
   "laydown-humpty-1c72a6c9": {
     "audio": "e32c7d",
     "cs": {
@@ -1565,6 +3231,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Laydown Humpty. 下降线上做一个整横滚，上升线上做二分之一处横滚。"
+    }
+  },
+  "laydown-humpty-e52ca154": {
+    "audio": "7b2e8a",
+    "cs": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "en": "Laydown Humpty. Half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "label": "Laydown Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Laydown Humpty. Half roll on exit."
     }
   },
   "laydown-s-e5765e5a": {
@@ -1665,6 +3380,104 @@
       "text": "Loop. 倒飞进入，顶部做四分之三接一个反向横滚，正飞退出。"
     }
   },
+  "loop-398863ad": {
+    "audio": "6b79fc",
+    "cs": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "en": "Loop. One and a half positive snaps integrated at the top.",
+    "es": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "label": "Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Loop. One and a half positive snaps integrated at the top."
+    }
+  },
+  "loop-547e4fdf": {
+    "audio": "12a635",
+    "cs": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "en": "Loop. Four of eight-point roll integrated at the top. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "label": "Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Loop. Four of eight-point roll integrated at the top. Exit inverted."
+    }
+  },
   "loop-6c260463": {
     "audio": "ceaecb",
     "cs": {
@@ -1714,6 +3527,104 @@
       "text": "Loop."
     }
   },
+  "loop-8077bfad": {
+    "audio": "646afc",
+    "cs": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "en": "Loop. Full roll integrated at the top.",
+    "es": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "label": "Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Loop. Full roll integrated at the top."
+    }
+  },
+  "loop-dd3314dd": {
+    "audio": "d9f044",
+    "cs": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "en": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "label": "Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Loop. Three-quarter roll same direction one and a quarter negative snap integrated at the top. Exit inverted."
+    }
+  },
   "p-loop-c6f4cf89": {
     "audio": "ded186",
     "cs": {
@@ -1761,6 +3672,153 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "P Loop. 进入时做两个整横滚，四分之三内筋斗，下降线上做四分之一横滚，正飞退出。"
+    }
+  },
+  "p-loop-d1260ccb": {
+    "audio": "4003b7",
+    "cs": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "en": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box.",
+    "es": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "label": "P Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap on exit. Exit inverted cross box."
+    }
+  },
+  "p-loop-fd0a703d": {
+    "audio": "65160a",
+    "cs": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "en": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "label": "P Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "P Loop. One and a quarter roll opposite two of eight-point roll on entry, four-point roll integrated at the top, three-quarter negative snap opposite three-quarter roll on exit. Exit inverted."
+    }
+  },
+  "q-loop-6d0a1535": {
+    "audio": "8b308b",
+    "cs": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "en": "Q Loop. Positive snap integrated at the top.",
+    "es": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "label": "Q Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Q Loop. Positive snap integrated at the top."
     }
   },
   "q-loop-8fb90c0b": {
@@ -2253,6 +4311,55 @@
       "text": "Unlimited 航线重置。"
     }
   },
+  "reverse-cuban-56cc47f4": {
+    "audio": "14f100",
+    "cs": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "en": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "label": "Reverse Cuban",
+    "nl": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Reverse Cuban. Half roll same direction positive snap on entry, one and a half rolls on exit."
+    }
+  },
   "reverse-half-cuban-efc78948": {
     "audio": "9a82e1",
     "cs": {
@@ -2400,6 +4507,202 @@
       "text": "Reverse Laydown Humpty. 上升线上做一个又二分之一横滚，下降线上做二分之一处横滚，倒飞退出。"
     }
   },
+  "reverse-sharks-tooth-70356bd9": {
+    "audio": "dd2954",
+    "cs": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "en": "Reverse Sharks Tooth. Full roll on the 45 upline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "label": "Reverse Sharks Tooth",
+    "nl": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Full roll on the 45 upline."
+    }
+  },
+  "reverse-sharks-tooth-be166232": {
+    "audio": "3d4bae",
+    "cs": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "en": "Reverse Sharks Tooth. Half roll on entry.",
+    "es": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "label": "Reverse Sharks Tooth",
+    "nl": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Reverse Sharks Tooth. Half roll on entry."
+    }
+  },
+  "reversing-loop-0b03d754": {
+    "audio": "43475d",
+    "cs": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "en": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "label": "Reversing Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Reversing Loop. One and a half rolls on entry, positive snap at the top, four-point roll on exit. Exit inverted."
+    }
+  },
+  "reversing-loop-ce08465b": {
+    "audio": "a7191c",
+    "cs": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "en": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "label": "Reversing Loop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Reversing Loop. Positive snap on entry, four of eight-point roll on exit."
+    }
+  },
   "roll-28432ff9": {
     "audio": "e673a1",
     "cs": {
@@ -2447,6 +4750,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Roll."
+    }
+  },
+  "sharks-tooth-b20bed95": {
+    "audio": "ffe578",
+    "cs": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "en": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "label": "Sharks Tooth",
+    "nl": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Sharks Tooth. One and a quarter positive snap opposite quarter roll on the upline, three-quarter negative snap same direction quarter roll on the downline."
     }
   },
   "sharks-tooth-c145242c": {
@@ -2545,6 +4897,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Sharks Tooth. 上升线上做六分之一处四分之三横滚，接四分之三正螺旋滚，下降线上做三分之一处四分之三横滚，接反向四分之三横滚。"
+    }
+  },
+  "spin-1929f147": {
+    "audio": "a1b162",
+    "cs": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "en": "Spin. One and a half upright turns.",
+    "es": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "label": "Spin",
+    "nl": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Spin. One and a half upright turns."
     }
   },
   "spin-29d9456c": {
@@ -2694,6 +5095,104 @@
       "text": "Spin. 一个又四分之三倒飞圈，同方向做二分之一处四分之一横滚，拉杆至正飞退出。"
     }
   },
+  "spin-bae82639": {
+    "audio": "123c53",
+    "cs": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "en": "Spin. Two upright turns.",
+    "es": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "label": "Spin",
+    "nl": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Spin. Two upright turns."
+    }
+  },
+  "spin-with-down-humpty-e8fad620": {
+    "audio": "6612e8",
+    "cs": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "en": "Spin with Down Humpty. One and a half upright turns, positive snap on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "label": "Spin with Down Humpty",
+    "nl": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Spin with Down Humpty. One and a half upright turns, positive snap on exit."
+    }
+  },
   "split-s-2457d785": {
     "audio": "20f5b2",
     "cs": {
@@ -2790,6 +5289,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Split S. 进入时做二分之一横滚，退出时做正螺旋滚。"
+    }
+  },
+  "split-s-590a91f3": {
+    "audio": "6151f8",
+    "cs": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "en": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted.",
+    "es": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "label": "Split S",
+    "nl": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Split S. One and a half negative snaps on entry, eight-point roll on exit. Exit inverted."
     }
   },
   "tear-drop-46f78217": {
@@ -2890,6 +5438,55 @@
       "text": "Tear Drop. 二分之一处四分之一横滚，反向上升线上做一个又四分之一横滚，内筋斗，整横滚，下降线上做反向负螺旋滚，倒飞退出。"
     }
   },
+  "tear-drop-8596193d": {
+    "audio": "662802",
+    "cs": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "en": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box.",
+    "es": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "label": "Tear Drop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Tear Drop. Three of four-point roll opposite three-quarter roll on the upline, three-quarter negative snap on exit. Exit inverted cross box."
+    }
+  },
   "tear-drop-be0af6f7": {
     "audio": "a7e703",
     "cs": {
@@ -2939,6 +5536,153 @@
       "text": "Tear Drop. 二分之一处四分之一横滚，反向上升线上做一个又四分之一横滚，内筋斗，整横滚，下降线上做反向四分之三负螺旋滚，倒飞退出。"
     }
   },
+  "tear-drop-c78a3007": {
+    "audio": "341a31",
+    "cs": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "en": "Tear Drop. Two-point roll on the upline, half roll on exit.",
+    "es": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "label": "Tear Drop",
+    "nl": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Tear Drop. Two-point roll on the upline, half roll on exit."
+    }
+  },
+  "vertical-down-line-3ceac9c6": {
+    "audio": "d6995b",
+    "cs": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "en": "Vertical Down Line. Three-quarter roll opposite quarter roll.",
+    "es": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "label": "Vertical Down Line",
+    "nl": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three-quarter roll opposite quarter roll."
+    }
+  },
+  "vertical-down-line-56aa6c36": {
+    "audio": "db0910",
+    "cs": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "en": "Vertical Down Line. Three of four-point roll.",
+    "es": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "label": "Vertical Down Line",
+    "nl": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Vertical Down Line. Three of four-point roll."
+    }
+  },
   "vertical-down-line-f664794d": {
     "audio": "7bf888",
     "cs": {
@@ -2986,6 +5730,55 @@
     "zh-cn": {
       "needs_translation": false,
       "text": "Vertical Down Line. 四分之一处二分之一横滚。"
+    }
+  },
+  "vertical-downline-95a05bec": {
+    "audio": "a87d7e",
+    "cs": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "de": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "en": "Vertical Downline.",
+    "es": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "fr": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "he": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "it": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "label": "Vertical Downline",
+    "nl": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "no": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "pl": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "pt-br": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
+    },
+    "zh-cn": {
+      "needs_translation": true,
+      "text": "Vertical Downline."
     }
   },
   "vertical-upline-d8766cad": {

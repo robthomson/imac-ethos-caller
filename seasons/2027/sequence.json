@@ -1,0 +1,141 @@
+{
+  "classes": [
+    {
+      "figures": [
+        "immelmann-0c494ff6",
+        "vertical-downline-95a05bec",
+        "hammerhead-34648bf1",
+        "humpty-bump-6ccdb757",
+        "half-cuban-2d6f6a7c",
+        "laydown-humpty-e52ca154",
+        "reverse-sharks-tooth-be166232",
+        "loop-6c260463",
+        "vertical-upline-d8766cad",
+        "spin-1929f147"
+      ],
+      "key": "basic",
+      "name": "Basic",
+      "reset": "reset-basic-8f5c0bd2"
+    },
+    {
+      "figures": [
+        "q-loop-6d0a1535",
+        "fig-p-5a1f0cd1",
+        "hammer-head-9d8c2dd2",
+        "humpty-06cf4d52",
+        "loop-8077bfad",
+        "tear-drop-c78a3007",
+        "reverse-sharks-tooth-70356bd9",
+        "immelmann-e56df2ac",
+        "spin-bae82639",
+        "half-cuban-5b82cdf8"
+      ],
+      "key": "sport",
+      "name": "Sportsman",
+      "reset": "reset-sport-8b330e32"
+    },
+    {
+      "figures": [
+        "down-q-loop-157cef3c",
+        "down-p-loop-5087958a",
+        "double-humpty-869cfe42",
+        "loop-547e4fdf",
+        "90-roller-409ad111",
+        "humpty-eb49139e",
+        "hammerhead-4d9a0215",
+        "immelmann-233ca6cb",
+        "down-tear-drop-f588f840",
+        "reverse-cuban-56cc47f4"
+      ],
+      "key": "inter",
+      "name": "Intermediate",
+      "reset": "reset-inter-7fef0d50"
+    },
+    {
+      "figures": [
+        "down-q-loop-157cef3c",
+        "down-p-loop-5087958a",
+        "double-humpty-869cfe42",
+        "loop-547e4fdf",
+        "hammerhead-4d9a0215",
+        "humpty-cf450f3b",
+        "immelmann-233ca6cb",
+        "down-tear-drop-f588f840",
+        "reverse-cuban-56cc47f4",
+        "reversing-loop-ce08465b"
+      ],
+      "key": "ialt",
+      "name": "Intermediate ALT",
+      "reset": "reset-ialt-c8982ae3"
+    },
+    {
+      "figures": [
+        "loop-398863ad",
+        "tear-drop-8596193d",
+        "270-roller-771cd916",
+        "hammerhead-cca1d8e4",
+        "reversing-loop-0b03d754",
+        "lay-down-humpty-d0142578",
+        "immelmann-6739891a",
+        "down-humpty-550b2ac9",
+        "vertical-down-line-56aa6c36",
+        "humpty-79c55f1e"
+      ],
+      "key": "advan",
+      "name": "Advanced",
+      "reset": "reset-advan-e7dc8744"
+    },
+    {
+      "figures": [
+        "loop-398863ad",
+        "tear-drop-8596193d",
+        "half-reverse-cuban-ab0eba9e",
+        "hammerhead-cca1d8e4",
+        "reversing-loop-0b03d754",
+        "lay-down-humpty-d0142578",
+        "immelmann-6739891a",
+        "down-humpty-98f5e721",
+        "vertical-down-line-3ceac9c6",
+        "humpty-a8212fb3"
+      ],
+      "key": "aalt",
+      "name": "Advanced ALT",
+      "reset": "reset-aalt-3c5da9f0"
+    },
+    {
+      "figures": [
+        "down-q-loop-5243a46d",
+        "spin-with-down-humpty-e8fad620",
+        "down-humpty-13b0db35",
+        "split-s-590a91f3",
+        "hammerhead-9423d18a",
+        "360-roller-c8fd37e5",
+        "sharks-tooth-b20bed95",
+        "p-loop-d1260ccb",
+        "humpty-ba9b7ffa",
+        "lay-down-humpty-2e4c9d33"
+      ],
+      "key": "unlim",
+      "name": "Unlimited",
+      "reset": "reset-unlim-71fc1a67"
+    },
+    {
+      "figures": [
+        "down-q-loop-5243a46d",
+        "1-1-2-spin-with-down-hum-534a841b",
+        "down-humpty-13b0db35",
+        "split-s-590a91f3",
+        "hammerhead-9423d18a",
+        "loop-dd3314dd",
+        "sharks-tooth-b20bed95",
+        "p-loop-fd0a703d",
+        "humpty-cbd5240c",
+        "lay-down-humpty-2e4c9d33"
+      ],
+      "key": "ualt",
+      "name": "Unlimited ALT",
+      "reset": "reset-ualt-c024eaab"
+    }
+  ],
+  "year": "2027"
+}
